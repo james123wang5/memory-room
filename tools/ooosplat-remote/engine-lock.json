@@ -1,0 +1,24 @@
+{
+  "provider": "ooosplat-colmap-ooobrush",
+  "application": "OOOSplat",
+  "app_main_tree": "c00a09d81d0dbfe63bd167950ba6faa78ee1c8e1",
+  "recipe": "ordinary-images / exhaustive / balanced / automaticOptimizationOn",
+  "colmap": {
+    "version": "4.2.1",
+    "commit": "bd1fcf654d2dd8fefa1466999c190a246f83f4b9",
+    "runtime_archive_sha256": "99d3e586b554069ff8fc524430924886608505ba8337751783682fae9eadf88d"
+  },
+  "brush": {
+    "version": "ooo-v1.0.0",
+    "commit": "866a7d65b4d6a591ba0d52a88f8b20ea3465c1e5",
+    "runtime_archive_sha256": "eea89703d98b2fcc090309746ef4ef54271ef402c2b67e644ed7ac1390dcfb4e",
+    "headless_binary_sha256": "ca819f94716c04add531e69e5f6812a2d1e9a8cefbc2803da000d905d4fccb0a"
+  },
+  "adapter": "MemoryRoom Slurm/Enroot orchestration; no desktop GUI/editor/video/Caspar probe migration",
+  "source_urls": [
+    "https://github.com/ooolabdev/ooosplat/blob/main/src-tauri/src/engines/colmap.rs",
+    "https://github.com/ooolabdev/ooosplat/blob/main/src-tauri/src/engines/brush.rs",
+    "https://github.com/ooolabdev/ooosplat/blob/main/src-tauri/src/pipeline/runner.rs"
+  ],
+  "config_sha256": "17103bc993e10c13504a269c7ec6b11add6a9a37d6e2cc579f33489bb101c49f"
+}

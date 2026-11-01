@@ -1,0 +1,17 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "43C193C4-6275-4A10-B49A-9360305736E7",
+        "deviceName" : "iPhone 17 Pro",
+        "exportedFileName" : "93133E8C-71BA-4F69-AB32-D49F99AEFDF6.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "采集演练完成_0_D3BB9E66-5379-4F6D-BD6B-5D0BE49D25E7.png",
+        "timestamp" : 1792052268.639
+      }
+    ],
+    "testIdentifier" : "CaptureFlowTests/testDemoCaptureCanRegisterObjectAndExport()",
+    "testIdentifierURL" : "test://com.apple.xcode/MemoryRoomCapture/MemoryRoomCaptureUITests/CaptureFlowTests/testDemoCaptureCanRegisterObjectAndExport"
+  }
+]

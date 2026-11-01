@@ -1,0 +1,19 @@
+{
+  "source": "measured ARKit intrinsics, median across this capture; no ARKit poses used",
+  "capture_id": "1ebc5b7a-3127-4516-840b-53b61fb4ab1a",
+  "camera_model": "SIMPLE_RADIAL",
+  "image_size": [
+    1920,
+    1440
+  ],
+  "params": [
+    1357.5289306640625,
+    965.269287109375,
+    721.4376831054688,
+    0.0
+  ],
+  "per_frame_focal_range": [
+    1344.5452880859375,
+    1385.26220703125
+  ]
+}

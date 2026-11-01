@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "splats": 180000,
+  "checks": [
+    "Real captured room PLY loads via saved project",
+    "Capture viewpoint restored from portable scene package",
+    "W key changes camera position",
+    "Home restores initial camera position within 1e-9 m",
+    "Final 400000-Gaussian PLY loads and renders",
+    "Whole room remains static; no misleading item inspection action"
+  ],
+  "source": "arkit",
+  "simulated": false,
+  "limits": [
+    "Desktop Chrome only; not iPhone browser performance",
+    "Background room only; car not separated"
+  ],
+  "final_splats": 400000,
+  "final_project": "data/projects/iphone-first-refined.room.zip",
+  "final_model_bytes": 36800652
+}

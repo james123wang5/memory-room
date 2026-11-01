@@ -1,0 +1,53 @@
+// !$*UTF8*$!
+{
+ archiveVersion = 1; classes = {}; objectVersion = 56;
+ objects = {
+		FB444226925BA1712F516C04 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureGuidance.swift; sourceTree = "<group>";};
+		CFEA02416D9C5626D44B45E8 = {isa = PBXBuildFile; fileRef = FB444226925BA1712F516C04;};
+		1E62DC57F751D7F4D4A55125 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureModels.swift; sourceTree = "<group>";};
+		C097FF8923A7A4A16955AD69 = {isa = PBXBuildFile; fileRef = 1E62DC57F751D7F4D4A55125;};
+		77E59A02C25D5B31894FCAA2 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureSources.swift; sourceTree = "<group>";};
+		25734C96C3A0E03D27EEBF80 = {isa = PBXBuildFile; fileRef = 77E59A02C25D5B31894FCAA2;};
+		D13203BFBF2F576A5D951405 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureStore.swift; sourceTree = "<group>";};
+		37737D2E92FCAD62C228C1D1 = {isa = PBXBuildFile; fileRef = D13203BFBF2F576A5D951405;};
+		5339AE34457141B392F70268 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>";};
+		C2D988C0DDCBF458CB0B8E63 = {isa = PBXBuildFile; fileRef = 5339AE34457141B392F70268;};
+		56B1B4E12184FB847DF1A8CD = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryRoomCaptureApp.swift; sourceTree = "<group>";};
+		2EA2645266AD28A5F404B0F5 = {isa = PBXBuildFile; fileRef = 56B1B4E12184FB847DF1A8CD;};
+		BACDF787ADB1A65DCC8396C5 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureFlowTests.swift; sourceTree = "<group>";};
+		9D9051235D5BC0959E1B7D91 = {isa = PBXBuildFile; fileRef = BACDF787ADB1A65DCC8396C5;};
+		916DAF4D971B8C8F0F8B7224 = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MemoryRoomCapture.app; sourceTree = BUILT_PRODUCTS_DIR;};
+		09F7782A97DE6B4CEBAD8718 = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemoryRoomCaptureUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR;};
+		F8CE9C14525449182BD913BD = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>";};
+		10B4D814623905BB1CF36846 = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>";};
+		D4E2E6A13B2E1C78CF3B7C98 = {isa = PBXBuildFile; fileRef = 10B4D814623905BB1CF36846;};
+		B636DB952C0E02BEADC0AC8D = {isa = PBXGroup; children = (FB444226925BA1712F516C04, 1E62DC57F751D7F4D4A55125, 77E59A02C25D5B31894FCAA2, D13203BFBF2F576A5D951405, 5339AE34457141B392F70268, 56B1B4E12184FB847DF1A8CD, F8CE9C14525449182BD913BD, 10B4D814623905BB1CF36846,); path = MemoryRoomCapture; sourceTree = "<group>";};
+		11483F3817C50D224763AF97 = {isa = PBXGroup; children = (BACDF787ADB1A65DCC8396C5,); path = MemoryRoomCaptureUITests; sourceTree = "<group>";};
+		8AC43287979F1A578E6D8FED = {isa = PBXGroup; children = (916DAF4D971B8C8F0F8B7224, 09F7782A97DE6B4CEBAD8718,); name = Products; sourceTree = "<group>";};
+		263A9F575C79A0DC25CCD91F = {isa = PBXGroup; children = (B636DB952C0E02BEADC0AC8D, 11483F3817C50D224763AF97, 8AC43287979F1A578E6D8FED,); sourceTree = "<group>";};
+		EB387A52156FE77323E000CC = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (CFEA02416D9C5626D44B45E8, C097FF8923A7A4A16955AD69, 25734C96C3A0E03D27EEBF80, 37737D2E92FCAD62C228C1D1, C2D988C0DDCBF458CB0B8E63, 2EA2645266AD28A5F404B0F5,); runOnlyForDeploymentPostprocessing = 0;};
+		C4F20FE7E189D2B4B7E267AA = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (9D9051235D5BC0959E1B7D91,); runOnlyForDeploymentPostprocessing = 0;};
+		5D0B907607643432C1BBE87F = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (D4E2E6A13B2E1C78CF3B7C98,); runOnlyForDeploymentPostprocessing = 0;};
+		E23A8B9BBEA2F66F4170EEB1 = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0;};
+		36D3347644C1940446814B50 = {isa = XCRemoteSwiftPackageReference; repositoryURL = "https://github.com/weichsel/ZIPFoundation.git"; requirement = {kind = exactVersion; version = 0.9.20;};};
+		9BC73193B5EC879608DEA980 = {isa = XCSwiftPackageProductDependency; package = 36D3347644C1940446814B50; productName = ZIPFoundation;};
+		3A04B142088C72F6C40A7EF0 = {isa = PBXBuildFile; productRef = 9BC73193B5EC879608DEA980;};
+		5FA5CD262F8FD6271BEBF206 = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (3A04B142088C72F6C40A7EF0,); runOnlyForDeploymentPostprocessing = 0;};
+		84A502B855B589EC02E8813C = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0;};
+		426A91AD8C7444809462E959 = {isa = PBXContainerItemProxy; containerPortal = 3492E69B24396B68AFA225E6; proxyType = 1; remoteGlobalIDString = 3605B6823BB7C3956E800666; remoteInfo = MemoryRoomCapture;};
+		F1BE0F4B780D9F52BF93735C = {isa = PBXTargetDependency; target = 3605B6823BB7C3956E800666; targetProxy = 426A91AD8C7444809462E959;};
+		3605B6823BB7C3956E800666 = {isa = PBXNativeTarget; buildConfigurationList = A58B50BCA931015C810DFDD9; buildPhases = (EB387A52156FE77323E000CC, 5FA5CD262F8FD6271BEBF206, 5D0B907607643432C1BBE87F,); buildRules = (); dependencies = (); name = MemoryRoomCapture; packageProductDependencies = (9BC73193B5EC879608DEA980,); productName = MemoryRoomCapture; productReference = 916DAF4D971B8C8F0F8B7224; productType = "com.apple.product-type.application";};
+		4433E8514D0EE61D3A16E37C = {isa = PBXNativeTarget; buildConfigurationList = 653349D30DF64C2DC4DB059A; buildPhases = (C4F20FE7E189D2B4B7E267AA, 84A502B855B589EC02E8813C, E23A8B9BBEA2F66F4170EEB1,); buildRules = (); dependencies = (F1BE0F4B780D9F52BF93735C,); name = MemoryRoomCaptureUITests; productName = MemoryRoomCaptureUITests; productReference = 09F7782A97DE6B4CEBAD8718; productType = "com.apple.product-type.bundle.ui-testing";};
+		3820ED9EDE4539C96DD65A0B = {isa = XCBuildConfiguration; buildSettings = {IPHONEOS_DEPLOYMENT_TARGET = 18.0; SDKROOT = iphoneos; SWIFT_VERSION = 5.0; CLANG_ENABLE_MODULES = YES; SWIFT_OPTIMIZATION_LEVEL = "-Onone"; DEBUG_INFORMATION_FORMAT = dwarf; ONLY_ACTIVE_ARCH = YES;}; name = Debug;};
+		FD291C66431DF6949561E40F = {isa = XCBuildConfiguration; buildSettings = {IPHONEOS_DEPLOYMENT_TARGET = 18.0; SDKROOT = iphoneos; SWIFT_VERSION = 5.0; CLANG_ENABLE_MODULES = YES; SWIFT_OPTIMIZATION_LEVEL = "-O"; DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";}; name = Release;};
+		6C79F1EBB223D31FD91E3DE1 = {isa = XCConfigurationList; buildConfigurations = (3820ED9EDE4539C96DD65A0B, FD291C66431DF6949561E40F,); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release;};
+		ACCAE3B645636FC814C0DCE6 = {isa = XCBuildConfiguration; buildSettings = {IPHONEOS_DEPLOYMENT_TARGET = 18.0; SDKROOT = iphoneos; SWIFT_VERSION = 5.0; CLANG_ENABLE_MODULES = YES; SWIFT_OPTIMIZATION_LEVEL = "-Onone"; DEBUG_INFORMATION_FORMAT = dwarf; ONLY_ACTIVE_ARCH = YES; PRODUCT_BUNDLE_IDENTIFIER = local.memoryroom.capture; PRODUCT_NAME = "$(TARGET_NAME)"; INFOPLIST_FILE = MemoryRoomCapture/Info.plist; ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; TARGETED_DEVICE_FAMILY = 1; CODE_SIGN_STYLE = Automatic; SUPPORTED_PLATFORMS = "iphoneos iphonesimulator"; ENABLE_USER_SCRIPT_SANDBOXING = YES;}; name = Debug;};
+		715971BC780C3E0746D5B84F = {isa = XCBuildConfiguration; buildSettings = {IPHONEOS_DEPLOYMENT_TARGET = 18.0; SDKROOT = iphoneos; SWIFT_VERSION = 5.0; CLANG_ENABLE_MODULES = YES; SWIFT_OPTIMIZATION_LEVEL = "-O"; DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym"; PRODUCT_BUNDLE_IDENTIFIER = local.memoryroom.capture; PRODUCT_NAME = "$(TARGET_NAME)"; INFOPLIST_FILE = MemoryRoomCapture/Info.plist; ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; TARGETED_DEVICE_FAMILY = 1; CODE_SIGN_STYLE = Automatic; SUPPORTED_PLATFORMS = "iphoneos iphonesimulator"; ENABLE_USER_SCRIPT_SANDBOXING = YES;}; name = Release;};
+		A58B50BCA931015C810DFDD9 = {isa = XCConfigurationList; buildConfigurations = (ACCAE3B645636FC814C0DCE6, 715971BC780C3E0746D5B84F,); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release;};
+		668BD24D67C53CBF071A9A93 = {isa = XCBuildConfiguration; buildSettings = {IPHONEOS_DEPLOYMENT_TARGET = 18.0; SDKROOT = iphoneos; SWIFT_VERSION = 5.0; CLANG_ENABLE_MODULES = YES; SWIFT_OPTIMIZATION_LEVEL = "-Onone"; DEBUG_INFORMATION_FORMAT = dwarf; ONLY_ACTIVE_ARCH = YES; PRODUCT_BUNDLE_IDENTIFIER = local.memoryroom.capture.uitests; PRODUCT_NAME = "$(TARGET_NAME)"; GENERATE_INFOPLIST_FILE = YES; TARGETED_DEVICE_FAMILY = 1; TEST_TARGET_NAME = MemoryRoomCapture; CODE_SIGN_STYLE = Automatic;}; name = Debug;};
+		754B5A254550DAC88A423C58 = {isa = XCBuildConfiguration; buildSettings = {IPHONEOS_DEPLOYMENT_TARGET = 18.0; SDKROOT = iphoneos; SWIFT_VERSION = 5.0; CLANG_ENABLE_MODULES = YES; SWIFT_OPTIMIZATION_LEVEL = "-O"; DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym"; PRODUCT_BUNDLE_IDENTIFIER = local.memoryroom.capture.uitests; PRODUCT_NAME = "$(TARGET_NAME)"; GENERATE_INFOPLIST_FILE = YES; TARGETED_DEVICE_FAMILY = 1; TEST_TARGET_NAME = MemoryRoomCapture; CODE_SIGN_STYLE = Automatic;}; name = Release;};
+		653349D30DF64C2DC4DB059A = {isa = XCConfigurationList; buildConfigurations = (668BD24D67C53CBF071A9A93, 754B5A254550DAC88A423C58,); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release;};
+		3492E69B24396B68AFA225E6 = {isa = PBXProject; attributes = {LastUpgradeCheck = 2700; BuildIndependentTargetsInParallel = YES; TargetAttributes = {3605B6823BB7C3956E800666 = {CreatedOnToolsVersion = 27.0;}; 4433E8514D0EE61D3A16E37C = {CreatedOnToolsVersion = 27.0; TestTargetID = 3605B6823BB7C3956E800666;};};}; buildConfigurationList = 6C79F1EBB223D31FD91E3DE1; compatibilityVersion = "Xcode 14.0"; developmentRegion = "zh-Hans"; knownRegions = (en, "zh-Hans", Base); mainGroup = 263A9F575C79A0DC25CCD91F; productRefGroup = 8AC43287979F1A578E6D8FED; projectDirPath = ""; projectRoot = ""; packageReferences = (36D3347644C1940446814B50,); targets = (3605B6823BB7C3956E800666, 4433E8514D0EE61D3A16E37C,);};
+ };
+ rootObject = 3492E69B24396B68AFA225E6;
+}

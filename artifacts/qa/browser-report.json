@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "checks": [
+    "Spark loaded synthetic Gaussian PLY",
+    "Drawer opens to its defined 0.48 m limit; child hierarchy retained",
+    "Actual pointer drag rotates inspected book; exact parent/local transform restored",
+    "Door joint opens",
+    "Saved complete model bundle to Lexar; browser reload restores joint states",
+    "File input imports second Gaussian asset; independent inspection works",
+    "Portable project import restores the original scene and Gaussian bytes",
+    "390px mobile layout has no horizontal page overflow (desktop emulation only)"
+  ],
+  "device": "Chrome desktop with real WebGL2; not iPhone hardware",
+  "limitations": [
+    "File input events used same-origin synthetic File fixtures; native OS picker not automated",
+    "Kimi upload blocked by extension file-URL access; no permissions changed"
+  ],
+  "synthetic_gaussians": 14080,
+  "imported_test_node": "3779a387-54be-4f4c-b1e6-4c8feb9d070a"
+}

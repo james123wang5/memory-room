@@ -1,0 +1,3831 @@
+[Skip to content](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#start-of-content)
+
+## Navigation Menu
+[Homepage](https://github.com/)
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FKhronosGroup%2FglTF%2Fblob%2Fmain%2Fspecification%2F2.0%2FSpecification.adoc)
+- 
+Platform
+  - 
+AI CODE CREATION
+    - [GitHub CopilotWrite better code with AI](https://github.com/features/copilot)
+    - [GitHub Copilot appDirect agents from issue to merge](https://github.com/features/ai/github-app)
+    - [MCP RegistryIntegrate external tools](https://github.com/mcp)
+  - 
+DEVELOPER WORKFLOWS
+    - [ActionsAutomate any workflow](https://github.com/features/actions)
+    - [CodespacesInstant dev environments](https://github.com/features/codespaces)
+    - [IssuesPlan and track work](https://github.com/features/issues)
+    - [Code ReviewManage code changes](https://github.com/features/code-review)
+    - [Code QualityEnforce quality at merge](https://github.com/features/code-quality)
+  - 
+APPLICATION SECURITY
+    - [GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)
+    - [Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)
+    - [Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+  - 
+EXPLORE
+    - [Why GitHub](https://github.com/why-github)
+    - [Documentation](https://docs.github.com/)
+    - [Blog](https://github.blog/)
+    - [Changelog](https://github.blog/changelog)
+    - [Marketplace](https://github.com/marketplace)
+[View all features](https://github.com/features)
+- 
+Solutions
+  - 
+BY COMPANY SIZE
+    - [Enterprises](https://github.com/enterprise)
+    - [Small and medium teams](https://github.com/team)
+    - [Startups](https://github.com/enterprise/startups)
+    - [Nonprofits](https://github.com/solutions/industry/nonprofits)
+  - 
+BY USE CASE
+    - [App Modernization](https://github.com/solutions/use-case/app-modernization)
+    - [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    - [DevOps](https://github.com/solutions/use-case/devops)
+    - [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    - [View all use cases](https://github.com/solutions/use-case)
+  - 
+BY INDUSTRY
+    - [Healthcare](https://github.com/solutions/industry/healthcare)
+    - [Financial services](https://github.com/solutions/industry/financial-services)
+    - [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    - [Government](https://github.com/solutions/industry/government)
+    - [See all industries](https://github.com/solutions/industry)
+[View all solutions](https://github.com/solutions)
+- 
+Resources
+  - 
+EXPLORE BY TOPIC
+    - [AI](https://github.com/resources/articles?topic=ai)
+    - [Software Development](https://github.com/resources/articles?topic=software-development)
+    - [DevOps](https://github.com/resources/articles?topic=devops)
+    - [Security](https://github.com/resources/articles?topic=security)
+    - [View all topics](https://github.com/resources/articles)
+  - 
+EXPLORE BY TYPE
+    - [Customer stories](https://github.com/customer-stories)
+    - [Events & webinars](https://github.com/resources/events)
+    - [Ebooks & reports](https://github.com/resources/whitepapers)
+    - [Business insights](https://github.com/solutions/executive-insights)
+    - [GitHub Skills](https://skills.github.com/)
+  - 
+SUPPORT & SERVICES
+    - [Documentation](https://docs.github.com/)
+    - [Customer support](https://support.github.com/)
+    - [Community forum](https://github.com/orgs/community/discussions)
+    - [Trust center](https://github.com/trust-center)
+    - [Partners](https://github.com/partners)
+[View all resources](https://github.com/resources)
+- 
+Open Source
+  - 
+COMMUNITY
+    - [GitHub SponsorsFund open source developers](https://github.com/open-source/sponsors)
+  - 
+PROGRAMS
+    - [Security Lab](https://securitylab.github.com/)
+    - [Maintainer Community](https://maintainers.github.com/)
+    - [GitHub Stars](https://stars.github.com/)
+    - [Archive Program](https://archiveprogram.github.com/)
+  - 
+REPOSITORIES
+    - [Topics](https://github.com/topics)
+    - [Trending](https://github.com/trending)
+    - [Collections](https://github.com/collections)
+- 
+Enterprise
+  - 
+ENTERPRISE SOLUTIONS
+    - [Enterprise platformAI\-powered developer platform](https://github.com/enterprise)
+  - 
+AVAILABLE ADD\-ONS
+    - [GitHub Advanced SecurityEnterprise\-grade security features](https://github.com/security/advanced-security)
+    - [Copilot for BusinessEnterprise\-grade AI features](https://github.com/features/copilot/copilot-business)
+    - [Premium SupportEnterprise\-grade 24/7 support](https://github.com/enterprise/premium-support)
+- [Pricing](https://github.com/pricing)
+Search
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FKhronosGroup%2FglTF%2Fblob%2Fmain%2Fspecification%2F2.0%2FSpecification.adoc)
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=KhronosGroup%2FglTF)
+1. 
+2. [glTF](https://github.com/KhronosGroup/glTF)
+
+## Repository navigation
+- [Code](https://github.com/KhronosGroup/glTF)
+- [Issues \(181\)](https://github.com/KhronosGroup/glTF/issues)
+- [Pull requests \(107\)](https://github.com/KhronosGroup/glTF/pulls)
+- [Discussions](https://github.com/KhronosGroup/glTF/discussions)
+- [Actions](https://github.com/KhronosGroup/glTF/actions)
+- [Wiki](https://github.com/KhronosGroup/glTF/wiki)
+- [Security and quality](https://github.com/KhronosGroup/glTF/security)
+- [Insights](https://github.com/KhronosGroup/glTF/pulse)
+More items
+
+## 
+## Files
+main
+- 
+.github
+- 
+.reuse
+- 
+LICENSES
+- 
+extensions
+- 
+specification
+  - 
+1.0
+  - 
+2.0
+    - 
+figures
+    - 
+schema
+    - 
+Makefile
+    - 
+ObjectModel.adoc
+    - 
+README.md
+    - 
+Specification.adoc
+    - 
+docinfo.html
+    - 
+khronos.css
+  - 
+figures
+  - 
+README.md
+- 
+.gitignore
+- 
+CODE\_OF\_CONDUCT.md
+- 
+CONTRIBUTING.adoc
+- 
+COPYING.adoc
+- 
+LICENSE.adoc
+- 
+README.md
+
+## Breadcrumbs
+1. [glTF](https://github.com/KhronosGroup/glTF/tree/main)
+2. [specification](https://github.com/KhronosGroup/glTF/tree/main/specification)
+3. [2.0](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0)
+
+# Specification.adoc
+
+## Latest commit
+ 
+
+## History
+[History](https://github.com/KhronosGroup/glTF/commits/main/specification/2.0/Specification.adoc)
+[View commit history for this file.](https://github.com/KhronosGroup/glTF/commits/main/specification/2.0/Specification.adoc)
+4024 lines \(3020 loc\) · 185 KB
+
+## Breadcrumbs
+1. [glTF](https://github.com/KhronosGroup/glTF/tree/main)
+2. [specification](https://github.com/KhronosGroup/glTF/tree/main/specification)
+3. [2.0](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0)
+
+# Specification.adoc
+Top
+
+## File metadata and controls
+- 
+Preview
+- 
+Code
+- 
+Blame
+4024 lines \(3020 loc\) · 185 KB
+[Raw](https://github.com/KhronosGroup/glTF/raw/refs/heads/main/specification/2.0/Specification.adoc)
+
+# glTF™ 2.0 Specification
+[Permalink: glTF 2.0 Specification](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#gltf-20-specification)
+Table of Contents
+- [1. Foreword](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#foreword) 
+- [2. Introduction](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#introduction) 
+  - [2.1. General](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#introduction-general) 
+  - [2.2. Document Conventions](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#introduction-conventions) 
+    - [2.2.1. Normative Terminology and References](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#introduction-normative-terminology) 
+    - [2.2.2. Informative Language](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#introduction-informative-language) 
+    - [2.2.3. Technical Terminology](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#introduction-technical-terminology) 
+    - [2.2.4. Normative References](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#introduction-normative-references) 
+      - [2.2.4.1. External Specifications](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#external-specifications) 
+      - [2.2.4.2. Media Type Registrations](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#media-type-registrations) 
+  - [2.3. Motivation and Design Goals \(Informative\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#motivation) 
+  - [2.4. glTF Basics](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#gltf-basics) 
+  - [2.5. Versioning](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#versioning) 
+  - [2.6. File Extensions and Media Types](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#file-extensions-and-media-types) 
+  - [2.7. JSON Encoding](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#json-encoding) 
+  - [2.8. URIs](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#uris) 
+- [3. Concepts](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#concepts) 
+  - [3.1. General](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#concepts-general) 
+  - [3.2. Asset](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#asset) 
+  - [3.3. Indices and Names](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#indices-and-names) 
+  - [3.4. Coordinate System and Units](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#coordinate-system-and-units) 
+  - [3.5. Scenes](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#scenes) 
+    - [3.5.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#scenes-overview) 
+    - [3.5.2. Nodes and Hierarchy](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#nodes-and-hierarchy) 
+    - [3.5.3. Transformations](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#transformations) 
+  - [3.6. Binary Data Storage](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#binary-data-storage) 
+    - [3.6.1. Buffers](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#buffers) 
+      - [3.6.1.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#buffers-overview) 
+      - [3.6.1.2. GLB\-stored Buffer](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#glb-stored-buffer) 
+    - [3.6.2. Buffer Views](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#buffer-views) 
+      - [3.6.2.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#buffer-views-overview) 
+    - [3.6.3. Accessors](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#accessors) 
+      - [3.6.3.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#accessors-overview) 
+      - [3.6.3.2. Accessor Data Types](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#accessor-data-types) 
+      - [3.6.3.3. Accessor Components](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#accessor-components) 
+      - [3.6.3.4. Accessor Element Size](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#accessor-element-size) 
+      - [3.6.3.5. Accessing Data from Buffer Views](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#data-alignment) 
+      - [3.6.3.6. Sparse Accessors](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#sparse-accessors) 
+        - [3.6.3.6.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#sparse-accessors-overview) 
+        - [3.6.3.6.2. Sparse Accessor Indices](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#sparse-accessor-indices) 
+        - [3.6.3.6.3. Sparse Accessor Values](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#sparse-accessor-values) 
+        - [3.6.3.6.4. Sparse Accessor Usage](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#sparse-accessor-usage) 
+      - [3.6.3.7. Accessor Bounds](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#accessor-bounds) 
+  - [3.7. Geometry](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#geometry) 
+    - [3.7.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#geometry-overview) 
+    - [3.7.2. Meshes](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#meshes) 
+      - [3.7.2.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#meshes-overview) 
+      - [3.7.2.2. Vertex Attributes](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#meshes-attributes) 
+      - [3.7.2.3. Topology and Connectivity](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#meshes-topology) 
+      - [3.7.2.4. Using Primitive Data](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#meshes-usage) 
+      - [3.7.2.5. Morph Targets](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#morph-targets) 
+        - [3.7.2.5.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#morph-targets-overview) 
+        - [3.7.2.5.2. Difference Data Storage](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#morph-targets-storage) 
+        - [3.7.2.5.3. Applying Morph Data](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#morph-targets-usage) 
+      - [3.7.2.6. Skinned Mesh Primitive Attributes](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#skinned-mesh-primitive-attributes) 
+    - [3.7.3. Skins](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#skins) 
+      - [3.7.3.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#skins-overview) 
+      - [3.7.3.2. Joint Hierarchy](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#joint-hierarchy) 
+    - [3.7.4. Instantiation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#instantiation) 
+      - [3.7.4.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#instantiation-overview) 
+      - [3.7.4.2. Morph Targets](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#instantiation-morph-targets) 
+      - [3.7.4.3. Skinned Mesh Primitives](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#instantiation-skinned) 
+  - [3.8. Texture Data](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#texture-data) 
+    - [3.8.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#texture-data-overview) 
+    - [3.8.2. Textures](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#textures) 
+    - [3.8.3. Images](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#images) 
+      - [3.8.3.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#images-overview) 
+      - [3.8.3.2. PNG Support](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#images-png) 
+      - [3.8.3.3. JPEG Support](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#images-jpeg) 
+    - [3.8.4. Samplers](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#samplers) 
+      - [3.8.4.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#overview) 
+      - [3.8.4.2. Filtering](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#filtering) 
+      - [3.8.4.3. Wrapping](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#wrapping) 
+      - [3.8.4.4. Example](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#example) 
+      - [3.8.4.5. Non\-power\-of\-two Textures](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#non-power-of-two-textures) 
+  - [3.9. Materials](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#materials) 
+    - [3.9.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#materials-overview) 
+    - [3.9.2. Metallic\-Roughness Material](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#metallic-roughness-material) 
+    - [3.9.3. Emissive Parameter](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#emissive) 
+    - [3.9.4. Additional Textures](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#additional-textures) 
+      - [3.9.4.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#additional-textures-overview) 
+      - [3.9.4.2. Normal Texture](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#additional-textures-normal) 
+      - [3.9.4.3. Occlusion Texture](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#additional-textures-occlusion) 
+    - [3.9.5. Texture Priority](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#texture-priority) 
+    - [3.9.6. Alpha Coverage](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#alpha-coverage) 
+    - [3.9.7. Double Sided](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#double-sided) 
+    - [3.9.8. Default Material](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#default-material) 
+    - [3.9.9. Point and Line Materials](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#point-and-line-materials) 
+  - [3.10. Cameras](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#cameras) 
+    - [3.10.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#cameras-overview) 
+    - [3.10.2. View Matrix](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#view-matrix) 
+    - [3.10.3. Projection Matrices](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#projection-matrices) 
+      - [3.10.3.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#projection-matrices-overview) 
+      - [3.10.3.2. Infinite Perspective Projection](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#infinite-perspective-projection) 
+      - [3.10.3.3. Finite Perspective Projection](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#finite-perspective-projection) 
+      - [3.10.3.4. Orthographic Projection](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#orthographic-projection) 
+  - [3.11. Animations](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#animations) 
+  - [3.12. Specifying Extensions](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#specifying-extensions) 
+- [4. GLB File Format Specification](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#glb-file-format-specification) 
+  - [4.1. General \(Informative\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#glb-file-format-specification-general) 
+  - [4.2. Structure](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#glb-file-format-specification-structure) 
+  - [4.3. File Extension & Media Type](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#glb-file-format-specification-file-extension) 
+  - [4.4. Binary glTF Layout](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#binary-gltf-layout) 
+    - [4.4.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#binary-gltf-layout-overview) 
+    - [4.4.2. Header](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#binary-header) 
+    - [4.4.3. Chunks](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#chunks) 
+      - [4.4.3.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#chunks-overview) 
+      - [4.4.3.2. Structured JSON Content](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#structured-json-content) 
+      - [4.4.3.3. Binary buffer](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#binary-buffer) 
+- [5. Properties Reference](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#properties-reference) 
+- [6. Acknowledgments \(Informative\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#acknowledgments) 
+  - [6.1. Editors](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#editors) 
+  - [6.2. Khronos 3D Formats Working Group and Alumni](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#working-group-and-alumni) 
+  - [6.3. Special Thanks](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#special-thanks) 
+- [Appendix A: JSON Schema Reference \(Informative\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#appendix-a-json-schema-reference) 
+- [Appendix B: BRDF Implementation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#appendix-b-brdf-implementation) 
+  - [B.1. General](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#appendix-b-brdf-implementation-general) 
+  - [B.2. Material Structure](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#material-structure) 
+    - [B.2.1. Metals](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#metals) 
+    - [B.2.2. Dielectrics](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#dielectrics) 
+    - [B.2.3. Microfacet Surfaces](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#microfacet-surfaces) 
+    - [B.2.4. Complete Model](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#complete-model) 
+  - [B.3. Sample Implementation \(Informative\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#implementation) 
+    - [B.3.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#implementation-overview) 
+    - [B.3.2. Specular BRDF](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#specular-brdf) 
+    - [B.3.3. Diffuse BRDF](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#diffuse-brdf) 
+    - [B.3.4. Fresnel](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#fresnel) 
+    - [B.3.5. Metal BRDF and Dielectric BRDF](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#metal-brdf-and-dielectric-brdf) 
+    - [B.3.6. Discussion](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#discussion) 
+      - [B.3.6.1. Masking\-Shadowing Term and Multiple Scattering](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#masking-shadowing-term-and-multiple-scattering) 
+      - [B.3.6.2. Schlick’s Fresnel Approximation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#schlicks-fresnel-approximation) 
+      - [B.3.6.3. Coupling Diffuse and Specular Reflection](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#coupling-diffuse-and-specular-reflection) 
+  - [B.4. References](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#references) 
+- [Appendix C: Animation Sampler Interpolation Modes](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#appendix-c-interpolation) 
+  - [C.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#overview-1) 
+  - [C.2. Step Interpolation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#step-interpolation) 
+  - [C.3. Linear Interpolation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#interpolation-lerp) 
+  - [C.4. Spherical Linear Interpolation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#interpolation-slerp) 
+  - [C.5. Cubic Spline Interpolation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#interpolation-cubic) 
+
+|  Note  |   Note  Khronos posts the AsciiDoc source of the glTF specification to enable community feedback and remixing under CC\-BY 4.0. Published versions of the Specification are located in the [glTF Registry](https://www.khronos.org/registry/glTF).   | 
+|---|---|
+
+## 1. Foreword
+[Permalink: 1. Foreword](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#1-foreword)
+
+Copyright 2013\-2021 The Khronos Group Inc.
+
+This specification is protected by copyright laws and contains material proprietary to Khronos. Except as described by these terms, it or any components may not be reproduced, republished, distributed, transmitted, displayed, broadcast, or otherwise exploited in any manner without the express prior written permission of Khronos.
+
+This specification has been created under the Khronos Intellectual Property Rights Policy, which is Attachment A of the Khronos Group Membership Agreement available at [https://www.khronos.org/files/member\_agreement.pdf](https://www.khronos.org/files/member_agreement.pdf). Khronos grants a conditional copyright license to use and reproduce the unmodified specification for any purpose, without fee or royalty, EXCEPT no licenses to any patent, trademark or other intellectual property rights are granted under these terms. Parties desiring to implement the specification and make use of Khronos trademarks in relation to that implementation, and receive reciprocal patent license protection under the Khronos IP Policy must become Adopters under the process defined by Khronos for this specification; see [https://www.khronos.org/conformance/adopters/file\-format\-adopter\-program](https://www.khronos.org/conformance/adopters/file-format-adopter-program).
+
+Some parts of this Specification are non\-normative through being explicitly identified as purely informative, and do not define requirements necessary for compliance and so are outside the Scope of this Specification.
+
+Where this Specification includes normative references to external documents, only the specifically identified sections and functionality of those external documents are in Scope. Requirements defined by external documents not created by Khronos may contain contributions from non\-members of Khronos not covered by the Khronos Intellectual Property Rights Policy.
+
+Khronos makes no, and expressly disclaims any, representations or warranties, express or implied, regarding this specification, including, without limitation: merchantability, fitness for a particular purpose, non\-infringement of any intellectual property, correctness, accuracy, completeness, timeliness, and reliability. Under no circumstances will Khronos, or any of its Promoters, Contributors or Members, or their respective partners, officers, directors, employees, agents or representatives be liable for any damages, whether direct, indirect, special or consequential damages for lost revenues, lost profits, or otherwise, arising from or in connection with these materials.
+
+Khronos® and Vulkan® are registered trademarks, and ANARI™, WebGL™, glTF™, NNEF™, OpenVX™, SPIR™, SPIR‑V™, SYCL™, OpenVG™ and 3D Commerce™ are trademarks of The Khronos Group Inc. OpenXR™ is a trademark owned by The Khronos Group Inc. and is registered as a trademark in China, the European Union, Japan and the United Kingdom. OpenCL™ is a trademark of Apple Inc. and OpenGL® is a registered trademark and the OpenGL ES™ and OpenGL SC™ logos are trademarks of Hewlett Packard Enterprise used under license by Khronos. ASTC is a trademark of ARM Holdings PLC. All other product names, trademarks, and/or company names are used solely for identification and belong to their respective owners.
+
+## 2. Introduction
+[Permalink: 2. Introduction](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#2-introduction)
+
+### 2.1. General
+[Permalink: 2.1. General](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#21-general)
+
+This document, referred to as the “glTF Specification” or just the “Specification” hereafter, describes the glTF file format.
+
+glTF is an API\-neutral runtime asset delivery format. glTF bridges the gap between 3D content creation tools and modern graphics applications by providing an efficient, extensible, interoperable format for the transmission and loading of 3D content.
+
+### 2.2. Document Conventions
+[Permalink: 2.2. Document Conventions](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#22-document-conventions)
+
+The glTF Specification is intended for use by both implementers of the asset exporters or converters \(e.g., digital content creation tools\) and application developers seeking to import or load glTF assets, forming a basis for interoperability between these parties.
+
+Specification text can address either party; typically, the intended audience can be inferred from context, though some sections are defined to address only one of these parties.
+
+Any requirements, prohibitions, recommendations, or options defined by [normative terminology](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#introduction-normative-terminology) are imposed only on the audience of that text.
+
+#### 2.2.1. Normative Terminology and References
+[Permalink: 2.2.1. Normative Terminology and References](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#221-normative-terminology-and-references)
+
+The key words **MUST**, **MUST NOT**, **REQUIRED**, **SHALL**, **SHALL NOT**, **SHOULD**, **SHOULD NOT**, **RECOMMENDED**, **MAY**, and **OPTIONAL** in this document are to be interpreted as described in [BCP 14](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#bcp14).
+
+These key words are highlighted in the specification for clarity.
+
+References to external documents are considered normative if the Specification uses any of the normative terms defined in this section to refer to them or their requirements, either as a whole or in part.
+
+#### 2.2.2. Informative Language
+[Permalink: 2.2.2. Informative Language](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#222-informative-language)
+
+Some language in the specification is purely informative, intended to give background or suggestions to implementers or developers.
+
+If an entire chapter or section contains only informative language, its title is suffixed with “\(Informative\)”. If not designated as informative, all chapters, sections, and appendices in this document are normative.
+
+All Notes, Implementation notes, and Examples are purely informative.
+
+#### 2.2.3. Technical Terminology
+[Permalink: 2.2.3. Technical Terminology](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#223-technical-terminology)
+
+The glTF Specification makes use of linear algebra terms such as **axis**, **matrix**, **vector**, etc. to identify certain math constructs and their behaviors as defined in the [International Electrotechnical Vocabulary](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#iev).
+
+The glTF Specification makes use of common engineering and graphics terms such as **image**, **buffer**, **texture**, etc. to identify and describe certain *glTF* constructs and their attributes, states, and behaviors. This section defines the basic meanings of these terms in the context of the Specification. The Specification text provides fuller definitions of the terms and elaborates, extends, or clarifies the definitions. When a term defined in this section is used in normative language within the Specification, the definitions within the Specification govern and supersede any meanings the terms may have in other technical contexts \(i.e. outside the Specification\).
+accessor  
+
+An object describing the number and the format of data elements stored in a binary buffer.
+animation  
+
+An object describing the keyframe data, including timestamps, and the target property affected by it.
+back\-facing  
+
+See facingness.
+buffer  
+
+An external or embedded resource that represents a linear array of bytes.
+buffer view  
+
+An object that represents a range of a specific buffer, and optional metadata that controls how the buffer’s content is interpreted.
+camera  
+
+An object defining the projection parameters that are used to render a scene.
+facingness  
+
+A classification of a triangle as either front\-facing or back\-facing, depending on the orientation \(winding order\) of its vertices.
+front\-facing  
+
+See facingness.
+image  
+
+A two dimensional array of pixels encoded as a standardized bitstream, such as [PNG](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#png).
+indexed geometry  
+
+A mesh primitive that uses a separate source of data \(index values\) to assemble the primitive’s topology.
+linear blend skinning  
+
+A skinning method that computes a per\-vertex transformation matrix as a linear weighted sum of transformation matrices of the designated nodes.
+material  
+
+A parametrized approximation of visual properties of the real\-world object being represented by a mesh primitive.
+mesh  
+
+A collection of mesh primitives.
+mesh primitive  
+
+An object binding indexed or non\-indexed geometry with a material.
+mipmap  
+
+A set of image representations consecutively reduced by the factor of 2 in each dimension.
+morph target  
+
+An altered state of a mesh primitive defined as a set of difference values for its vertex attributes.
+node  
+
+An object defining the hierarchy relations and the local transform of its content.
+non\-indexed geometry  
+
+A mesh primitive that uses linear order of vertex attribute values to assemble the primitive’s topology.
+normal  
+
+A unit XYZ vector defining the perpendicular to the surface.
+root node  
+
+A node that is not a child of any other node.
+sampler  
+
+An object that controls how image data is sampled.
+scene  
+
+An object containing a list of root nodes to render.
+skinning  
+
+The process of computing and applying individual transforms for each vertex of a mesh primitive.
+tangent  
+
+A unit XYZ vector defining a tangential direction on the surface.
+texture  
+
+An object that combines an image and its sampler.
+topology type  
+
+State that controls how vertices are assembled, e.g. as lists of triangles, strips of lines, etc.
+vertex attribute  
+
+A property associated with a vertex.
+winding order  
+
+The relative order in which vertices are defined within a triangle
+wrapping  
+
+A process of selecting an image pixel based on normalized texture coordinates.
+
+#### 2.2.4. Normative References
+[Permalink: 2.2.4. Normative References](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#224-normative-references)
+
+The following documents are referenced by normative sections of the specification:
+
+##### 2.2.4.1. External Specifications
+[Permalink: 2.2.4.1. External Specifications](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#2241-external-specifications)
+-  
+
+Bradner, S., *Key words for use in RFCs to Indicate Requirement Levels*, BCP 14, RFC 2119, March 1997. Leiba, B., *Ambiguity of Uppercase vs Lowercase in RFC 2119 Key Words*, BCP 14, RFC 8174, May 2017. [https://www.rfc\-editor.org/info/bcp14](https://www.rfc-editor.org/info/bcp14)
+-  
+
+IEC 60050\-102 *International Electrotechnical Vocabulary \(IEV\) \- Part 102: Mathematics \- General concepts and linear algebra* [https://webstore.iec.ch/publication/160](https://webstore.iec.ch/publication/160)
+
+IEC 60050\-103 *International Electrotechnical Vocabulary \(IEV\) \- Part 103: Mathematics \- Functions* [https://webstore.iec.ch/publication/161](https://webstore.iec.ch/publication/161)
+
+|  Note  |   Note  An online version of these standards is available at [https://www.electropedia.org/](https://www.electropedia.org/)   | 
+|---|---|
+-  
+
+The Unicode Consortium, *The Unicode Standard* [https://www.unicode.org/versions/latest/](https://www.unicode.org/versions/latest/)
+-  
+
+Bray, T., Ed., *The JavaScript Object Notation \(JSON\) Data Interchange Format*, STD 90, RFC 8259, DOI 10.17487/RFC8259, December 2017, [https://www.rfc\-editor.org/info/rfc8259](https://www.rfc-editor.org/info/rfc8259)
+-  
+
+ISO/IEC 60559 *Floating\-point arithmetic* [https://www.iso.org/standard/80985.html](https://www.iso.org/standard/80985.html)
+-  
+
+ISO/IEC 15948 *Portable Network Graphics \(PNG\): Functional specification* [https://www.iso.org/standard/29581.html](https://www.iso.org/standard/29581.html)
+
+|  Note  |   Note  A free version of this standard is available from W3C at [https://www.w3.org/TR/PNG/](https://www.w3.org/TR/PNG/).   | 
+|---|---|
+-  
+
+ISO/IEC 10918\-1 *Digital compression and coding of continuous\-tone still images: Requirements and guidelines* [https://www.iso.org/standard/18902.html](https://www.iso.org/standard/18902.html)
+
+|  Note  |   Note  This standard is equivalent to Recommendation ITU\-T T.81 available at [https://www.itu.int/rec/T\-REC\-T.81\-199209\-I](https://www.itu.int/rec/T-REC-T.81-199209-I).   A free version of it is available from W3C at [https://www.w3.org/Graphics/JPEG/itu\-t81.pdf](https://www.w3.org/Graphics/JPEG/itu-t81.pdf).   | 
+|---|---|
+-  
+
+ISO/IEC 10918\-5 *Digital compression and coding of continuous\-tone still images: JPEG File Interchange Format \(JFIF\)* [https://www.iso.org/standard/54989.html](https://www.iso.org/standard/54989.html)
+
+|  Note  |   Note  This standard is equivalent to Recommendation ITU\-T T.871 available for free at [https://www.itu.int/rec/T\-REC\-T.871\-201105\-I](https://www.itu.int/rec/T-REC-T.871-201105-I).   | 
+|---|---|
+-  
+
+CIPA DC\-008\-Translation\-2019 *Exchangeable image file format for digital still cameras* [https://www.cipa.jp/std/documents/download\_e.html?DC\-008\-Translation\-2019\-E](https://www.cipa.jp/std/documents/download_e.html?DC-008-Translation-2019-E)
+-  
+
+Masinter, L., *The "data" URL scheme*, RFC 2397, DOI 10.17487/RFC2397, August 1998, [https://www.rfc\-editor.org/info/rfc2397](https://www.rfc-editor.org/info/rfc2397)
+-  
+
+Berners\-Lee, T., Fielding, R., and L. Masinter, *Uniform Resource Identifier \(URI\): Generic Syntax*, STD 66, RFC 3986, DOI 10.17487/RFC3986, January 2005, [https://www.rfc\-editor.org/info/rfc3986](https://www.rfc-editor.org/info/rfc3986)
+-  
+
+Duerst, M. and M. Suignard, *Internationalized Resource Identifiers \(IRIs\)*, RFC 3987, DOI 10.17487/RFC3987, January 2005, [https://www.rfc\-editor.org/info/rfc3987](https://www.rfc-editor.org/info/rfc3987)
+-  
+
+Fielding, R., Ed., and J. Reschke, Ed., *Hypertext Transfer Protocol \(HTTP/1.1\): Message Syntax and Routing*, RFC 7230, DOI 10.17487/RFC7230, June 2014, [https://www.rfc\-editor.org/info/rfc7230](https://www.rfc-editor.org/info/rfc7230)
+-  
+
+IEC 61966\-2\-1 *Default RGB colour space \- sRGB* [https://webstore.iec.ch/publication/6169](https://webstore.iec.ch/publication/6169)
+
+|  Note  |   Note  The encoding characteristics of sRGB are freely available from ICC: [https://www.color.org/chardata/rgb/srgb.xalter](https://www.color.org/chardata/rgb/srgb.xalter)   | 
+|---|---|
+-  
+
+Recommendation ITU\-R BT.709\-6 *Parameter values for the HDTV standards for production and international programme exchange* [https://www.itu.int/rec/R\-REC\-BT.709\-6\-201506\-I](https://www.itu.int/rec/R-REC-BT.709-6-201506-I)
+-  
+
+*MikkTSpace* [https://github.com/mmikk/MikkTSpace](https://github.com/mmikk/MikkTSpace)
+-  
+
+Thomas Porter and Tom Duff. 1984. *Compositing digital images.* SIGGRAPH Comput. Graph. 18, 3 \(July 1984\), 253–259. DOI: [https://doi.org/10.1145/964965.808606](https://doi.org/10.1145/964965.808606)
+
+|  Note  |   Note  A free version of this paper is available from Pixar: [https://graphics.pixar.com/library/Compositing/](https://graphics.pixar.com/library/Compositing/)   | 
+|---|---|
+
+##### 2.2.4.2. Media Type Registrations
+[Permalink: 2.2.4.2. Media Type Registrations](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#2242-media-type-registrations)
+-  
+
+IANA. *model/gltf\+json Media Type*. [https://www.iana.org/assignments/media\-types/model/gltf\+json](https://www.iana.org/assignments/media-types/model/gltf+json)
+-  
+
+IANA. *model/gltf\-binary Media Type*. [https://www.iana.org/assignments/media\-types/model/gltf\-binary](https://www.iana.org/assignments/media-types/model/gltf-binary)
+-  
+
+IANA. *application/gltf\-buffer Media Type*. [https://www.iana.org/assignments/media\-types/application/gltf\-buffer](https://www.iana.org/assignments/media-types/application/gltf-buffer)
+-  
+
+IANA. *application/octet\-stream Media Type*. [https://www.iana.org/assignments/media\-types/application/octet\-stream](https://www.iana.org/assignments/media-types/application/octet-stream)
+-  
+
+Freed, N. and N. Borenstein, *Multipurpose Internet Mail Extensions \(MIME\) Part Two: Media Types*, RFC 2046, DOI 10.17487/RFC2046, November 1996, [https://www.rfc\-editor.org/info/rfc2046](https://www.rfc-editor.org/info/rfc2046)
+-  
+
+IANA. *image/png Media Type*. [https://www.iana.org/assignments/media\-types/image/png](https://www.iana.org/assignments/media-types/image/png)
+
+### 2.3. Motivation and Design Goals \(Informative\)
+[Permalink: 2.3. Motivation and Design Goals (Informative)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#23-motivation-and-design-goals-informative)
+
+glTF is an open interoperable 3D asset ‘transmission’ format that is compact, and efficient to process and render at runtime. glTF 2.0 is designed to be vendor\- and runtime\-neutral, usable by a wide variety of native and web\-based engines and applications regardless of underlying platforms and 3D graphics APIs.
+
+glTF’s focus on run\-time efficiency is a different design goal than typical 3D ‘authoring’ formats. Authoring formats are typically more verbose, with higher processing overheads, to carry authoring data that is no longer needed after iterative design is complete. glTF is complementary to authoring formats, providing a common, interoperable distillation target for publishing 3D assets to a wide audience of end users.
+
+A primary goal of glTF is to be deployable on a wide range of devices and platforms, including the web and mobile devices with limited processing and memory resources. glTF can be evolved, to keep pace with growing compute capabilities over time. This helps to foster broad industry consensus on 3D functionality that can be used ubiquitously, including Physically Based Rendering.
+
+glTF combines an easily parsable JSON scene description with one or more binary resources representing geometry, animations, and other rich data. These binary resources can often be loaded directly into GPU buffers with no additional parsing or processing, combining the faithful preservation of full hierarchical scenes, nodes, meshes, cameras, materials, and animations with efficient delivery and fast loading.
+
+glTF has been designed to meet the following goals:
+-  
+
+**Compact file sizes.** The plain text glTF JSON file description is compact and rapid to parse. All large data such as geometry, textures and animations are stored in binary files that are significantly smaller than equivalent text representations.
+-  
+
+**Runtime\-independence.** glTF is purely an asset format and does not mandate any runtime behavior. This enables its use by any application for any purpose, including display using any rendering technology, up to and including path tracing renderers.
+-  
+
+**Complete 3D scene representation.** Not restricted to single objects, glTF can represent entire scenes, including nodes, transformations, transform hierarchy, meshes, materials, cameras, and animations.
+-  
+
+**Extensibility.** glTF is fully extensible, enabling the addition of both general\-purpose and vendor\-specific extensions, including geometry and texture compression. Widely adopted extensions may be considered for integration into future versions of the glTF specification.
+
+The following are outside the scope of glTF 2.0:
+-  
+
+**glTF is not a streaming format.** The binary data in glTF is inherently streamable, and the buffer design allows for fetching data incrementally, but there are no other streaming constructs in glTF 2.0.
+-  
+
+**glTF is not an authoring format.** glTF deliberately does not retain 3D authoring information, in order to preserve runtime efficiency, however glTF files may be ingested by 3D authoring tools for remixing.
+-  
+
+**glTF is not intended to be human\-readable,** though by virtue of being represented in JSON, it is developer\-friendly.
+
+### 2.4. glTF Basics
+[Permalink: 2.4. glTF Basics](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#24-gltf-basics)
+
+A glTF asset is represented by:
+-  
+
+A JSON\-formatted file \(`.gltf`\) containing a full scene description: node hierarchy, materials, cameras, as well as descriptor information for meshes, animations, and other constructs.
+-  
+
+Binary files \(`.bin`\) containing geometry, animation, and other buffer\-based data.
+-  
+
+Image files \(`.jpg`, `.png`\) containing texture images.
+
+Binary and image resources **MAY** also be embedded directly in JSON using [Data URI](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#data-uri) or stored side\-by\-side with JSON in [GLB](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#glb-file-format-specification) container.
+
+A valid glTF asset **MUST** specify its version.
+
+### 2.5. Versioning
+[Permalink: 2.5. Versioning](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#25-versioning)
+
+Any updates made to the glTF Specification in a minor version **MUST** be backward and forward compatible. Backward compatibility means that any client implementation that supports loading a glTF 2.x asset will also be able to load a glTF 2.0 asset. Forward compatibility means that a client implementation that only supports glTF 2.0 can load glTF 2.x assets while gracefully ignoring any new features it does not understand.
+
+A minor version update **MAY** introduce new features but **MUST NOT** change any previously existing behavior. Existing functionality **MAY** be deprecated in a minor version update, but it **MUST NOT** be removed.
+
+Major version updates **MAY** be incompatible with previous versions.
+
+### 2.6. File Extensions and Media Types
+[Permalink: 2.6. File Extensions and Media Types](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#26-file-extensions-and-media-types)
+-  
+
+[JSON](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#json) glTF files **SHOULD** use `.gltf` extension and [`model/gltf\+json`](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#gltf-json) Media Type.
+-  
+
+glTF files stored in [GLB](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#glb-file-format-specification) container **SHOULD** use `.glb` extension and [`model/gltf\-binary`](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#gltf-binary) Media Type.
+-  
+
+Files representing binary buffers **SHOULD** use either:
+  -  
+
+`.bin` file extension with [`application/octet\-stream`](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#octet-stream) Media Type;
+  -  
+
+`.bin`, `.glbin`, or `.glbuf` file extensions with [`application/gltf\-buffer`](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#gltf-buffer) Media Type.
+
+### 2.7. JSON Encoding
+[Permalink: 2.7. JSON Encoding](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#27-json-encoding)
+
+Although glTF Specification does not define any subset of the [JSON](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#json) format, implementations **SHOULD** be aware of its peculiar properties that could affect asset interoperability.
+1.  
+
+glTF JSON data **SHOULD** be written with UTF\-8 encoding without BOM. This requirement is not applied when a glTF implementation does not control string encoding. glTF implementations **SHOULD** adhere to [RFC 8259](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#json), Section 8.1. with regards to treating BOM presence.
+2.  
+
+ASCII characters stored in glTF JSON **SHOULD** be written without JSON escaping.
+
+|  Note  |   Example  `"buffer"` instead of `"\\u0062\\u0075\\u0066\\u0066\\u0065\\u0072"`.   | 
+|---|---|
+3.  
+
+Non\-ASCII characters stored in glTF JSON **MAY** be escaped.
+
+|  Note  |   Example  These two examples represent the same glTF JSON data.    ```
+{
+    "asset": {
+        "version": "2.0"
+    },
+    "nodes": [
+        {
+            "name": "куб"
+        },
+        {
+            "name": "立方體"
+        }
+    ]
+}
+```
+```
+{
+    "asset": {
+        "version": "2.0"
+    },
+    "nodes": [
+        {
+            "name": "\u043a\u0443\u0431"
+        },
+        {
+            "name": "\u7acb\u65b9\u9ad4"
+        }
+    ]
+}
+```
+ | 
+|---|---|
+4.  
+
+Property names \(keys\) within JSON objects **SHOULD** be unique. glTF client implementations **SHOULD** override lexically preceding values for the same key.
+5.  
+
+Some of glTF properties are defined as integers in the schema. Such values **MAY** be stored as decimals with a zero fractional part or by using exponent notation. Regardless of encoding, such properties **MUST NOT** contain any non\-zero fractional value.
+
+|  Note  |   Example  `100`, `100.0`, and `1e2` represent the same value. See [RFC 8259](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#json), Section 6 for more details.   | 
+|---|---|
+6.  
+
+Non\-integer numbers **SHOULD** be written in a way that preserves original values when these numbers are read back, i.e., they **SHOULD NOT** be altered by JSON serialization / deserialization roundtrip.
+
+|  Note  |   Implementation Note  This is typically achieved with algorithms like Grisu2 used by common JSON libraries.   | 
+|---|---|
+
+### 2.8. URIs
+[Permalink: 2.8. URIs](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#28-uris)
+
+glTF assets use [URIs](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#uri) or [IRIs](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#iri) to reference buffers and image resources. Assets **MAY** contain at least these two URI types:
+-  
+
+**Data URIs** that embed binary resources in the glTF JSON as defined by the [RFC 2397](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#data-uri). The Data URI’s `mediatype` field **MUST** match the encoded content.
+
+|  Note  |   Implementation Note  Base64 encoding used in Data URI increases the payload’s byte length by 33%.   | 
+|---|---|
+-  
+
+**Relative paths** — `path\-noscheme` or `ipath\-noscheme` as defined by [RFC 3986](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#uri), Section 4.2 or [RFC 3987](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#iri), Section 2.2 — without scheme, authority, or parameters. Reserved characters \(as defined by [RFC 3986](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#uri), Section 2.2. and [RFC 3987](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#iri), Section 2.2.\) **MUST** be percent\-encoded.
+
+Paths with non\-ASCII characters **MAY** be written as\-is, with JSON string escaping, or with percent\-encoding; all these options are valid. For example, the following three paths point to the same resource:
+
+```
+{
+    "images": [
+        {
+            "uri": "grande_sphère.png"
+        },
+        {
+            "uri": "grande_sph\u00E8re.png"
+        },
+        {
+            "uri": "grande_sph%C3%A8re.png"
+        }
+    ]
+}
+```
+
+Client implementations **MAY** optionally support additional URI components. For example `http://` or `file://` schemes, authorities, hostnames, absolute paths, and query or fragment parameters. Assets containing these additional URI components would be less portable.
+
+|  Note  |   Implementation Note  This allows the application to decide the best approach for delivery: if different assets share many of the same geometries, animations, or textures, separate files may be preferred to reduce the total amount of data requested. With separate files, applications may progressively load data and do not need to load data for parts of a model that are not visible. If an application cares more about single\-file deployment, embedding data may be preferred even though it increases the overall size due to base64 encoding and does not support progressive or on\-demand loading. Alternatively, an asset could use the GLB container to store JSON and binary data in one file without base64 encoding. See [GLB File Format Specification](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#glb-file-format-specification) for details.   | 
+|---|---|
+
+URIs **SHOULD** undergo syntax\-based normalization as defined by [RFC 3986](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#uri), Section 6.2.2, [RFC 3987](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#iri), Section 5.3.2, and applicable schema rules \(e.g., [RFC 7230](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#http), Section 2.7.3 for HTTP\) on export and/or import.
+
+|  Note  |   Implementation Note  While the specification does not explicitly disallow non\-normalized URIs, their use may be unsupported or lead to unwanted side\-effects — such as security warnings or cache misses — on some platforms.   | 
+|---|---|
+
+## 3. Concepts
+[Permalink: 3. Concepts](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3-concepts)
+
+### 3.1. General
+[Permalink: 3.1. General](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#31-general)
+
+The figure below shows relations between top\-level arrays in a glTF asset. See the [Properties Reference](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#properties-reference).
+[![objects](https://github.com/KhronosGroup/glTF/raw/main/specification/2.0/figures/objects.svg)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/figures/objects.svg)
+Figure 1. glTF Object Hierarchy
+
+### 3.2. Asset
+[Permalink: 3.2. Asset](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#32-asset)
+
+Each glTF asset **MUST** have an `asset` property.
+
+The `asset` object **MUST** contain a `version` property that specifies the target glTF version of the asset. Additionally, an optional `minVersion` property **MAY** be used to specify the minimum glTF version support required to load the asset.
+
+Both `version` and `minVersion` properties **MUST** conform to the asset version string syntax defined as follows.
+
+The version string is a concatenation of a major version component, a single “dot” character \(`0x2E`\), and a minor version component. Each version component is either a string consisting of a single decimal “zero” character \(`0x30`\), or a single non\-zero decimal character \(with codes from `0x31` to `0x39`\) optionally followed by up to eight any decimal characters \(with codes from `0x30` to `0x39`\).
+
+|  Note  |    In other words, a version string is two decimal numbers from 0 to 999999999 without leading zeros joined with a single dot.   | 
+|---|---|
+
+|  Note  |   Example valid version strings  ``` "0.0", "0.12", "2.0", "12.34", "999999999.999999999" ```   | 
+|---|---|
+
+|  Note  |   Example invalid version strings  ``` "\+1.0", "2.0.1", "2.00", "01.1" ```   | 
+|---|---|
+
+A version `"A.B"` is less than a version `"C.D"`, if and only if `A` is less than `C`, or if `A` is equal to `C` and `B` is less than `D`, where `A`, `B`, `C`, and `D` are version components of the version strings as described above.
+
+|  Note  |   Version string comparison examples   
+-  `"2.0"` is less than `"3.0"`  
+-  `"2.0"` is less than `"2.1"`  
+-  `"2.1"` is less than `"2.10"`  
+-  `"2.10"` is less than `"3.0"`     | 
+|---|---|
+
+The `minVersion` property allows asset creators to specify a minimum version that a client implementation **MUST** support in order to load the asset. If present, the minimum version specified by the `minVersion` property **MUST** be less than or equal to the version specified by the `version` property.
+
+|  Note  |   Implementation Note  Client implementations should first check whether a `minVersion` property is specified and ensure both its major and minor versions can be supported. If no `minVersion` is specified, then clients should check the `version` property and ensure its major version is supported.   | 
+|---|---|
+
+|  Caution  |   Implementation Note  The version specified in the [GLB format](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#glb-file-format-specification) header refers only to the GLB container version and is not related to the version of glTF JSON.   | 
+|---|---|
+
+Additional metadata **MAY** be stored in optional properties such as `generator` or `copyright`. For example,
+
+```
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "collada2gltf@f356b99aef8868f74877c7ca545f2cd206b9d3b7",
+        "copyright": "2017 (c) Khronos Group"
+    }
+}
+```
+
+### 3.3. Indices and Names
+[Permalink: 3.3. Indices and Names](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#33-indices-and-names)
+
+Entities of a glTF asset are referenced by their indices in corresponding arrays, e.g., a `bufferView` refers to a `buffer` by specifying the buffer’s index in `buffers` array. For example:
+
+```
+{
+    "buffers": [
+        {
+            "byteLength": 1024,
+            "uri": "path-to.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 512,
+            "byteOffset": 0
+        }
+    ]
+}
+```
+
+In this example, `buffers` and `bufferViews` arrays have only one element each. The bufferView refers to the buffer using the buffer’s index: `"buffer": 0`.
+
+Indices **MUST** be non\-negative integer numbers. Indices **MUST** always point to existing elements.
+
+Whereas indices are used for internal glTF references, optional *names* are used for application\-specific uses such as display. Any top\-level glTF object **MAY** have a `name` string property for this purpose. These property values are not guaranteed to be unique as they are intended to contain values created when the asset was authored.
+
+For property names, glTF usually uses camel case, `likeThis`.
+
+### 3.4. Coordinate System and Units
+[Permalink: 3.4. Coordinate System and Units](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#34-coordinate-system-and-units)
+
+glTF uses a right\-handed coordinate system.
+
+glTF defines \+Y as up; the front side of a glTF asset faces \+Z, the left side of a glTF asset faces \+X.
+[![coordinate system](https://github.com/KhronosGroup/glTF/raw/main/specification/2.0/figures/coordinate-system.svg)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/figures/coordinate-system.svg)
+Figure 2. glTF Coordinate System Orientation
+
+The units for all linear distances are meters.
+
+All angles are in radians.
+
+Red, Green, and Blue primary colors use [Recommendation ITU\-R BT.709](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#bt709) chromaticity coordinates.
+
+|  Note  |   Implementation Note  Chromaticity coordinates define the interpretation of each primary color channel of the color model. In the context of a typical display, color primaries describe the color of the red, green, and blue phosphors or filters. Unless a wide color gamut output is explicitly used, client implementations usually do not need to convert colors. Future specification versions or extensions may allow other color primaries \(such as P3\).   | 
+|---|---|
+
+### 3.5. Scenes
+[Permalink: 3.5. Scenes](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#35-scenes)
+
+#### 3.5.1. Overview
+[Permalink: 3.5.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#351-overview)
+
+glTF 2.0 assets **MAY** contain zero or more *scenes*, the set of visual objects to render. Scenes are defined in a `scenes` array. All nodes listed in `scene.nodes` array **MUST** be root nodes, i.e., they **MUST NOT** be listed in a `node.children` array of any node. The same root node **MAY** appear in multiple scenes.
+
+An additional root\-level property, `scene` \(note singular\), identifies which of the scenes in the array **SHOULD** be displayed at load time. When `scene` is undefined, client implementations **MAY** delay rendering until a particular scene is requested.
+
+A glTF asset that does not contain any scenes **SHOULD** be treated as a library of individual entities such as materials or meshes.
+
+The following example defines a glTF asset with a single scene that contains a single node.
+
+```
+{
+    "nodes": [
+        {
+            "name": "singleNode"
+        }
+    ],
+    "scenes": [
+        {
+            "name": "singleScene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
+```
+
+#### 3.5.2. Nodes and Hierarchy
+[Permalink: 3.5.2. Nodes and Hierarchy](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#352-nodes-and-hierarchy)
+
+glTF assets **MAY** define *nodes*, that is, the objects comprising the scene to render.
+
+Nodes **MAY** have transform properties, as described later.
+
+Nodes are organized in a parent\-child hierarchy known informally as the *node hierarchy*. A node is called a *root node* when it doesn’t have a parent.
+
+The node hierarchy **MUST** be a set of disjoint strict trees. That is node hierarchy **MUST NOT** contain cycles and each node **MUST** have zero or one parent node.
+
+A node lists its children node indices in the `children` array property. Each of those nodes could in turn have its own children, creating a hierarchy of nodes.
+
+|  Note  |   Example  In the following example, the node named `Car` has four children each of which has one child node.    ```
+{
+    "nodes": [
+        {
+            "name": "Car",
+            "children": [1, 2, 3, 4]
+        },
+        {
+            "name": "wheel_1",
+            "children": [5]
+        },
+        {
+            "name": "wheel_2",
+            "children": [6]
+        },
+        {
+            "name": "wheel_3",
+            "children": [7]
+        },
+        {
+            "name": "wheel_4",
+            "children": [8]
+        },
+        {
+            "name": "tire_1"
+        },
+        {
+            "name": "tire_2"
+        },
+        {
+            "name": "tire_3"
+        },
+        {
+            "name": "tire_4"
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+#### 3.5.3. Transformations
+[Permalink: 3.5.3. Transformations](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#353-transformations)
+
+By default, a node’s local space transform is identity.
+
+Any node **MAY** define a local space transform either by supplying a precomputed transformation matrix in the `matrix` property, or any of `translation`, `rotation`, and `scale` properties \(also known as *TRS properties*\). *Translation* and *scale* are 3D vectors in the local coordinate system; *rotation* is a quaternion value stored in XYZW order where W is the scalar. If defined, the rotation quaternion **MUST** be unit.
+
+When the `matrix` property is not defined, the local transform is computed from the TRS properties as follows, where
+-  
+
+\\$t\_x\\$, \\$t\_y\\$, and \\$t\_z\\$ are the translation vector components;
+-  
+
+\\$r\_x\\$, \\$r\_y\\$, \\$r\_z\\$, and \\$r\_w\\$ are the rotation quaternion components;
+-  
+
+\\$s\_x\\$, \\$s\_y\\$, and \\$s\_z\\$ are the scale vector components.
+\\$\(\(s\_x \* \(1 \- 2\(r\_y^2 \+ r\_z^2\)\), s\_y \* 2\(r\_xr\_y \- r\_zr\_w\), s\_z \* 2\(r\_xr\_z \+ r\_yr\_w\), t\_x\), \(s\_x \* 2\(r\_xr\_y \+ r\_zr\_w\), s\_y \* \(1 \- 2\(r\_x^2 \+ r\_z^2\)\), s\_z \* 2\(r\_yr\_z \- r\_xr\_w\), t\_y\), \(s\_x \* 2\(r\_xr\_z \- r\_yr\_w\), s\_y \* 2\(r\_yr\_z \+ r\_xr\_w\), s\_z \* \(1 \- 2\(r\_x^2 \+ r\_y^2\)\), t\_z\), \(0, 0, 0, 1\)\)\\$ 
+
+When the `matrix` property is defined, it **MUST** be decomposable to TRS properties, i.e., the specified matrix **MUST** conform to the following conditions:
+-  
+
+the last row is \\$\(0, 0, 0, 1\)\\$;
+-  
+
+none of the first three columns is all\-zeros;
+-  
+
+the absolute value of the determinant of the upper\-left 3x3 matrix formed by dividing each matrix element by the length of its column is close to positive one.
+
+|  Note  |   Implementation Note  These conditions ensure that the matrix has the following properties:    
+-  the matrix does not contain shear or perspective transforms;  
+-  decomposing the matrix into TRS properties and composing them back would produce nearly the same matrix, subject to floating\-point precision.     The `matrix` property cannot represent zero scale; assets would need to use the explicit `scale` property for that.   | 
+|---|---|
+
+The global transformation matrix of a node is the product of the global transformation matrix of its parent node and its own local transformation matrix. When the node has no parent node, its global transformation matrix is identical to its local transformation matrix.
+
+|  Note  |   Example  In the example below, a node named `Box` defines non\-default rotation and translation.    ```
+{
+    "nodes": [
+        {
+            "name": "Box",
+            "rotation": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "translation": [
+                -17.7082,
+                -11.4156,
+                2.0922
+            ]
+        }
+    ]
+}
+```
+The next example defines the transform for a node with attached camera using the `matrix` property rather than using the individual TRS values:    ```
+{
+    "nodes": [
+        {
+            "name": "node-camera",
+            "camera": 1,
+            "matrix": [
+                -0.99975,
+                -0.00679829,
+                0.0213218,
+                0,
+                0.00167596,
+                0.927325,
+                0.374254,
+                0,
+                -0.0223165,
+                0.374196,
+                -0.927081,
+                0,
+                -0.0115543,
+                0.194711,
+                -0.478297,
+                1
+            ]
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+Computing local and global transformation matrices **SHOULD** be done in double precision.
+
+|  Note  |   Implementation Note  Keeping double precision for intermediate values usually helps with preventing visual artifacts that could be caused by specific combinations of vertex data and/or node transforms. Since most GPUs do not directly support double\-precision data, final values might still be truncated to single precision prior to rendering.   | 
+|---|---|
+
+|  Note  |   Implementation Note  When the scale is zero on all three axes \(by node transform or by animated scale\), implementations are free to optimize away rendering of the node’s mesh, and all of the node’s children’s meshes. This provides a mechanism to animate visibility. Skinned meshes must not use this optimization unless all of the joints in the skin are scaled to zero simultaneously.   | 
+|---|---|
+
+### 3.6. Binary Data Storage
+[Permalink: 3.6. Binary Data Storage](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#36-binary-data-storage)
+
+#### 3.6.1. Buffers
+[Permalink: 3.6.1. Buffers](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#361-buffers)
+
+##### 3.6.1.1. Overview
+[Permalink: 3.6.1.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3611-overview)
+
+A *buffer* is arbitrary data stored as a binary blob. Buffers **MAY** contain any combination of any data used by the glTF asset.
+
+Binary blobs allow efficient creation of GPU buffers and textures since they require no additional parsing, except perhaps decompression.
+
+A buffer is defined by the `byteLength` and `uri` properties that specify the byte size of the buffer and the URI to the buffer data, respectively. glTF assets **MAY** have any number of buffers. Buffers are defined in the asset’s `buffers` array.
+
+While there’s no hard upper limit on a buffer’s byte size, glTF assets **SHOULD NOT** use buffers bigger than 253\-1 bytes because some JSON parsers may be unable to parse the value of their `byteLength` property correctly. Buffers stored in a chunk of a [GLBv2](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#glb-file-format-specification) file have an implicit size limit, since the entire file may be at most 232\-4 bytes.
+
+|  Note  |   Example   ```
+{
+   "buffers": [
+       {
+           "byteLength": 102040,
+           "uri": "duck.bin"
+       }
+   ]
+}
+```
+ | 
+|---|---|
+
+The byte length of the referenced resource **MUST** be greater than or equal to the buffer’s `byteLength` property. Only the resource’s byte range from zero \(inclusive\) to `byteLength` \(exclusive\) is considered referenced by the buffer object.
+
+Buffer data **MAY** alternatively be embedded in the glTF file via `data:` URIs. When a `data:` URI is used for buffer storage, its `mediatype` field **MUST** be set to `application/gltf\-buffer` or `application/octet\-stream`.
+
+If the `uri` property is undefined, the buffer’s data is provided by other means, such as a GLBv2 chunk \(see below\) or additional extensions. In absence of data sources, the buffer’s content is undefined and handling of such buffers is implementation\-dependent.
+
+##### 3.6.1.2. GLB\-stored Buffer
+[Permalink: 3.6.1.2. GLB-stored Buffer](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3612-glb-stored-buffer)
+
+The glTF asset **MAY** use the GLBv2 file container format to pack glTF JSON and one glTF buffer into the same file. Data for that buffer is provided by the GLB\-stored `BIN` chunk.
+
+When the glTF asset is stored inside a GLBv2 file, a glTF buffer that has index zero, i.e., the first element of the `buffers` array, and has its `uri` property undefined represents the GLB\-stored buffer. The GLB file **MUST** have a `BIN` chunk in this case.
+
+|  Note  |   Example  In the following snippet, the first buffer object refers to GLB\-stored data, while the second buffer uses an external resource.    ```
+{
+    "buffers": [
+        {
+            "byteLength": 35884
+        },
+        {
+            "byteLength": 504,
+            "uri": "external.bin"
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+Any glTF buffer with undefined `uri` property that is not the first element of the `buffers` array does not refer to the GLB\-stored BIN chunk, and the behavior of such buffers is left undefined to accommodate future extensions and specification versions.
+
+The byte length of the GLB’s `BIN` chunk **MUST** be greater than or equal to the byte length of the corresponding glTF buffer.
+
+|  Note  |   Implementation Note  Not requiring strict equality of chunk’s and buffer’s lengths is consistent with how buffers use external resources and slightly simplifies glTF to GLBv2 conversion: buffer’s `byteLength` does not need to be updated after applying GLBv2 padding.   | 
+|---|---|
+
+See [GLB File Format Specification](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#glb-file-format-specification) for details on GLBv2 File Format.
+
+#### 3.6.2. Buffer Views
+[Permalink: 3.6.2. Buffer Views](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#362-buffer-views)
+
+##### 3.6.2.1. Overview
+[Permalink: 3.6.2.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3621-overview)
+
+A *buffer view* represents a span of bytes defined by the `byteLength`, `buffer`, `byteOffset`, `byteStride`, and `target` properties. The `byteLength` property defines the buffer view’s byte length, the `buffer` and `byteOffset` properties define the buffer to use as the data source and the byte offset within it, respectively, the `byteStride` property defines the stride when the buffer view is used for vertex attributes, and the optional `target` property hints at the buffer usage when transferring mesh data. Buffer views are defined in the asset’s `bufferViews` array.
+
+If the `byteOffset` property is not defined, it is assumed to be zero.
+
+|  Note  |   Example  The following snippet defines two buffer views: the first holds the vertex indices for an indexed mesh primitive, and the second holds the vertex data for a mesh primitive.    ```
+{
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 25272,
+            "byteOffset": 0,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 76768,
+            "byteOffset": 25272,
+            "byteStride": 32,
+            "target": 34962
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+The referenced buffer **MUST** have enough bytes for the buffer view, i.e., the buffer’s byte length **MUST** be greater than or equal to the sum of the buffer view’s `byteOffset` and `byteLength` property values.
+
+Buffer views directly used by vertex indices accessors, vertex attribute accessors, or inverse bind matrices accessors **MUST NOT** contain more than one kind of data, e.g., if a buffer view is used by a vertex attribute accessor, that buffer view cannot be used by anything else except other vertex attribute accessors.
+
+Buffer views used by images or any other objects introduced by extensions or future Specification versions that refer to a buffer view as a whole, i.e., without specifying byte offset and/or byte length, **MUST NOT** be used by any objects that can refer to buffer view regions, such as accessors.
+
+When a buffer view is directly used by vertex indices accessors or vertex attribute accessors, it **MAY** define the `target` property with a value of *element array buffer* or *array buffer*, respectively. The `target` value uses integer enums defined in the [Properties Reference](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#_bufferview_target). Buffer views used for other kinds of data **MUST NOT** define the `target` property.
+
+|  Note  |   Implementation Note  This allows client implementations to early designate each buffer view to a proper processing step, e.g., data from buffer views with vertex indices and vertex attributes would be copied to the appropriate GPU buffers, while buffer views with image data would be passed to format\-specific image decoders.   | 
+|---|---|
+
+When a buffer view is used for vertex attribute data, it **MAY** define the `byteStride` property. This property specifies the stride in bytes between the first bytes of any two consecutive vertex attribute values. If two or more vertex attributes use the same buffer view, that buffer view **MUST** define its byte stride. Buffer views with other kinds of data **MUST NOT** define the byte stride.
+
+If the `byteStride` property is defined, all of the following restrictions apply to it:
+-  
+
+its value **MUST** be a multiple of four;
+-  
+
+its value **MUST** be greater than or equal to 4 and less than or equal to 252;
+-  
+
+its value **MUST** be less than or equal to the value of the `byteLength` property.
+
+#### 3.6.3. Accessors
+[Permalink: 3.6.3. Accessors](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#363-accessors)
+
+##### 3.6.3.1. Overview
+[Permalink: 3.6.3.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3631-overview)
+
+Buffers and buffer views do not contain type information. They simply define the byte ranges for retrieval from the referenced resources. Structured binary data needed by objects within the glTF asset, such as meshes, skins, and animations, is accessed via *accessors*. Accessors are stored in the asset’s `accessors` array.
+
+An accessor provides a finite non\-empty sequence of typed values. The number of elements provided by the accessor is defined by its `count` property.
+
+The dimensionality of accessor elements is defined by the `type` property and the data type of those elements is defined by the `componentType` and `normalized` properties.
+
+If the `bufferView` accessor property is defined, the accessor elements are sourced from the referenced buffer view and the `byteOffset` property defines the byte offset of the first accessed element within it. If the `byteOffset` property is not defined, it is assumed to be zero. If the buffer view’s `byteStride` property is present, it defines the stride in bytes between the first bytes of consecutive accessor elements.
+
+If the `bufferView` accessor property is not defined, the accessor elements are not sourced from a buffer view and the `byteOffset` property **MUST NOT** be defined.
+
+An accessor element source **MAY** be defined by an extension. In absence of element sources, accessor elements are sourced from an infinite sequence of zero bytes.
+
+If the `sparse` accessor property is defined, the accessor elements are selectively replaced based on the properties of the `sparse` object. Such replacements happen after resolving the element source.
+
+Optional `min` and `max` properties provide minimum and maximum values that the accessor can provide, respectively.
+
+|  Note  |   Example  The following snippet shows two accessors, the first is a scalar 16\-bit integer accessor, and the second is a floating\-point three\-component vector accessor.    ```
+{
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 12636,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 12,
+            "componentType": 5126,
+            "count": 2399,
+            "max": [  0.9617, 1.6397,  0.5392 ],
+            "min": [ -0.6929, 0.0992, -0.6132 ],
+            "type": "VEC3"
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+The following sections provide more details on each aspect of accessors.
+
+##### 3.6.3.2. Accessor Data Types
+[Permalink: 3.6.3.2. Accessor Data Types](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3632-accessor-data-types)
+
+The effective component type of accessor elements is defined by the combination of the enumerated `componentType` and boolean `normalized` properties.
+
+The following table lists effective component types with their corresponding accessor properties and short names used in the subsequent sections of the Specification.
+
+| Short Name |  Description |  Size in Bytes |  `componentType` |  `normalized` | 
+|---|---|---|---|---|
+| ***sint8*** |  8\-bit signed integer |  1 |  `5120` |  false | 
+| ***snorm8*** |  8\-bit signed normalized integer |  1 |  `5120` |  true | 
+| ***uint8*** |  8\-bit unsigned integer |  1 |  `5121` |  false | 
+| ***unorm8*** |  8\-bit unsigned normalized integer |  1 |  `5121` |  true | 
+| ***sint16*** |  16\-bit signed integer |  2 |  `5122` |  false | 
+| ***snorm16*** |  16\-bit signed normalized integer |  2 |  `5122` |  true | 
+| ***uint16*** |  16\-bit unsigned integer |  2 |  `5123` |  false | 
+| ***unorm16*** |  16\-bit unsigned normalized integer |  2 |  `5123` |  true | 
+| ***uint32*** |  32\-bit unsigned integer |  4 |  `5125` |  false | 
+| ***float32*** |  32\-bit signed [IEEE\-754](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#ieee-754) float |  4 |  `5126` |  false | 
+
+All multi\-byte component types use little endian byte order.
+
+Signed integers use two’s complement representation.
+
+The `normalized` property **MUST NOT** be true when the `componentType` is `5125` or `5126`.
+
+Only the values of the `componentType` property present in the table above are in scope of this Specification; support for others **MAY** be added by extensions or future Specification versions.
+
+Unsigned normalized integers represent floating\-point numbers in the range \\\(\[0, 1\]\\\). Signed normalized integers represent floating\-point numbers in the range \\\(\[\-1, \+1\]\\\). The conversions for the supported `componentType` property values are defined as follows, where \\$c\\$ is the accessed integer value and \\$f\\$ is the effective floating\-point value. These conversions **SHOULD** use at least 32\-bit floating\-point precision.
+
+| Short Name |  Conversion | 
+|---|---|
+| ***snorm8*** |  \\\(f = \\frac\{\\max\(c, \-127\)\}\{127.0\}\\\) | 
+| ***unorm8*** |  \\\(f = \\frac\{c\}\{255.0\}\\\) | 
+| ***snorm16*** |  \\\(f = \\frac\{\\max\(c, \-32767\)\}\{32767.0\}\\\) | 
+| ***unorm16*** |  \\\(f = \\frac\{c\}\{65535.0\}\\\) | 
+
+|  Note  |   Implementation Note  Signed normalized representations have redundant encodings. Both `\-127` and `\-128` represent `\-1.0` for *snorm8*; both `\-32767` and `\-32768` represent `\-1.0` for *snorm16*.   | 
+|---|---|
+
+|  Note  |   Implementation Note  When accessor elements are used for vertex attributes, these normalization conversions are usually performed by GPU hardware.   | 
+|---|---|
+
+##### 3.6.3.3. Accessor Components
+[Permalink: 3.6.3.3. Accessor Components](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3633-accessor-components)
+
+The number and semantics of components per a single accessor element are defined by the `type` property as follows.
+
+| `type` |  Description |  Number of components | 
+|---|---|---|
+| `"SCALAR"` |  Scalar value |  1 | 
+| `"VEC2"` |  Two\-component vector |  2 | 
+| `"VEC3"` |  Three\-component vector |  3 | 
+| `"VEC4"` |  Four\-component vector |  4 | 
+| `"MAT2"` |  2x2 matrix |  4 | 
+| `"MAT3"` |  3x3 matrix |  9 | 
+| `"MAT4"` |  4x4 matrix |  16 | 
+
+The vector components are stored in `\(x, y, z, w\)` order. The matrix elements are stored in the column\-major order.
+
+##### 3.6.3.4. Accessor Element Size
+[Permalink: 3.6.3.4. Accessor Element Size](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3634-accessor-element-size)
+
+The byte size of one non\-matrix accessor element is a product of its component type byte size and the number of components as defined above.
+
+The following table provides element byte sizes for all supported combinations of non\-matrix accessor types and component byte sizes.
+
+| `type` |  Component size in bytes |  Element size in bytes | 
+|---|---|---|
+| `"SCALAR"` |  1 |  1 | 
+| `"SCALAR"` |  2 |  2 | 
+| `"SCALAR"` |  4 |  4 | 
+| `"VEC2"` |  1 |  2 | 
+| `"VEC2"` |  2 |  4 | 
+| `"VEC2"` |  4 |  8 | 
+| `"VEC3"` |  1 |  3 | 
+| `"VEC3"` |  2 |  6 | 
+| `"VEC3"` |  4 |  12 | 
+| `"VEC4"` |  1 |  4 | 
+| `"VEC4"` |  2 |  8 | 
+| `"VEC4"` |  4 |  16 | 
+
+The byte size of one matrix accessor element is a product of the number of matrix columns and the byte size of one matrix column. The byte size of one matrix column is the accessor component type byte size multiplied by the number of matrix rows and rounded up to the nearest multiple of four.
+
+The following table provides element byte sizes for all supported combinations of matrix accessor types and component byte sizes.
+
+| `type` |  Component size in bytes |  Element size in bytes | 
+|---|---|---|
+| `"MAT2"` |  1 |  8 | 
+| `"MAT2"` |  2 |  8 | 
+| `"MAT2"` |  4 |  16 | 
+| `"MAT3"` |  1 |  12 | 
+| `"MAT3"` |  2 |  24 | 
+| `"MAT3"` |  4 |  36 | 
+| `"MAT4"` |  1 |  16 | 
+| `"MAT4"` |  2 |  32 | 
+| `"MAT4"` |  4 |  64 | 
+
+Data layouts for accessors of `"MAT2"` type and any one\-byte component type as well as accessors of `"MAT3"` type and any one\- or two\-byte component types include extra padding bytes \(marked as `X`\) as follows.
+[![padding mat2 1byte](https://github.com/KhronosGroup/glTF/raw/main/specification/2.0/figures/padding-mat2-1byte.svg)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/figures/padding-mat2-1byte.svg)
+Figure 3. Matrix 2x2, 1\-byte components
+[![padding mat3 1byte](https://github.com/KhronosGroup/glTF/raw/main/specification/2.0/figures/padding-mat3-1byte.svg)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/figures/padding-mat3-1byte.svg)
+Figure 4. Matrix 3x3, 1\-byte components
+[![padding mat3 2byte](https://github.com/KhronosGroup/glTF/raw/main/specification/2.0/figures/padding-mat3-2byte.svg)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/figures/padding-mat3-2byte.svg)
+Figure 5. Matrix 3x3, 2\-byte components
+
+##### 3.6.3.5. Accessing Data from Buffer Views
+[Permalink: 3.6.3.5. Accessing Data from Buffer Views](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3635-accessing-data-from-buffer-views)
+
+When the accessor’s `bufferView` property is defined, the referenced buffer view is the source of accessor elements.
+
+Let:
+-  
+
+*offset* be the value of the accessor’s `byteOffset` property;
+-  
+
+*size* be the accessor’s element size in bytes as defined above;
+-  
+
+*stride* be the value of the buffer view’s `byteStride` property if it is defined or *size* otherwise;
+-  
+
+*count* be the value of the accessor’s `count` property.
+
+Then the byte offset of the *i*\-th accessor element within the buffer view is defined by the following expression where *i* is the accessor element index from zero \(inclusive\) to *count* \(exclusive\).
+\\\[\\mathit\{offset\} \+ i \\times \\mathit\{stride\}\\\] 
+
+|  Note  |   Implementation Note  When *stride* is greater than *size*, accessor elements are not tightly\-packed and thus interleaved bytes would need to be skipped during iteration over accessor elements. Graphics APIs usually support that directly by accepting byte stride values associated with vertex attributes.   | 
+|---|---|
+
+The referenced buffer view **MUST** be large enough to fit all accessed elements, i.e., the buffer view’s byte length **MUST** be greater than or equal to the value of the following expression.
+\\\[\\mathit\{offset\} \+ \(\\mathit\{count\} \- 1\) \\times \\mathit\{stride\} \+ \\mathit\{size\}\\\] 
+
+The accessor’s byte offset into the buffer view and the buffer view’s byte offset into the buffer **MUST** be multiples of the accessor’s component type byte size.
+
+|  Note  |   Implementation Note  These alignment requirements allow client implementations to more efficiently process binary buffers because creating aligned data views usually does not require extra copying.   | 
+|---|---|
+
+Accessors used for vertex attributes **MAY** reference buffer views with a defined `byteStride` property; accessors that are not used for vertex attributes **MUST NOT** reference buffer views that define byte stride. If two or more vertex attribute accessors use the same buffer view, that buffer view **MUST** define its byte stride.
+
+If the referenced buffer view defines its byte stride, the following restrictions apply in addition to those mentioned in the section about buffer views:
+-  
+
+The byte stride of the referenced buffer view **MUST** be greater than or equal to the accessor’s element byte size.
+
+|  Note  |   Rationale  This restriction ensures that adjacent accessor elements do not overlap.   | 
+|---|---|
+-  
+
+The byte stride of the referenced buffer view **MUST** be a multiple of the accessor’s component type byte size.
+
+|  Note  |   Rationale  This restriction is currently redundant because the byte stride value has to be a multiple of four anyway and that implicitly covers all component type byte sizes defined in this Specification. However, if an extension or a future Specification version add support for accessors with another component type byte size, e.g., greater than four, the byte stride of buffer views used with such accessors would have to be a multiple of that size.   | 
+|---|---|
+
+If the accessor is used for vertex attributes, its elements **MUST** be aligned to 4\-byte boundaries inside the buffer view, i.e., the accessor’s byte offset **MUST** be a multiple of four and either the component type byte size **MUST** be a multiple of four or the buffer view’s byte stride **MUST** be defined.
+
+|  Note  |   Implementation Note  Multiple GPU platforms require vertex data alignment for performance and/or compatibility reasons.   | 
+|---|---|
+
+|  Note  |   Example  The following snippet defines two accessors that refer to a buffer view with a byte stride greater than the byte size of the accessor elements. The first accessor provides 3 two\-component vectors of the *unorm16* component type and the second accessor provides 3 three\-component vectors of the *unorm8* type. The first accessor retrieves data from the `\[0, 3\]`, `\[8, 11\]`, and `\[16, 19\]` inclusive byte ranges of the buffer view, and the second accessor retrieves data from the `\[4, 6\]`, `\[12, 14\]`, and `\[20, 22\]` inclusive byte ranges of the buffer view. Note that bytes `7` and `15` are not accessed, and the byte `23` does not even have to be included in the buffer view \(as per the rules of this section\).    ```
+{
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 23,
+            "byteStride": 8
+        }
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 3,
+            "normalized": true,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 4,
+            "componentType": 5121,
+            "count": 3,
+            "normalized": true,
+            "type": "VEC3"
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+##### 3.6.3.6. Sparse Accessors
+[Permalink: 3.6.3.6. Sparse Accessors](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3636-sparse-accessors)
+
+###### 3.6.3.6.1. Overview
+[Permalink: 3.6.3.6.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#36361-overview)
+
+Sparse data encoding is usually more memory\-efficient than dense encoding when describing incremental changes with respect to reference values. This is often the case when encoding morph targets; it is, in general, more efficient to describe a few displaced vertices in a morph target than transmitting all morph target vertices.
+
+The `sparse` property of the accessor object defines which accessor elements are replaced. The `sparse` property value is a JSON object that contains the following **REQUIRED** properties:
+-  
+
+`count`: the number of replaced elements, it **MUST** be greater than zero and less than or equal to the value of the accessor’s `count` property;
+-  
+
+`indices`: the object describing the location and the component type of indices of accessor elements to be replaced;
+-  
+
+`values`: the object describing the location of the replacement elements corresponding to the indices.
+
+|  Note  |   Example  The following snippet shows a sparse accessor with ten replaced elements.    ```
+{
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 12636,
+            "type": "VEC3",
+            "sparse": {
+                "count": 10,
+                "indices": {
+                    "bufferView": 1,
+                    "byteOffset": 0,
+                    "componentType": 5123
+                },
+                "values": {
+                    "bufferView": 2,
+                    "byteOffset": 0
+                }
+            }
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+###### 3.6.3.6.2. Sparse Accessor Indices
+[Permalink: 3.6.3.6.2. Sparse Accessor Indices](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#36362-sparse-accessor-indices)
+
+The `indices` object contains three properties: `componentType`, `bufferView`, and `byteOffset`.
+
+The `componentType` property defines the component type of the sparse index values and it **MUST** correspond to any of the unsigned integer data types defined above.
+
+The `bufferView` and `byteOffset` properties define the buffer view containing the indices of the replaced elements and the byte offset of the first index value within the buffer view, respectively. If the `byteOffset` property is not defined, it is assumed to be zero. The referenced buffer view **MUST NOT** have its `byteStride` or `target` properties defined.
+
+The index values are tightly packed, i.e., the distance between the first bytes of adjacent index values is equal to the byte size of the index component type.
+
+Let:
+-  
+
+*sparseCount* be the number of replaced elements;
+-  
+
+*sparseIndexSize* be the byte size of the sparse index component type;
+-  
+
+*sparseIndicesOffset* be the value of the `byteOffset` property of the `indices` object.
+
+The *sparseIndicesOffset* and the buffer view’s byte offset into the buffer **MUST** be multiples of the *sparseIndexSize*.
+
+Then the byte offset of the *j*\-th sparse index within the sparse indices buffer view is defined by the following expression where *j* is the sparse index from zero \(inclusive\) to *sparseCount* \(exclusive\).
+\\\[\\mathit\{sparseIndicesOffset\} \+ j \\times \\mathit\{sparseIndexSize\}\\\] 
+
+The referenced buffer view **MUST** be large enough to fit all indices, i.e., the byte length of the referenced buffer view **MUST** be greater than or equal to the value of the following expression.
+\\\[\\mathit\{sparseIndicesOffset\} \+ \\mathit\{sparseCount\} \\times \\mathit\{sparseIndexSize\}\\\] 
+
+The sequence of stored indices **MUST** be strictly increasing and all index values **MUST** be less than the value of the accessor’s `count` property.
+
+###### 3.6.3.6.3. Sparse Accessor Values
+[Permalink: 3.6.3.6.3. Sparse Accessor Values](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#36363-sparse-accessor-values)
+
+The `values` object contains `bufferView` and `byteOffset` properties. They define the buffer view containing the replacement accessor elements and the byte offset of the first replacement element within the buffer view, respectively. If the `byteOffset` property is not defined, it is assumed to be zero. The referenced buffer view **MUST NOT** have its `byteStride` or `target` properties defined.
+
+The replacement elements have the same dimensionality and component type as the original accessor elements. The replacement elements are always tightly packed, i.e., the distance between the first bytes of adjacent replacement elements is equal to the accessor element byte size.
+
+Let:
+-  
+
+*sparseCount* be the number of replaced elements;
+-  
+
+*size* be the accessor’s element size in bytes;
+-  
+
+*sparseValuesOffset* be the value of the `byteOffset` property of the `values` object.
+
+The *sparseValuesOffset* and the buffer view’s byte offset into the buffer **MUST** be multiples of the accessor’s component byte size.
+
+Then the byte offset of the *j*\-th replacement element within the sparse values buffer view is defined by the following expression where *j* is the replacement element index from zero \(inclusive\) to *sparseCount* \(exclusive\).
+\\\[\\mathit\{sparseValuesOffset\} \+ j \\times \\mathit\{size\}\\\] 
+
+The referenced buffer view **MUST** be large enough to fit all replacement elements, i.e., the byte length of the referenced buffer view **MUST** be greater than or equal to the value of the following expression.
+\\\[\\mathit\{sparseValuesOffset\} \+ \\mathit\{sparseCount\} \\times \\mathit\{size\}\\\] 
+
+###### 3.6.3.6.4. Sparse Accessor Usage
+[Permalink: 3.6.3.6.4. Sparse Accessor Usage](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#36364-sparse-accessor-usage)
+
+When the accessor has sparse data, retrieving the *i*\-th accessor element is done by performing the following steps, where *i* is the accessor element index from zero \(inclusive\) to *count* \(exclusive\):
+1.  
+
+Let *sparseCount* be the number of replaced elements as defined by the `count` property of the `sparse` object.
+2.  
+
+Let *sparseIndices* be the array of sparse indices and *sparseValues* be the array of replacement elements as defined above; both arrays have *sparseCount* elements.
+3.  
+
+If the *sparseIndices* array contains the value of *i*, the value of the *i*\-th accessor element is the *j*\-th value of the *sparseValues* array where *j* is the index of the value of *i* in the *sparseIndices* array.
+
+|  Note  |   Implementation Note  Binary search can be used for finding *i* in the *sparseIndices* array because the array is pre\-sorted and does not contain duplicates. For the same reasons, the search can be avoided entirely if iterating over all accessor elements.   | 
+|---|---|
+4.  
+
+Else if the *sparseIndices* array does not contain the value of *i*, the value of the *i*\-th accessor element is as if the `sparse` property is not defined.
+
+##### 3.6.3.7. Accessor Bounds
+[Permalink: 3.6.3.7. Accessor Bounds](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3637-accessor-bounds)
+
+The `min` and `max` properties of the accessor are arrays that contain per\-component minimum and maximum values, respectively. The length of these arrays **MUST** be equal to the number of accessor’s components.
+
+If the accessor’s component type is a non\-normalized integer type, the minimum and maximum values stored as JSON decimal numbers **MUST** exactly match minimum and maximum values that would be accessed.
+
+If the accessor’s component type is a normalized integer type, the minimum and maximum values stored as JSON decimal numbers **MUST** exactly match integer minimum and maximum values that would be accessed before they are converted to normalized floats. In other words, even if the accessor’s `normalized` property is true, the bounds are stored as if it is false.
+
+If the accessor’s component type is a floating\-point type, the minimum and maximum values stored as JSON decimal numbers **SHOULD** exactly match minimum and maximum values that would be accessed. If they do not match exactly as\-is, they **MUST** match exactly after being rounded to the accessor’s specific floating\-point component type.
+
+|  Note  |   Implementation Note  JSON usually implies double precision and some tools output JSON numbers that are not representable with single\-precision floats but are close enough to match the accessed values after being rounded to the accessor’s component type.   Let’s say the accessor’s component type is *float32* and the exact minimum value accessed with it is `1.2000000476837158203125`. The accessor’s `min` property can be `1.2` in this case because rounding `1.2` to a single\-precision float would produce the accessed value.   It is therefore recommended to apply rounding to the `min` and `max` property values of floating\-point accessors when loading glTF assets to avoid any potential runtime mismatches. If using ECMAScript, the `Math.fround` function could be used to round a JSON number to the nearest single\-precision float.   | 
+|---|---|
+
+|  Note  |   Implementation Note  The rules above imply that values of the `min` and `max` properties are always in the range of the accessor’s component type and therefore implementations can internally use the same data type for the bounds as for the accessor elements.   | 
+|---|---|
+
+If the accessor is sparse, its `min` and `max` properties correspond to the minimum and maximum component values after applying the sparse replacements.
+
+When neither `sparse` nor `bufferView` properties are defined, i.e., if all accessed elements are implicit zeros, the `min` and `max` properties **MAY** have any values representable with the accessor’s component type. This is intended for use cases when data is supplied by external means \(e.g., via extensions\) and accessors are only used as format descriptors.
+
+Although the `min` and `max` properties are optional in general, accessors used for vertex positions or animation sampler inputs **MUST** define these properties.
+
+### 3.7. Geometry
+[Permalink: 3.7. Geometry](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#37-geometry)
+
+#### 3.7.1. Overview
+[Permalink: 3.7.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#371-overview)
+
+Any node **MAY** contain one mesh, defined in its `mesh` property.
+
+Mesh primitives of the mesh **MAY** have morph targets.
+
+The mesh **MAY** be skinned using information provided in the referenced `skin` object.
+
+#### 3.7.2. Meshes
+[Permalink: 3.7.2. Meshes](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#372-meshes)
+
+##### 3.7.2.1. Overview
+[Permalink: 3.7.2.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3721-overview)
+
+A *mesh* is defined as an array of *primitives*.
+
+A primitive object describes vertex attributes \(data associated with each vertex\), primitive topology \(e.g., triangle list\), vertex connectivity, and an optional material.
+
+Vertex attribute values are provided by accessors associated with vertex attribute semantics defined in the `attributes` property, primitive topology is defined in the enumerated `mode` property, and vertex connectivity is either directly derived from the order of attribute values, or it is defined by the index values provided by the accessor referenced by the `indices` property.
+
+The material used for rendering the primitive is defined by the `material` property. If the `material` property is not defined, then a [default material](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#default-material) is used.
+
+|  Note  |   Implementation Note  Splitting one mesh into several primitives can be useful to limit the amount of geometry rendered per a single draw call or to assign different materials to different parts of the mesh.   | 
+|---|---|
+
+|  Note  |   Example  The following example defines a mesh containing one primitive with explicit vertex indices.    ```
+{
+    "meshes": [
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 23,
+                        "POSITION": 22,
+                        "TANGENT": 24,
+                        "TEXCOORD_0": 25
+                    },
+                    "indices": 21,
+                    "material": 3,
+                    "mode": 4
+                }
+            ]
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+##### 3.7.2.2. Vertex Attributes
+[Permalink: 3.7.2.2. Vertex Attributes](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3722-vertex-attributes)
+
+The `attributes` property is a JSON object that maps attribute semantic names to the indices of accessors providing the corresponding data.
+
+The `attributes` JSON object differs from the most of glTF JSON objects. In particular, it is treated as a flat key\-value storage and thus it **MUST NOT** have any nested objects or values that are not accessor references.
+
+Properties of the `attributes` object **SHOULD** belong to one of the following categories as follows:
+-  
+
+Attribute semantics defined in this Specification, i.e., `POSITION`, `NORMAL`, and `TANGENT`.
+-  
+
+Indexed attribute semantics defined in this Specification, i.e., `TEXCOORD\_n`, `COLOR\_n`, `JOINTS\_n`, and `WEIGHTS\_n`, where `n` is an index placeholder.
+-  
+
+Attribute semantics defined in glTF extensions using the `<extension>:<attribute>` syntax, e.g., `EXT\_my\_extension:ATTRIBUTE`, provided that the corresponding extension is listed in the `extensionsUsed` property of the root glTF JSON object and that extension defines the attribute semantic used.
+-  
+
+Attribute semantics that start with an underscore, e.g., `\_TEMPERATURE`. These are considered application\-specific.
+
+Attribute semantic names not belonging to any of these categories are out of scope of this Specification and **SHOULD NOT** be present in the `attributes` object.
+
+The following table provides attribute semantic names with their compatible accessor types and effective accessor component types for the attribute semantics defined in this Specification. Any combination of types and/or effective component types not present in this table **MUST NOT** be used for attribute semantics defined in this Specification.
+
+Future specification versions or extensions **MAY** define new attribute semantics as well as additional compatible types and/or effective component types for existing attribute semantics.
+
+Accessors of the *uint32* effective component type **SHOULD NOT** be used for any vertex attribute semantic, including application\-specific semantics, unless explicitly enabled by future specification versions or extensions.
+
+| Semantic Name |  Accessor Type\(s\) |  Effective Component Type\(s\) |  Description | 
+|---|---|---|---|
+| `POSITION` |  VEC3 |  *float32* |  Unitless XYZ vertex positions | 
+| `NORMAL` |  VEC3 |  *float32* |  Normalized XYZ vertex normals | 
+| `TANGENT` |  VEC4 |  *float32* |  XYZW vertex tangents where the XYZ portion is normalized, and the W component is a sign value \(\-1 or \+1\) indicating handedness of the tangent basis | 
+| `TEXCOORD\_n` |  VEC2 |  *float32*  *unorm8*  *unorm16* |  ST texture coordinates | 
+| `COLOR\_n` |  VEC3  VEC4 |  *float32*  *unorm8*  *unorm16* |  RGB or RGBA vertex color | 
+| `JOINTS\_n` |  VEC4 |  *uint8*  *uint16* |  See [Skinned Mesh Primitive Attributes](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#skinned-mesh-primitive-attributes) | 
+| `WEIGHTS\_n` |  VEC4 |  *float32*  *unorm8*   *unorm16* |  See [Skinned Mesh Primitive Attributes](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#skinned-mesh-primitive-attributes) | 
+
+The `TEXCOORD\_n`, `COLOR\_n`, `JOINTS\_n`, and `WEIGHTS\_n` attribute semantic property names have the form `\[semantic\]\_\[index\]`, e.g., `TEXCOORD\_0`, `TEXCOORD\_1`, `COLOR\_0`. The following rules apply to the `\[index\]` syntax:
+-  
+
+the `\[index\]` value **MUST** be a non\-negative decimal integer;
+-  
+
+the `\[index\]` value **MUST NOT** use leading zeroes for positive index values, e.g., `TEXCOORD\_01` is invalid;
+-  
+
+the `\[index\]` value **MUST NOT** have more than nine digits.
+
+|  Note  |    In other words, the `\[index\]` value is a decimal number from 0 to 999999999 without leading zeros.   | 
+|---|---|
+
+Any attribute semantic name that starts with `TEXCOORD\_`, `COLOR\_`, `JOINTS\_`, or `WEIGHTS\_` characters that are not followed by a valid index value is invalid and **MUST NOT** be present.
+
+Index values used for the same attribute semantic within a single primitive **MUST NOT** have gaps, i.e., if an indexed attribute semantic name with index `n` is present for any positive `n`, then the same indexed attribute semantic name with index `n\-1` **MUST** also be present.
+
+|  Note  |    The `JOINTS\_n` and `WEIGHTS\_n` vertex attribute semantics are described in the [Skinned Mesh Primitive Attributes](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#skinned-mesh-primitive-attributes) section below.   | 
+|---|---|
+
+Among all possible indexed attribute semantic names, client implementations **SHOULD** support at least `TEXCOORD\_0` and `TEXCOORD\_1`, `COLOR\_0`, and `JOINTS\_0` with `WEIGHTS\_0`.
+
+Attribute data accessed with floating\-point accessors **MUST NOT** contain infinite or NaN values.
+
+Accessors for the `POSITION` semantic **MUST** have their bounds, i.e., `min` and `max` properties, defined.
+
+The W components provided by accessors for the `TANGENT` semantic **MUST** have the absolute value of \\$1.0\\$.
+
+All components of each `COLOR\_0` accessor element **MUST** be in the \\$\[0.0, 1.0\]\\$ range.
+
+All attribute accessors for a given primitive **MUST** have the same number of elements, i.e., values of their `count` properties **MUST** be equal.
+
+##### 3.7.2.3. Topology and Connectivity
+[Permalink: 3.7.2.3. Topology and Connectivity](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3723-topology-and-connectivity)
+
+Accessors referenced from the `attributes` object only provide attribute values without implying any specific topology or connectivity. Assembling the mesh primitive from those attribute values is controlled by the `indices` and `mode` properties.
+
+If the primitive’s `indices` property is not defined, the mesh primitive is assembled by taking all elements of the attribute accessors in the order as they are provided by the accessors. The total number of the primitive’s vertices is equal to the value of the `count` property of any attribute accessor referenced from the primitive’s `attributes` object.
+
+|  Note  |   Implementation Note  In other words, the attribute values of the \\$i\\$\-th vertex of the mesh primitive are given by the \\$i\\$\-th elements of the corresponding accessors. For example, the position and normal of the first vertex of the mesh primitive are given by the first elements of the accessors referenced by the `POSITION` and `NORMAL` attributes, respectively; the position and normal of the second vertex of the mesh primitive are given by the second elements of those accessors, and so on.   This kind of data layout is often called “non\-indexed” because there is no indirection between the primitive’s vertices and the attribute values. It is typically used for topology types that do not reuse the same vertex multiple times, such as point lists, line strips, or triangle strips \(see below\).   | 
+|---|---|
+
+If the primitive’s `indices` property is defined, it refers to the accessor that provides vertex indices, and the mesh primitive is assembled by taking the elements of the vertex indices accessor and fetching the corresponding elements of the attribute accessors in the order as they are provided by the vertex indices accessor. The total number of the primitive’s vertices is equal to the value of the `count` property of the vertex indices accessor.
+
+|  Note  |   Implementation Note  In other words, the attribute values of the \\$i\\$\-th vertex of the mesh primitive are given by the \\$k\_i\\$\-th elements of the corresponding accessors, where \\$k\_i\\$ is the \\$i\\$\-th element value of the vertex indices accessor. Let’s say the `POSITION` accessor provides five elements \\$\{ p\_0, p\_1, p\_2, p\_3, p\_4 \}\\$, and the vertex indices accessor provides the following six elements \\$\{ 1, 2, 4, 2, 3, 4 \}\\$. Then the mesh primitive has six vertices with positions \\$\{ p\_1, p\_2, p\_4, p\_2, p\_3, p\_4 \}\\$. Note that the index values do not have to be unique or cover all possible accessor elements.   If there are multiple vertex attributes, the same index values are used for all of them. For example, it is not possible to specify separate index values for positions and normals, so representing a cube made of twelve triangles with positions and flat normals would require 24 unique index values.   This kind of data layout is often called “indexed” and it is typically used for topology types that reuse colocated vertices, such as triangle lists or line lists \(see below\).   | 
+|---|---|
+
+The accessor referenced by the `indices` property **MUST** have the `"SCALAR"` type and any of the *uint8*, *uint16*, or *uint32* effective component types.
+
+All values provided by the indices accessor **MUST** be less than the value of the `count` properties of the attribute accessors, i.e., each index value **MUST** refer to an existing vertex attribute value.
+
+Additionally, the accessor **MUST NOT** provide the maximum possible value for its component type, i.e., 255 for *uint8*, 65535 for *uint16*, or 4294967295 for *uint32*.
+
+|  Note  |   Implementation Note  The maximum values unconditionally trigger primitive restart in some graphics APIs and would require client implementations to rebuild the index data.   | 
+|---|---|
+
+The rest of this section uses the “number of the primitive’s vertices” term as defined above, i.e., the value of the `count` property of the vertex indices accessor if it is defined, or the value of the `count` property of the attribute accessors otherwise. In all cases, the number of the primitive’s vertices **MUST** be positive.
+
+The primitive’s vertices are connected based on the value of the enumerated `mode` property that defines the topology type of the mesh primitive. The following list provides all topology types defined by this specification. Most topology types have specific requirements for the number of the primitive’s vertices.
+-  
+
+**Point Lists**
+
+Each vertex defines a single point primitive, according to the equation:
+
+\\$P\_i = \{ v\_i \}\\$
+-  
+
+**Line Strips**
+
+The number of the primitive’s vertices **MUST** be greater than or equal to two.
+
+One line primitive is defined by each vertex and the following vertex, according to the equation:
+
+\\$P\_i = \{ v\_i, v\_\{i\+1\} \}\\$
+-  
+
+**Line Loops**
+
+The number of the primitive’s vertices **MUST** be greater than or equal to two.
+
+Loops are the same as line strips except that a final segment is added from the final specified vertex to the first vertex.
+-  
+
+**Line Lists**
+
+The number of the primitive’s vertices **MUST** be divisible by two.
+
+Each consecutive pair of vertices defines a single line primitive, according to the equation:
+
+\\$P\_i = \{ v\_\{2i\}, v\_\{2i\+1\} \}\\$
+-  
+
+**Triangle Lists**
+
+The number of the primitive’s vertices **MUST** be divisible by three.
+
+Each consecutive set of three vertices defines a single triangle primitive, according to the equation:
+
+\\$P\_i = \{ v\_\{3i\}, v\_\{3i\+1\}, v\_\{3i\+2\} \}\\$
+-  
+
+**Triangle Strips**
+
+The number of the primitive’s vertices **MUST** be greater than or equal to three.
+
+One triangle primitive is defined by each vertex and the two vertices that follow it, according to the equation:
+
+\\$P\_i = \{ v\_i, v\_\{i\+\(1\+i%2\)\}, v\_\{i\+\(2\-i%2\)\} \}\\$
+-  
+
+**Triangle Fans**
+
+The number of the primitive’s vertices **MUST** be greater than or equal to three.
+
+Triangle primitives are defined around a shared common vertex, according to the equation:
+
+\\$P\_i = \{ v\_\{i\+1\}, v\_\{i\+2\}, v\_0 \}\\$
+
+Mesh geometry **SHOULD NOT** contain degenerate lines or triangles, i.e., lines or triangles that use the same vertex more than once per topology primitive.
+
+##### 3.7.2.4. Using Primitive Data
+[Permalink: 3.7.2.4. Using Primitive Data](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3724-using-primitive-data)
+
+When positions are not specified, client implementations **SHOULD** skip primitive’s rendering unless its positions are provided by other means \(e.g., by an extension\). This applies to both indexed and non\-indexed geometry.
+
+When normals are not specified, the mesh primitive has implicit flat normals. The provided tangents are ignored in this case and thus they **SHOULD NOT** be present.
+
+|  Note  |   Implementation Note  Flat normals mean that there is only one normal vector value per each rendered triangle. Depending on the mesh primitive connectivity, precomputing flat normals could require increasing the number of vertices and reassembling the mesh primitive.   | 
+|---|---|
+
+When tangents are not specified and the material has a normal texture, the tangent vectors are calculated using default [MikkTSpace](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#mikktspace) algorithms with the vertex positions, normals \(specified or generated as mentioned above\), and texture coordinates associated with the normal texture.
+
+Vertices of the same triangle **SHOULD** have equal W components of their `TANGENT` values. When vertices of the same triangle have different W values, its tangent space is considered undefined.
+
+The bitangent vectors are computed by taking the cross product of the XYZ components of the normal and tangent vectors and multiplying that cross product against the W component of the tangent.
+\\\[\\vec\{B\} = \(\\vec\{N\_\{xyz\}\} \\times \\vec\{T\_\{xyz\}\}\) \\cdot T\_w\\\] 
+
+When a `COLOR\_n` attribute uses an accessor of the `"VEC3"` type, its alpha component is assumed to have a value of \\$1.0\\$.
+
+##### 3.7.2.5. Morph Targets
+[Permalink: 3.7.2.5. Morph Targets](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3725-morph-targets)
+
+###### 3.7.2.5.1. Overview
+[Permalink: 3.7.2.5.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#37251-overview)
+
+A mesh primitive **MAY** define *morph targets*.
+
+A morph target defines an alternative state of the primitive’s vertex attribute values stored as differences \(deltas\) between the target vertex attribute values and the original vertex attributes values.
+
+Morph targets are specified in the primitive’s `targets` array. The number of elements of the `targets` array defines the number of morph targets for the mesh primitive. Each element of that array is a non\-empty JSON object that maps attribute semantic names to the indices of accessors providing the corresponding morph target difference values. Similarly to the primitive’s `attributes` object, each element of the `targets` array is treated as a flat key\-value storage and thus it **MUST NOT** have any nested objects or values that are not accessor references.
+
+Vertex attribute semantic names not present in the primitive’s `attributes` object **MUST NOT** be present in its morph targets. Extension\-defined and application\-specific attribute semantics use the same naming conventions as for the primitive’s `attributes` object.
+
+If a vertex attribute semantic name is not present in a morph target, the difference values for that vertex attribute semantic are zeros, i.e., the morph target does not modify values of that vertex attribute.
+
+|  Note  |   Implementation Note  This allows omitting zero\-filled accessors and implies that different morph targets of the same primitive can modify different vertex attributes.   | 
+|---|---|
+
+The number of morph targets of the mesh is the number of morph targets of the first mesh primitive that has morph targets. If a mesh has multiple mesh primitives, all mesh primitives of that mesh that define morph targets **MUST** have the same number of morph targets.
+
+|  Note  |   Implementation Note  When a mesh has a mix of mesh primitives with and without defined morph targets, the mesh primitives without morph targets can be interpreted as if they define the same number of morph targets with all difference values set to zeros.   | 
+|---|---|
+
+Each morph target is applied to the mesh primitive according to the morph target’s weight. When a mesh has multiple mesh primitives, the same morph target weights are used for all mesh primitives that have morph targets.
+
+The `weights` property of the mesh, if defined, provides an array of default morph target weights; the number of elements of the `weights` array **MUST** be equal to the number of the morph targets of the mesh. If the `weights` property is not defined, the default morph target weights are zeros.
+
+|  Note  |   Example  The following example shows a mesh with three primitives and two morph targets. The first primitive has no morph targets and thus its vertex attributes have only one state. The second primitive defines two morph targets with difference values for both vertex attribute semantics. The third primitive defines two morph targets and each morph target provides difference values for only one vertex attribute. The mesh also defines default morph target weights.    ```
+{
+    "primitives": [
+        {
+            "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+            }
+        },
+        {
+            "attributes": {
+                "POSITION": 2,
+                "NORMAL": 3
+            },
+            "targets": [
+                {
+                    "POSITION": 4,
+                    "NORMAL": 5
+                },
+                {
+                    "POSITION": 6,
+                    "NORMAL": 7
+                }
+            ]
+        },
+        {
+            "attributes": {
+                "POSITION": 8,
+                "COLOR_0": 9
+            },
+            "targets": [
+                {
+                    "POSITION": 10
+                },
+                {
+                    "COLOR_0": 11
+                }
+            ]
+        }
+    ],
+    "weights": [ 0.5, 1.75 ]
+}
+```
+ | 
+|---|---|
+
+|  Note  |   Implementation Note  A significant number of authoring and client implementations associate names with morph targets. While the glTF 2.0 specification currently does not provide a way to specify names, many tools add a `targetNames` array of strings to the `extras` object of the mesh containing the morph targets. The number of elements of the `targetNames` array is equal to the number of the morph targets of the mesh.   | 
+|---|---|
+
+###### 3.7.2.5.2. Difference Data Storage
+[Permalink: 3.7.2.5.2. Difference Data Storage](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#37252-difference-data-storage)
+
+The following table provides attribute semantic names that support morph targets with their compatible accessor types and effective accessor component types for the attribute semantics defined in this Specification. Any combination of types and/or effective component types not present in this table **MUST NOT** be used for attribute semantics defined in this Specification.
+
+Future specification versions or extensions **MAY** define new attribute semantics that support morph targets.
+
+Accessors of the *uint32* effective component type **SHOULD NOT** be used for morph target differences, unless explicitly enabled by future specification versions or extensions.
+
+| Name |  Accessor Type\(s\) |  Effective Component Type\(s\) |  Description | 
+|---|---|---|---|
+| `POSITION` |  VEC3 |  *float32* |  XYZ vertex position displacements | 
+| `NORMAL` |  VEC3 |  *float32* |  XYZ vertex normal displacements | 
+| `TANGENT` |  VEC3 |  *float32* |  XYZ vertex tangent displacements | 
+| `TEXCOORD\_n` |  VEC2 |  *float32*  *snorm8*  *snorm16*  *unorm8*  *unorm16* |  ST texture coordinate displacements | 
+| `COLOR\_n` |  VEC3  VEC4 |  *float32*  *snorm8*  *snorm16*  *unorm8*  *unorm16* |  RGB or RGBA color deltas | 
+
+Client implementations **SHOULD** support at least three attributes — `POSITION`, `NORMAL`, and `TANGENT` — for morphing. Client implementations **MAY** optionally support morphed `TEXCOORD\_n` and/or `COLOR\_n` attributes.
+
+Morph data accessed with floating\-point accessors **MUST NOT** contain infinite or NaN values.
+
+Accessors for the `POSITION` semantic **MUST** have their bounds, i.e., `min` and `max` properties, defined.
+
+Accessors for the `TANGENT` semantic do not have the W component for handedness since handedness cannot be displaced.
+
+All morph target accessors for a given primitive **MUST** have the same number of elements as the accessors providing original vertex attributes.
+
+###### 3.7.2.5.3. Applying Morph Data
+[Permalink: 3.7.2.5.3. Applying Morph Data](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#37253-applying-morph-data)
+
+Let:
+-  
+
+\\$M\\$ be the number of morph targets for a primitive and \\$m\\$ be the index of a morph target, \\$m \\in \[0,M\\\)\\$;
+-  
+
+\\$A\_i\\$ be the original value of an attribute \\$A\\$ at a vertex index \\$i\\$;
+-  
+
+\\\(\\Delta\{A\}\_\{m,i\}\\\) be the difference value of the attribute \\$A\\$ for the morph target \\$m\\$ at vertex index \\$i\\$;
+-  
+
+\\$W\_m\\$ be the scalar weight for the \\$m\\$\-th morph target.
+
+Then the effective value of the vertex attribute \\$A\\$ for the vertex \\$i\\$ is computed as follows.
+\\\[A'\_i = A\_i \+ \\sum\_\{m=0\}^\{M\-1\} \\Delta\{A\}\_\{m,i\} \\cdot W\_m\\\] 
+
+If the accessor providing \\$A\_i\\$ values has fewer components than are otherwise supported for the vertex attribute semantic, the omitted components are considered present with their implied values for the purpose of this computation.
+
+|  Note  |   Implementation Note  For example, original `COLOR\_n` values stored with the `"VEC3"` type imply that their alpha values are \\$1.0\\$ and thus `COLOR\_n` delta values provided by `"VEC4"` accessors are applied as if the original values also used the `"VEC4"` type.   | 
+|---|---|
+
+If the accessor providing \\\(\\Delta\{A\}\_\{m,i\}\\\) values has fewer components than are otherwise supported for the vertex attribute semantic, the omitted components are considered zeros for the purpose of this computation.
+
+|  Note  |   Implementation Note  For example, deltas for the `TANGENT` vertex attribute semantic do not contain the W component so morph targets do not modify tangent space handedness.   Similarly, deltas for `COLOR\_n` vertex attribute semantics provided via `"VEC3"` accessors do not modify alpha components.   | 
+|---|---|
+
+These computations **SHOULD** use at least 32\-bit floating\-point precision.
+
+Displacements for `POSITION`, `NORMAL`, and `TANGENT` attributes are applied before any transformation matrices affecting the mesh vertices such as skinning or node transforms.
+
+If the mesh primitive does not specify normals, i.e., if they are implicitly flat, then each morph target also has flat normals, adjusted for the vertex position deltas if necessary.
+
+If the mesh primitive does specify normals but a morph target does not provide deltas for them, the normal vectors remain intact for that morph target.
+
+If the tangent vectors were calculated for the mesh primitive \(because they were not provided or because the provided tangent vectors were ignored\), the tangent vector deltas are also calculated for each morph target using the same algorithms and vertex positions, normals, and texture coordinates with the corresponding deltas applied. The provided tangent deltas are ignored in this case and thus they **SHOULD NOT** be present.
+
+If the mesh primitive does specify normals and tangents but a morph target does not provide tangent deltas, the tangent vectors remain intact for that morph target.
+
+Client implementations **SHOULD** clamp all `COLOR\_0` attribute components to the to \\$\[0, 1\]\\$ range after applying morph deltas.
+
+The number of morph targets is not limited. Client implementations **SHOULD** support at least eight morphed attributes. This means that they **SHOULD** support eight morph targets when each morph target has one attribute, four morph targets where each morph target has two attributes, or two morph targets where each morph target has three or four attributes.
+
+For assets that contain more morphed attributes than could be efficiently supported, client implementations **SHOULD** choose morph targets with the highest weights.
+
+##### 3.7.2.6. Skinned Mesh Primitive Attributes
+[Permalink: 3.7.2.6. Skinned Mesh Primitive Attributes](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3726-skinned-mesh-primitive-attributes)
+
+A mesh primitive **MAY** define attributes used for *linear blend skinning*.
+
+When a mesh primitive has skinning\-related vertex attributes and it is instantiated by a node that references a skin object, the mesh primitive becomes skinned and its vertices are influenced by the skinning data that includes per\-vertex influence information and a list of *joints* defined by the skin object. This section describes skinning\-related vertex attribute semantics; the details of skin objects and skinned mesh primitive instantiation are provided in the corresponding sections.
+
+The `JOINTS\_n` attributes provide indices of the joints that influence each vertex and `WEIGHTS\_n` attributes provide weights of those joints, i.e., how strongly each joint influences the vertex. These attribute semantics are always used together, so either both `JOINTS\_n` and `WEIGHTS\_n` names **MUST** be present or none for any given `n`.
+
+Each attribute pair provides up to four joint indices and their weights per vertex.
+
+|  Note  |   Implementation Note  The accessor type for these attribute semantics is always `"VEC4"` so a mesh primitive that uses no more than four influences per vertex would define `JOINTS\_0` and `WEIGHTS\_0` vertex attribute semantics, a mesh primitive that uses no more than eight influences per vertex would define `JOINTS\_0`, `WEIGHTS\_0`, `JOINTS\_1`, and `WEIGHTS\_1`, and so on.   | 
+|---|---|
+
+Accessors for the `WEIGHTS\_n` semantic **MUST** provide non\-negative values.
+
+Joint indices associated with non\-zero weights **MUST** be unique for a given vertex. Each unused component of the joint data, i.e., associated with zero weights, **SHOULD** be set to zero.
+
+|  Note  |   Example  For a single vertex, let:    
+-  `JOINTS\_0` value be \\\(\\langle 0, 1, 2, 3 \\rangle\\\);  
+-  `JOINTS\_1` value be \\\(\\langle 5, 8, 13, 0 \\rangle\\\);  
+-  `WEIGHTS\_0` value be \\\(\\langle 0.15, 0.05, 0.2, 0.3 \\rangle\\\);  
+-  `WEIGHTS\_1` value be \\\(\\langle 0.18, 0.02, 0.1, 0.0 \\rangle\\\).     Then for that vertex:    
+-  the joint \\$0\\$ has a weight of \\$0.15\\$;  
+-  the joint \\$1\\$ has a weight of \\$0.05\\$;  
+-  the joint \\$2\\$ has a weight of \\$0.2\\$;  
+-  the joint \\$3\\$ has a weight of \\$0.3\\$;  
+-  the joint \\$5\\$ has a weight of \\$0.18\\$;  
+-  the joint \\$8\\$ has a weight of \\$0.02\\$;  
+-  the joint \\$13\\$ has a weight of \\$0.1\\$.     As this particular vertex is influenced only by seven joints, the joint index zero is used twice: with its actual weight \(\\$0.15\\$\) and with zero weight \(as the last component of the second pair of attributes\).   | 
+|---|---|
+
+If all sets of weights are provided by accessors that use the *unorm8* or *unorm16* effective component types, the linear sum of weights for every vertex of that mesh primitive **MUST** be exactly \\$1.0\\$ after dequantization.
+
+|  Note  |   Implementation Note  To confirm the linear sum of weights in this case without using floating\-point math, i.e., prior to dequantization, an implementation can multiply all integer *unorm8* values by \\$257\\$ to upscale them to the equivalent *unorm16* values and confirm that the sum is \\$65535\\$.   For example, let    
+-  `WEIGHTS\_0` value be \\\(\\langle 1, 4, 16, 64 \\rangle\\\) provided by a *unorm8* accessor;  
+-  `WEIGHTS\_1` value be \\\(\\langle 640, 2080, 8200, 32770 \\rangle\\\) provided by a *unorm16* accessor.     Then the sum of the weights would be    \\\[\\frac\{85\}\{255\}\+\\frac\{43690\}\{65535\} = \\frac\{85 \\cdot 257 \+ 43690\}\{65535\} = \\frac\{65535\}\{65535\} = 1\\\]    | 
+|---|---|
+
+If any set of weights is provided by an accessor that has a floating\-point component type, the linear sum of weights for every vertex of that mesh primitive **SHOULD** be as close as reasonably possible to \\$1.0\\$. The **RECOMMENDED** epsilon value is \\\(2 \\cdot 10^\{\-7\}\\\) multiplied by the number of non\-zero weights per vertex.
+
+|  Note  |   Implementation Note  Without these requirements, vertices would be deformed significantly because the weight error would get multiplied by the joint position. For example with *unorm8* storage, an error of \\\(1/255\\\) in the weight sum would result in an unacceptably large difference in the joint position.   When using quantized component types, the weight sum may need to be renormalized after quantization during asset authoring.   | 
+|---|---|
+
+Client implementations **MAY** support only a single set of up to four weights and joints, however not supporting all weight and joint sets present in the file may have an impact on the asset’s appearance.
+
+#### 3.7.3. Skins
+[Permalink: 3.7.3. Skins](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#373-skins)
+
+##### 3.7.3.1. Overview
+[Permalink: 3.7.3.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3731-overview)
+
+glTF 2.0 mesh primitives support Linear Blend Skinning via skin objects, joint hierarchies, and designated vertex attributes.
+
+Skins are stored in the `skins` array of the asset. Each skin contains a **REQUIRED** `joints` property that lists the indices of nodes used as joints and an **OPTIONAL** `inverseBindMatrices` property that points to an accessor with inverse bind matrix data.
+
+The `joints` array defines mapping between skin’s joint indices and glTF nodes.
+
+If the `inverseBindMatrices` property is defined, the elements of the referenced accessor provide inverse bind matrices in the order of joints. If the `inverseBindMatrices` property is not defined, all inverse bind matrices of the skin are implicitly identity.
+
+|  Note  |   Example  The following example defines node 3 as the first joint and node 5 as the second joint.   The first accessor element provides an inverse bind matrix for node 3 and the second accessor element provides an inverse bind matrix for node 5. Note that these matrices are associated with those joints only within the scope of this skin object.    ```
+{
+    "skins": [
+        {
+            "joints": [ 3, 5 ],
+            "inverseBindMatrices": 1
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+The `inverseBindMatrices` property \(if defined\) **MUST** refer to an accessor with the `"MAT4"` type, the *float32* effective component type, and the number of elements that is greater than or equal to the number of elements of the `joints` array. Inverse bind matrices associated with the joints, i.e., accessor elements with indices from zero to the number of joints \(exclusive\), **MUST NOT** contain infinite or NaN values and their fourth row **MUST** be \\\(\\langle 0, 0, 0, 1 \\rangle\\\).
+
+|  Note  |   Implementation Note  Some authoring pipelines support a matrix defining how to pose the skin’s geometry for use with the joints \(also known as “Bind Shape Matrix”\). Such matrix is not supported in glTF and therefore it would have to be premultiplied to mesh data or to Inverse Bind Matrices.   | 
+|---|---|
+
+The `skeleton` property \(if present\) identifies the node that is the skeleton root of the skin. That node **MUST** be the root of all nodes listed in the `joints` array or their common ancestor.
+
+|  Note  |   Implementation Note  Although the `skeleton` property is not needed for computing skinning transforms, it may be used to provide a specific “pivot point” for the skinned geometry.   | 
+|---|---|
+
+##### 3.7.3.2. Joint Hierarchy
+[Permalink: 3.7.3.2. Joint Hierarchy](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3732-joint-hierarchy)
+
+The joint hierarchy used for controlling skinned mesh pose is simply the node hierarchy, with each node designated as a *joint* by a reference from the `joints` array.
+
+Joints of a skin **MUST** have a common ancestor node called *common root*, which may or may not be a joint node itself. When a skin is referenced by a node within a scene, the common root **MUST** belong to the same scene.
+
+|  Note  |   Implementation Note  A node object does not specify whether it is a joint. Client implementations that care about this distinction may need to traverse the `skins` array first, marking each joint node.   | 
+|---|---|
+
+A joint node **MAY** have other nodes attached to it, even a complete node sub graph with meshes.
+
+|  Note  |   Implementation Note  It’s common to have an entire geometry attached to a joint node without having it being skinned \(e.g., a sword attached to a hand\). Note that the node transform is the local transform of the node relative to the joint, like any other node in the glTF node hierarchy as described in the [Transformations](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#transformations) section.   | 
+|---|---|
+
+#### 3.7.4. Instantiation
+[Permalink: 3.7.4. Instantiation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#374-instantiation)
+
+##### 3.7.4.1. Overview
+[Permalink: 3.7.4.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3741-overview)
+
+A mesh is instantiated by a node’s `mesh` property. The same mesh **MAY** be instantiated by multiple nodes, which **MAY** specify different transforms, morph weights, and/or skins.
+
+|  Note  |   Implementation Note  This example instantiates the same mesh twice: without any transforms and with the specified translation.    ```
+{
+    "nodes": [
+        {
+            "mesh": 11
+        },
+        {
+            "mesh": 11,
+            "translation": [
+                -20,
+                -1,
+                0
+            ]
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+After applying the node’s global transform, mesh vertex position values are meters.
+
+When a mesh primitive uses any triangle\-based topology \(i.e., *triangle lists*, *triangle strips*, or *triangle fans*\), the determinant of the node’s global transform defines the winding order of the instantiated mesh primitives: \- if the determinant is a positive value, the front\-facing triangles use the counterclockwise order, and the back\-facing triangles use the clockwise order; \- if the determinant is a negative value, the front\-facing triangles use the clockwise order, and the back\-facing triangles use the counterclockwise order.
+
+|  Note  |   Implementation Note  Switching the winding order to clockwise enables mirroring geometry via negative scale transforms.   | 
+|---|---|
+
+##### 3.7.4.2. Morph Targets
+[Permalink: 3.7.4.2. Morph Targets](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3742-morph-targets)
+
+When an instantiated mesh has morph targets, the node’s `weights` array property overrides mesh’s default morph target weights; the number of elements of that array **MUST** be equal to the number of the morph targets of the mesh. If the `weights` property is not defined, the mesh is instantiated with its default morph target weights.
+
+|  Note  |   Implementation Note  Default morph target weights of a mesh are either specified by the `weights` property of the mesh, if that property is defined, or zeros otherwise.   | 
+|---|---|
+
+|  Note  |   Example  The example below instantiates a Morph Target with non\-default weights.    ```
+{
+    "nodes": [
+        {
+            "mesh": 11,
+            "weights": [ 0, 0.5 ]
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+##### 3.7.4.3. Skinned Mesh Primitives
+[Permalink: 3.7.4.3. Skinned Mesh Primitives](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3743-skinned-mesh-primitives)
+
+If a node defines the `skin` property, the mesh primitives that contain skinning\-related attributes are instantiated as skinned mesh primitives. The `skin` property points to a skin object to use.
+
+Mesh primitives that do not have skinning\-related attributes are instantiated as if the `skin` property is not defined.
+
+If none of the mesh primitives contain skinning\-related attributes, the node’s `skin` property **SHOULD NOT** be defined.
+
+All joint indices provided by the `JOINTS\_n` vertex attribute accessors of the skinned mesh primitives **MUST** be less than the number of elements of the `joints` array of the referenced skin object.
+
+A skinned mesh primitive does not use the global transform of the node that instantiates the mesh. Instead, the transformation matrix is computed separately for each vertex of the mesh primitive as follows.
+
+Let:
+-  
+
+\\$N\\$ be the number of joints with non\-zero weights for the current vertex as derived from the skinning\-related vertex attributes;
+-  
+
+\\$J\_i\\$ be one joint index as provided by `JOINTS\_n` vertex attribute accessor components, \\$i \\in \[0,N\\\)\\$;
+-  
+
+\\$W\_i\\$ be one joint weight as provided by `WEIGHT\_n` vertex attribute accessor components, \\$i \\in \[0,N\\\)\\$;
+-  
+
+\\$M\_j\\$ be the global transformation matrix of the node associated with the joint index \\$j\\$ \(as defined by the skin’s `joints` property\);
+-  
+
+\\$B\_j\\$ be the inverse bind matrix associated with the joint index \\$j\\$ \(as provided by the skin’s `inverseBindMatrices` property\).
+
+Then the effective transformation matrix of the current vertex is computed as a weighted linear sum of the global transformation matrices of the joints premultiplied with the corresponding inverse bind matrices.
+\\\[\\sum\_\{i=0\}^\{N\-1\} W\_i \\cdot M\_\{J\_i\} \\cdot B\_\{J\_i\}\\\] 
+
+|  Note  |   Implementation Note  A skinned mesh primitive cannot have vertices not affected by skinning because its vertices are controlled exclusively by the joint nodes, ignoring the transform of the node that instantiates the mesh. Therefore, a vertex with all\-zero joint weights would not have any applicable transformation matrix.   | 
+|---|---|
+
+|  Note  |   Example  The example below instantiates a mesh with a skin. The rotation of the node 1 and the scale of the node 2 are ignored for the skinned mesh primitives but the translation and scale parameters of nodes 3 and 4 are applied through skinning because those nodes are used as the skin’s joints.    ```
+{
+    "nodes": [
+        {
+            "children": [ 1, 3 ]
+        },
+        {
+            "children": [ 2 ],
+            "rotation": [ 0.0, 1.0, 0.0, 0.0 ]
+        },
+        {
+            "mesh": 0,
+            "scale": [ 2.0, 2.0, 2.0 ],
+            "skin": 0
+        },
+        {
+            "children": [ 4 ],
+            "translation": [ 0.0, 1.0, 0.0 ]
+        },
+        {
+            "scale": [ 0.5, 0.5, 0.5 ]
+        }
+    ],
+    "skins": [
+        {
+            "joints": [ 3, 4 ],
+            "skeleton": 0
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+### 3.8. Texture Data
+[Permalink: 3.8. Texture Data](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#38-texture-data)
+
+#### 3.8.1. Overview
+[Permalink: 3.8.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#381-overview)
+
+glTF 2.0 separates texture access into three distinct types of objects: Textures, Images, and Samplers.
+
+#### 3.8.2. Textures
+[Permalink: 3.8.2. Textures](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#382-textures)
+
+glTF 2.0 supports only static 2D textures.
+
+Textures are stored in the asset’s `textures` array. A texture is defined by the `source` and `sampler` properties that define the texture’s image and sampler, respectively.
+
+The image provides texture’s data, and the sampler defines wrapping and filtering modes for the texture.
+
+|  Note  |   Example   ```
+{
+    "textures": [
+        {
+            "sampler": 0,
+            "source": 2
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+When the `source` property of a texture is undefined, the texture’s image **SHOULD** be provided by an extension or application\-specific means, otherwise the texture’s image is undefined and using the texture could result in undefined rendering results.
+
+|  Note  |   Implementation Note  Client implementations could render such textures with a predefined placeholder image or being filled with an error color \(e.g., magenta\).   | 
+|---|---|
+
+When the `sampler` property of a texture is undefined, a sampler with repeat wrapping in both directions and implementation\-dependent default texture filtering is used.
+
+|  Note  |   Implementation Note  This behavior matches the default state of a sampler object with all its properties omitted.   | 
+|---|---|
+
+The origin of the texture coordinates \(0, 0\) corresponds to the upper left corner of a texture image. This is illustrated in the following figure, where the respective coordinates are shown for all four corners of a normalized texture space:
+[![texcoords](https://github.com/KhronosGroup/glTF/raw/main/specification/2.0/figures/texcoords.svg)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/figures/texcoords.svg)
+Figure 6. Normalized Texture Coordinates
+
+#### 3.8.3. Images
+[Permalink: 3.8.3. Images](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#383-images)
+
+##### 3.8.3.1. Overview
+[Permalink: 3.8.3.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3831-overview)
+
+Image objects are stored in the asset’s `images` array.
+
+An image object represents a reference to an image resource. The glTF 2.0 specification supports only image resources stored in PNG and JPEG image formats \(further defined below\). Support for other image formats **MAY** be added by extensions or future Specification versions.
+
+The image reference is given either by the `bufferView` or `uri` properties; exactly one of these two properties **MUST** be defined.
+
+If the `uri` property is defined, it either provides a URI \(or IRI\) to the external image file, or embeds the image in the URI using the Data URI scheme. When the Data URI scheme is used for image storage, the `mediatype` field of the URI **MUST** be set to the media type of the embedded image data. If the URI cannot be resolved, the image’s content is undefined and handling of such image objects is implementation\-dependent.
+
+If the `bufferView` property is defined, the image data is sourced from the referenced buffer view. The buffer view **MUST NOT** have its `byteStride` or `target` properties defined.
+
+|  Note  |   Implementation Note  The entire buffer view is used as the image data source, i.e., there is no way to specify start or end byte offsets.   | 
+|---|---|
+
+If the `mimeType` property is defined, it explicitly specifies the media type of the image object and the format of the image data **MUST** match the value of that property. The `mimeType` property **MUST** be defined if the image is sourced from a buffer view.
+
+|  Note  |   Example  This example shows an image pointing to an external PNG image file and another image referencing a buffer view with JPEG data.    ```
+{
+    "images": [
+        {
+            "uri": "duck.png"
+        },
+        {
+            "bufferView": 14,
+            "mimeType": "image/jpeg"
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+Client implementations **MAY** need to manually determine image media types. In such a case, the following table **SHOULD** be used to derive the media type based in the values of the first few bytes of the resource.
+
+| Media Type |  Pattern Length |  Pattern Bytes | 
+|---|---|---|
+| `image/png` |  8 |  `0x89 0x50 0x4E 0x47 0x0D 0x0A 0x1A 0x0A` | 
+| `image/jpeg` |  3 |  `0xFF 0xD8 0xFF` | 
+
+Any colorspace information \(such as ICC profiles, intents, gamma values, etc.\) found in images **MUST** be ignored. The effective transfer function \(encoding\) is defined by a glTF object that refers to the image \(in most cases it’s a texture that is used by a material\). The effective color gamut for all images that are used as color textures is ITU\-R BT.709.
+
+|  Note  |   Web Implementation Note  To ignore embedded colorspace information when using WebGL API, set `UNPACK\_COLORSPACE\_CONVERSION\_WEBGL` flag to `NONE`.   To ignore embedded colorspace information when using ImageBitmap API, set `colorSpaceConversion` option to `none`.   | 
+|---|---|
+
+Regardless of the storage format, images always have four color channels: red, green, blue, and alpha. Format\-specific sections below define how these four channels correspond to the stored image channels.
+
+##### 3.8.3.2. PNG Support
+[Permalink: 3.8.3.2. PNG Support](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3832-png-support)
+
+[PNG](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#png) images **MUST** use the [`image/png`](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#image-png) Media Type. PNG images **SHOULD** use the `.png` file extension when stored as separate files.
+
+If a PNG image does not have an explicit alpha channel but includes a `tRNS` chunk, the image’s alpha channel is controlled by the content of that chunk as defined in the PNG specification.
+
+If a PNG image has neither an explicit alpha channel, nor a `tRNS` chunk, the image is fully opaque, i.e., its alpha channel has a uniform value of \\$1.0\\$.
+
+If a PNG image uses a “Greyscale” or “Greyscale with alpha” color types, the values of the red, green, and blue channels of the image are equal to the “Grey” samples.
+
+The following PNG features **SHOULD NOT** be present and **SHOULD** be ignored by client implementations if encountered:
+-  
+
+colorspace and/or display information \(`cHRM`, `gAMA`, `iCCP`, `sBIT`, `sRGB`, `cICP`, `mDCV`, and/or `cLLI` chunks\);
+-  
+
+non\-square pixel aspect ratio \(`pHYs` chunk\);
+-  
+
+Exchangeable Image File Profile \(`eXIf` chunk or embedded in `tEXt`, `iTXt`, or `zTXt` chunks\);
+-  
+
+animations \(`acTL`, `fcTL`, `fdAT` chunks\).
+
+|  Note  |   Rationale  These features are not universally implemented, can conflict with glTF definitions, and thus they may severely impact an asset’s portability, especially, Exif’s “Orientation”.   | 
+|---|---|
+
+|  Note  |   Implementation Note  Chunk presence does not always mean that the corresponding feature is used, see the PNG specification for more information on how PNG chunks are interpreted.   | 
+|---|---|
+
+##### 3.8.3.3. JPEG Support
+[Permalink: 3.8.3.3. JPEG Support](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3833-jpeg-support)
+
+[JPEG](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#png) images **MUST** use the [`image/jpeg`](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#image-jpeg) Media Type. JPEG images **SHOULD** use the `.jpg` or `.jpeg` file extensions when stored as separate files.
+
+JPEG images **MUST** conform to the [JPEG File Interchange Format](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#jfif), namely:
+-  
+
+JPEG images **MUST** have an APP0 marker containing the null\-terminated string `JFIF` immediately after the SOI marker;
+-  
+
+JPEG images **MUST** have one or three image components with 8 bits per component;
+-  
+
+JPEG images that have three image components **MUST** use the *YCBCR* color model and ordered such that *Y* is the first component, *CB* is the second component, and *CR* is the third component.
+
+|  Note  |   Implementation Note  The *YCBCR* color model is implicitly converted to RGB as defined in JFIF when the image is decoded.   | 
+|---|---|
+
+If a JPEG image has only one image component \(called *Y* in JFIF\), the values of the red, green, and blue channels of the image are equal to the *Y* component.
+
+A JPEG image is always fully opaque, its alpha channel has a uniform value of \\$1.0\\$.
+
+Additionally, for glTF compatibility the following restrictions apply.
+-  
+
+JPEG images **MUST NOT** contain any start\-of\-frame markers other than SOF0, SOF1, or SOF2.
+
+|  Note  |   Rationale  This restriction implies that JPEG images cannot use arithmetic coding, lossless process, or hierarchical mode of operation. These features are not widely supported and images that rely on them would not be portable.   | 
+|---|---|
+-  
+
+JPEG images **MUST NOT** contain DNL markers.
+
+|  Note  |   Rationale  This restriction ensures that the image’s height is equal to the number of lines set in the start\-of\-frame marker. DNL markers are not widely supported and images that rely on them would not be portable.   | 
+|---|---|
+-  
+
+JPEG images **SHOULD NOT** contain embedded ICC profiles. If present, they **MUST** be ignored by client implementations.
+-  
+
+JPEG images **SHOULD NOT** contain [Exchangeable image file format \(Exif\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#exif) data. If present, it **SHOULD** be ignored by client implementations.
+
+|  Note  |   Rationale  JFIF and Exif formats are mutually exclusive. Some of Exif features, e.g., “Orientation”, may severely impact an asset’s portability, .   | 
+|---|---|
+
+#### 3.8.4. Samplers
+[Permalink: 3.8.4. Samplers](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#384-samplers)
+
+##### 3.8.4.1. Overview
+[Permalink: 3.8.4.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3841-overview)
+
+Samplers are stored in the `samplers` array of the asset. Each sampler specifies filtering and wrapping modes.
+
+The sampler properties use integer enums defined in the [Properties Reference](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#reference-sampler).
+
+Client implementations **SHOULD** follow specified filtering modes. When the latter are undefined, client implementations **MAY** set their own default texture filtering settings.
+
+Client implementations **MUST** follow specified wrapping modes.
+
+##### 3.8.4.2. Filtering
+[Permalink: 3.8.4.2. Filtering](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3842-filtering)
+
+Filtering modes control texture’s magnification and minification.
+
+Magnification modes include:
+-  
+
+*Nearest*. For each requested texel coordinate, the sampler selects a texel with the nearest coordinates. This process is sometimes called “nearest neighbor”.
+-  
+
+*Linear*. For each requested texel coordinate, the sampler computes a weighted sum of several adjacent texels. This process is sometimes called “bilinear interpolation”.
+
+Minification modes include:
+-  
+
+*Nearest*. For each requested texel coordinate, the sampler selects a texel with the nearest \(in Manhattan distance\) coordinates from the original image. This process is sometimes called “nearest neighbor”.
+-  
+
+*Linear*. For each requested texel coordinate, the sampler computes a weighted sum of several adjacent texels from the original image. This process is sometimes called “bilinear interpolation”.
+-  
+
+*Nearest\-mipmap\-nearest*. For each requested texel coordinate, the sampler first selects one of pre\-minified versions of the original image, and then selects a texel with the nearest \(in Manhattan distance\) coordinates from it.
+-  
+
+*Linear\-mipmap\-nearest*. For each requested texel coordinate, the sampler first selects one of pre\-minified versions of the original image, and then computes a weighted sum of several adjacent texels from it.
+-  
+
+*Nearest\-mipmap\-linear*. For each requested texel coordinate, the sampler first selects two pre\-minified versions of the original image, selects a texel with the nearest \(in Manhattan distance\) coordinates from each of them, and performs final linear interpolation between these two intermediate results.
+-  
+
+*Linear\-mipmap\-linear*. For each requested texel coordinate, the sampler first selects two pre\-minified versions of the original image, computes a weighted sum of several adjacent texels from each of them, and performs final linear interpolation between these two intermediate results. This process is sometimes called “trilinear interpolation”.
+
+To properly support mipmap modes, client implementations **SHOULD** generate mipmaps at runtime. When runtime mipmap generation is not possible, client implementations **SHOULD** override the minification filtering mode as follows:
+
+| Mipmap minification mode |  Fallback mode | 
+|---|---|
+| *Nearest\-mipmap\-nearest*  *Nearest\-mipmap\-linear* |  *Nearest* | 
+| *Linear\-mipmap\-nearest*  *Linear\-mipmap\-linear* |  *Linear* | 
+
+##### 3.8.4.3. Wrapping
+[Permalink: 3.8.4.3. Wrapping](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3843-wrapping)
+
+Per\-vertex texture coordinates, which are provided via `TEXCOORD\_n` attribute values, are normalized for the image size \(not to confuse with the `normalized` accessor property, the latter refers only to data encoding\). That is, the texture coordinate value of `\(0.0, 0.0\)` points to the beginning of the first \(upper\-left\) image pixel, while the texture coordinate value of `\(1.0, 1.0\)` points to the end of the last \(lower\-right\) image pixel.
+
+Sampler’s wrapping modes define how to handle texture coordinates that are negative or greater than or equal to `1.0`, independently for both directions. Supported modes include:
+-  
+
+*Repeat*. Only the fractional part of texture coordinates is used.
+
+|  Note  |   Example  `2.2` maps to `0.2`; `\-0.4` maps to `0.6`.   | 
+|---|---|
+-  
+
+*Mirrored Repeat*. This mode works as *repeat* but flips the direction when the integer part \(truncated towards −∞\) is odd.
+
+|  Note  |   Example  `2.2` maps to `0.2`; `\-0.4` is treated as `0.4`.   | 
+|---|---|
+-  
+
+*Clamp to edge*. Texture coordinates with values outside the image are clamped to the closest existing image texel at the edge.
+
+##### 3.8.4.4. Example
+[Permalink: 3.8.4.4. Example](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3844-example)
+
+The following example defines a sampler with *linear* magnification filtering, *linear\-mipmap\-linear* minification filtering, and *repeat* wrapping in both directions.
+
+```
+{
+    "samplers": [
+        {
+            "magFilter": 9729,
+            "minFilter": 9987,
+            "wrapS": 10497,
+            "wrapT": 10497
+        }
+    ]
+}
+```
+
+##### 3.8.4.5. Non\-power\-of\-two Textures
+[Permalink: 3.8.4.5. Non-power-of-two Textures](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3845-non-power-of-two-textures)
+
+Client implementations **SHOULD** resize non\-power\-of\-two textures \(so that their horizontal and vertical sizes are powers of two\) when running on platforms that have limited support for such texture dimensions.
+
+|  Note  |   Implementation Note  Specifically, if the `sampler` the texture references:    
+-  has a wrapping mode \(either `wrapS` or `wrapT`\) equal to *repeat* or *mirrored repeat*, or  
+-  has a minification filter \(`minFilter`\) that uses mipmapping.     | 
+|---|---|
+
+### 3.9. Materials
+[Permalink: 3.9. Materials](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#39-materials)
+
+#### 3.9.1. Overview
+[Permalink: 3.9.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#391-overview)
+
+glTF defines materials using a common set of parameters that are based on widely used material representations from Physically Based Rendering \(PBR\). Specifically, glTF uses the metallic\-roughness material model. Using this declarative representation of materials enables a glTF file to be rendered consistently across platforms.
+[![materials](https://github.com/KhronosGroup/glTF/raw/main/specification/2.0/figures/materials.svg)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/figures/materials.svg)
+Figure 7. Physically Based Rendering Example
+
+A material object describes material parameters that control mesh primitive rendering. Material parameters can be uniform, i.e., with a single value applied to the whole mesh primitive, or texturable, i.e., with parameter values varying across the mesh primitive’s surface.
+
+Values of properties that represent texturable material parameters are JSON objects that contain the `index` property that specifies the texture index and the `texCoord` property that specifies the texture coordinate set index used for sampling from that texture. Some texturable parameters include additional parameter\-specific properties that affect how the sampled values are applied.
+
+#### 3.9.2. Metallic\-Roughness Material
+[Permalink: 3.9.2. Metallic-Roughness Material](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#392-metallic-roughness-material)
+
+All parameters related to the metallic\-roughness material model are defined under the `pbrMetallicRoughness` object property of a material object.
+
+The base metallic\-roughness material model is defined by the following parameters:
+-  
+
+*base color* \- The base color of the material.
+-  
+
+*metalness* \- The metalness of the material; values range from \\$0.0\\$ \(non\-metal\) to \\$1.0\\$ \(metal\); see [Appendix B](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#appendix-b-brdf-implementation) for the interpretation of intermediate values.
+-  
+
+*roughness* \- The roughness of the material; values range from \\$0.0\\$ \(smooth\) to \\$1.0\\$ \(rough\).
+
+The base color has two different interpretations depending on the value of metalness. When the material is a metal, the base color is the specific measured reflectance value at normal incidence \(F0\). For a non\-metal, the base color represents the reflected diffuse color of the material. The F0 value for non\-metals is fixed to 4% \(0.04\).
+
+The value for each of these parameters **MAY** be defined using factors and/or textures \(e.g., `baseColorTexture` and `baseColorFactor`\). If a texture is not given, all respective texture components within this material model have a value of \\$1.0\\$. The factor value is a linear multiplier for the corresponding texture components.
+
+|  Note  |   Example  This example shows a gold\-like material defined using only factors.    ```
+{
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [ 1.000, 0.766, 0.336, 1.0 ],
+                "metallicFactor": 1.0,
+                "roughnessFactor": 0.0
+            }
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+If a mesh primitive specifies a vertex color using the `COLOR\_0` attribute semantic name, its per\-vertex values are interpolated across topology primitives and used as an extra multiplier for the base color value. Vertex colors that use the `COLOR\_0` attribute semantic name are encoded with the linear transfer function, i.e., their values are used as\-is.
+
+|  Note  |   Implementation Note  As defined in the vertex attributes section, all `COLOR\_0` components are always in the \\$\[0.0, 1.0\]\\$ range.   | 
+|---|---|
+
+The *base color* texture is represented by the `baseColorTexture` property. The red, green, and blue components of the texture **MUST** be encoded with the piecewise [sRGB opto\-electronic transfer function](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#srgb). Client implementations **SHOULD** apply the inverse of that function to get linear base color texture values before multiplying them with base color factors or vertex colors. When the texture sampler uses linear filtering, the transfer function **SHOULD** be decoded prior to linear interpolation. The alpha channel, if present, **MUST** be encoded with the linear transfer function.
+
+|  Note  |   Implementation Note  Graphics APIs usually support dedicated sRGB texture format enums that enable correct transfer function decoding and texture filtering.   | 
+|---|---|
+
+|  Note  |   Example  Let:    
+-  \\\(\\langle 0.2, 1.0, 0.7, 1.0 \\rangle\\\) be the base color factor value;  
+-  \\\(\\langle 0.7, 0.8, 0.9, 0.5 \\rangle\\\) be the vertex color value interpolated at the current pixel;  
+-  \\\(\\langle 64, 124, 231, 255 \\rangle\\\) be the 8\-bit value stored in the base color texture for the current pixel; this value is dequantized and decoded to \\\(\\langle 0.051, 0.202, 0.799, 1.0 \\rangle\\\).     Then the effective per\-pixel base color RGBA value is    \\\[\\langle 0.2, 1.0, 0.7, 1.0 \\rangle \\odot \\langle 0.7, 0.8, 0.9, 0.5 \\rangle \\odot \\langle 0.051, 0.202, 0.799, 1.0 \\rangle =\\ \\langle 0.00714, 0.1616, 0.50337, 0.5 \\rangle\\\]    | 
+|---|---|
+
+The textures for metalness and roughness parameters are packed together in a single texture represented by the `metallicRoughnessTexture` property. Its green channel contains roughness values and its blue channel contains metalness values. This texture **MUST** be encoded with the linear transfer function. The red and alpha channels are ignored.
+
+|  Note  |   Example  The following example shows a material that uses two textures.    ```
+{
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            }
+        }
+    ],
+    "textures": [
+        {
+            "source": 0
+        },
+        {
+            "source": 1
+        }
+    ],
+    "images": [
+        {
+            "uri": "base_color.png"
+        },
+        {
+            "uri": "metallic_roughness.png"
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+Implementations of the bidirectional reflectance distribution function \(BRDF\) itself **MAY** vary based on device performance and resource constraints. See [Appendix B](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#appendix-b-brdf-implementation) for more details on the BRDF calculations.
+
+#### 3.9.3. Emissive Parameter
+[Permalink: 3.9.3. Emissive Parameter](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#393-emissive-parameter)
+
+The *emissive* parameter controls the color and intensity of the light being emitted by the material. This parameter is provided by the `emissiveFactor` and `emissiveTexture` properties.
+
+If the `emissiveTexture` property is not defined, the emissive texture components implicitly have a value of \\$1.0\\$.
+
+The red, green, and blue components of the emissive texture **MUST** be encoded with the piecewise [sRGB opto\-electronic transfer function](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#srgb). Client implementations **SHOULD** apply the inverse of that function to get linear emissive texture values before multiplying them with the factors. When the texture sampler uses linear filtering, the transfer function **SHOULD** be decoded prior to linear interpolation. The alpha channel is ignored.
+
+The units for the multiplicative product of the emissive texture and factor are candela per square meter \(**cd / m2**\), sometimes called *nits*.
+
+|  Note  |   Implementation Note  Because the value is specified per square meter, it indicates the brightness of any given point along the surface. However, the exact conversion from scene\-referred photometric units to the brightness of rendered screen pixels requires knowledge of the camera’s exposure settings, which are left as an implementation detail unless otherwise defined by a glTF extension.   Some rendering engines simplify this calculation by assuming that an emissive factor of \\$1.0\\$ results in a fully exposed pixel; however, that may not match the authoring intent.   | 
+|---|---|
+
+|  Note  |   Example  This material defines its emissive parameter. Since the default emissive factor component values are zeros, the `emissiveFactor` property has to be defined for the emissive texture to have any effect. All other material parameters use their default values in this example.    ```
+{
+    "materials": [
+        {
+            "emissiveFactor": [ 0.2, 0.1, 0.0 ],
+            "emissiveTexture": {
+                "index": 0
+            }
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+#### 3.9.4. Additional Textures
+[Permalink: 3.9.4. Additional Textures](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#394-additional-textures)
+
+##### 3.9.4.1. Overview
+[Permalink: 3.9.4.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3941-overview)
+
+The material definition also provides for *normal* and *occlusion* textures that **MAY** also be used with the metallic\-roughness material model as well as other material models, which could be provided via glTF extensions.
+
+|  Note  |   Example  The following material defines these additional textures. All other material parameters use their default values in this example.    ```
+{
+    "materials": [
+        {
+            "normalTexture": {
+                "index": 1,
+                "texCoord": 0,
+                "scale": 2
+            },
+            "occlusionTexture": {
+                "index": 2,
+                "texCoord": 1,
+                "strength": 0.5
+            }
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+##### 3.9.4.2. Normal Texture
+[Permalink: 3.9.4.2. Normal Texture](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3942-normal-texture)
+
+The `normalTexture` property defines a tangent space normal texture. The texture encodes XYZ components of a normal vector in tangent space as RGB values.
+
+If the `normalTexture` property is not defined, the material uses surface normal vectors as is.
+
+|  Note  |    This could also be interpreted as an implicit normal texture filled with the \\\(\\langle 0.5, 0.5, 1.0 \\rangle\\\) solid RGB values.   | 
+|---|---|
+
+The normal texture **MUST** be encoded with the linear transfer function. The alpha channel is ignored.
+
+The sampled RGB values are linearly mapped to XYZ directions as follows: red \\\(\[0.0, 1.0\]\\\) to X \\\(\[\-1.0, \+1.0\]\\\), green \\\(\[0.0, 1.0\]\\\) to Y \\\(\[\-1.0, \+1.0\]\\\), blue \\\(\(0.5, 1.0\]\\\) to Z \\\(\(0.0, \+1.0\]\\\). Normal textures **SHOULD NOT** contain blue values less than or equal to \\$0.5\\$. After mapping RGB values to XYZ directions, the X and Y components are multiplied by the value of the `scale` property of the object that refers to the normal texture.
+\\\[\(\\mathit\{sampledNormalValue\_\{rgb\}\} \\cdot 2.0 \- 1.0\) \\odot \\langle \\mathit\{scale\}, \\mathit\{scale\}, 1.0 \\rangle\\\] 
+
+Finally, the scaled normal vector is normalized before being used in lighting equations.
+
+##### 3.9.4.3. Occlusion Texture
+[Permalink: 3.9.4.3. Occlusion Texture](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3943-occlusion-texture)
+
+The `occlusionTexture` property defines an occlusion texture. It indicates areas that would receive less indirect lighting from ambient sources. Direct lighting is not affected.
+
+Client implementations that are capable of computing indirect lighting themselves, e.g., via path tracing, **SHOULD** ignore the occlusion texture.
+
+The occlusion texture **MUST** be encoded with the linear transfer function. The red channel of the texture encodes the occlusion value, where \\$0.0\\$ means fully\-occluded area \(no indirect lighting\) and \\$1.0\\$ means unoccluded area \(full indirect lighting\). Other texture channels are ignored.
+
+|  Note  |   Implementation Note  Since occlusion textures use only the red channel and metallic\-roughness textures use only green and blue channels, the `occlusionTexture` and `metallicRoughnessTexture` properties could point to the same texture that packs all three parameters.   | 
+|---|---|
+
+The effective occlusion value is computed from the value sampled from the occlusion texture and the value of the `strength` property of the object that refers to the occlusion texture as follows.
+\\\[1.0 \+ \\mathit\{strength\} \\cdot \(\\mathit\{sampledOcclusionValue\} \- 1.0\)\\\] 
+
+#### 3.9.5. Texture Priority
+[Permalink: 3.9.5. Texture Priority](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#395-texture-priority)
+
+If a client implementation is resource\-bound and cannot support all the textures defined, it **SHOULD** support textures in the following priority order. Resource\-bound implementations **SHOULD** drop textures from the bottom to the top.
+
+| Texture |  Rendering impact when feature is not supported | 
+|---|---|
+| Normal |  Geometry will appear less detailed than authored. | 
+| Occlusion |  Model will appear brighter in areas that are intended to be darker. | 
+| Emissive |  Model with lights will not be lit. For example, the headlights of a car model will be off instead of on. | 
+
+#### 3.9.6. Alpha Coverage
+[Permalink: 3.9.6. Alpha Coverage](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#396-alpha-coverage)
+
+The `alphaMode` property defines how the alpha value is interpreted. The alpha value is taken from the fourth component of the *base color* for metallic\-roughness material model.
+
+`alphaMode` can be one of the following values:
+-  
+
+`OPAQUE` \- The rendered output is fully opaque and any alpha value is ignored.
+-  
+
+`MASK` \- The rendered output is either fully opaque or fully transparent depending on the alpha value and the specified *alpha cutoff* value; the exact appearance of the edges **MAY** be subject to implementation\-specific techniques such as “Alpha\-to\-Coverage”.
+
+|  Note  |   Note  This mode is used to simulate geometry such as tree leaves or wire fences.   | 
+|---|---|
+-  
+
+`BLEND` \- The rendered output is combined with the background using the “over” operator as described in [Compositing digital images](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#compositing).
+
+|  Note  |   Note  This mode is used to simulate geometry such as gauze cloth or animal fur.   | 
+|---|---|
+
+When `alphaMode` is set to `MASK` the `alphaCutoff` property specifies the cutoff threshold. If the alpha value is greater than or equal to the `alphaCutoff` value then it is rendered as fully opaque, otherwise, it is rendered as fully transparent. `alphaCutoff` value is ignored for other modes.
+
+|  Note  |   Implementation Note for Real\-Time Rasterizers  Real\-time rasterizers typically use depth buffers and mesh sorting to support alpha modes. The following describe the expected behavior for these types of renderers.    
+-  `OPAQUE` \- A depth value is written for every pixel and mesh sorting is not required for correct output.  
+-  `MASK` \- A depth value is not written for a pixel that is discarded after the alpha test. A depth value is written for all other pixels. Mesh sorting is not required for correct output.  
+-  `BLEND` \- Support for this mode varies. There is no perfect and fast solution that works for all cases. Client implementations should try to achieve the correct blending output for as many situations as possible. Whether depth value is written or whether to sort is up to the implementation. For example, implementations may discard pixels that have zero or close to zero alpha value to avoid sorting issues.     | 
+|---|---|
+
+#### 3.9.7. Double Sided
+[Permalink: 3.9.7. Double Sided](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#397-double-sided)
+
+The `doubleSided` property specifies whether the material is double sided.
+
+When this value is false, back\-face culling is enabled, i.e., only front\-facing triangles are rendered.
+
+When this value is true, back\-face culling is disabled, triangles are rendered from both sides, and the normal vectors of the back\-facing triangles are negated.
+
+#### 3.9.8. Default Material
+[Permalink: 3.9.8. Default Material](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#398-default-material)
+
+The default material, used when a mesh does not specify a material, is defined to be a material with no properties specified. All the default values of [`material`](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#reference-material) apply.
+
+|  Note  |   Implementation Note  This material does not emit light and will be black unless some lighting is present in the scene.   | 
+|---|---|
+
+#### 3.9.9. Point and Line Materials
+[Permalink: 3.9.9. Point and Line Materials](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#399-point-and-line-materials)
+
+This specification does not define size or style of non\-triangular primitives \(such as *points* or *lines*\), and applications **MAY** use various techniques to render these primitives as appropriate. However, the following conventions are **RECOMMENDED** for consistency:
+-  
+
+Points and Lines **SHOULD** have widths of 1px in viewport space.
+-  
+
+Points or Lines with `NORMAL` and `TANGENT` attributes **SHOULD** be rendered with standard lighting including normal textures.
+-  
+
+Points or Lines with `NORMAL` but without `TANGENT` attributes **SHOULD** be rendered with standard lighting but ignoring any normal textures on the material.
+-  
+
+Points or Lines with no `NORMAL` attribute **SHOULD** be rendered without lighting and instead use the sum of the *base color* value \(as defined above, multiplied by `COLOR\_0` when present\) and the *emissive* value.
+
+### 3.10. Cameras
+[Permalink: 3.10. Cameras](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#310-cameras)
+
+#### 3.10.1. Overview
+[Permalink: 3.10.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3101-overview)
+
+Cameras are stored in the asset’s `cameras` array. Each camera defines a `type` property that designates the type of projection \(perspective or orthographic\), and either a `perspective` or `orthographic` property that defines the details. A camera is instantiated within a node using the `camera` property of the node.
+
+A camera object defines the projection matrix that transforms scene coordinates from the view space to the clip space.
+
+A node containing the `camera` property instantiates a camera with that projection matrix and defines the associated view matrix that transforms scene coordinates from the global space to the view space.
+
+#### 3.10.2. View Matrix
+[Permalink: 3.10.2. View Matrix](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3102-view-matrix)
+
+A camera is defined such that the local \+X axis is to the right, the “lens” looks towards the local \-Z axis, and the top of the camera is aligned with the local \+Y axis.
+
+The node that instantiates a camera defines the view matrix iff its global transformation matrix conforms to all of the following conditions:
+-  
+
+none of the first three columns is all\-zeros;
+-  
+
+the determinant of the upper\-left 3x3 matrix formed by dividing each matrix element by the length of its column is close to positive one.
+
+|  Note  |   Implementation Note  These conditions ensure that the rotation component can be unambiguously extracted from the matrix assuming that all scale factors are positive.   | 
+|---|---|
+
+The view matrix is then derived from the rotation and translation components of the node’s transformation matrix. If the node’s global transform is identity, the location of the camera is at the origin.
+
+If the node’s global transformation matrix does not conform to any of the conditions above, the view matrix is undefined.
+
+#### 3.10.3. Projection Matrices
+[Permalink: 3.10.3. Projection Matrices](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#3103-projection-matrices)
+
+##### 3.10.3.1. Overview
+[Permalink: 3.10.3.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#31031-overview)
+
+The projection can be perspective or orthographic.
+
+There are two subtypes of perspective projections: finite and infinite. When the `zfar` property is undefined, the camera defines an infinite projection. Otherwise, the camera defines a finite projection.
+
+|  Note  |   Example  The following example defines two perspective cameras with supplied values for Y field of view, aspect ratio, and clipping information.    ```
+{
+    "cameras": [
+        {
+            "name": "Finite perspective camera",
+            "type": "perspective",
+            "perspective": {
+                "aspectRatio": 1.5,
+                "yfov": 0.660593,
+                "zfar": 100,
+                "znear": 0.01
+            }
+        },
+        {
+            "name": "Infinite perspective camera",
+            "type": "perspective",
+            "perspective": {
+                "aspectRatio": 1.5,
+                "yfov": 0.660593,
+                "znear": 0.01
+            }
+        }
+    ]
+}
+```
+ | 
+|---|---|
+
+The effective projection matrices would heavily depend on the implementation details, in particular the clip space conventions, such as the range \(zero\-to\-one or minus\-one\-to\-one\) and direction of the Z axis.
+
+|  Note  |   Implementation Note  When the aspect ratio derived from the camera properties \(regardless of the camera type\) does not match the aspect ratio of the current viewport, client implementations are free to use any context\-appropriate content adaptation, such as cropping and/or uniform scaling. It is generally not recommended to perform non\-uniform scaling \(“stretching”\) as that would distort the content.   | 
+|---|---|
+
+##### 3.10.3.2. Infinite Perspective Projection
+[Permalink: 3.10.3.2. Infinite Perspective Projection](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#31032-infinite-perspective-projection)
+
+The infinite perspective projection is defined by the effective aspect ratio \(width over height\) and the `yfov` and `znear` properties that represent the vertical field of view in radians and the distance to the near clipping plane, respectively. The far clipping plane is at infinity.
+
+If the `aspectRatio` property is present, it defines the effective aspect ratio. If the `aspectRatio` property is not present, the effective aspect ratio is equal to the aspect ratio of the viewport.
+
+The values of the properties mentioned in this section **MUST** be greater than zero.
+
+##### 3.10.3.3. Finite Perspective Projection
+[Permalink: 3.10.3.3. Finite Perspective Projection](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#31033-finite-perspective-projection)
+
+The finite perspective projection is defined by the effective aspect ratio \(width over height\) and the `yfov`, `znear`, and `zfar` properties that represent the vertical field of view in radians, the distance to the near clipping plane, and the distance to the far clipping plane, respectively.
+
+If the `aspectRatio` property is present, it defines the effective aspect ratio. If the `aspectRatio` property is not present, the effective aspect ratio is equal to the aspect ratio of the viewport.
+
+The values of the properties mentioned in this section **MUST** be greater than zero.
+
+The value of the `zfar` property **MUST** be greater than the value of the `znear` property.
+
+##### 3.10.3.4. Orthographic Projection
+[Permalink: 3.10.3.4. Orthographic Projection](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#31034-orthographic-projection)
+
+The orthographic projection is defined by the `xmag`, `ymag`, `znear`, and `zfar` properties that represent the horizontal magnification factor \(half of the orthographic width\), the vertical magnification factor \(half of the orthographic height\), the distance to the near clipping plane, and the distance to the far clipping plane, respectively.
+
+The values of the `xmag` and `ymag` properties **SHOULD** be positive and they **MUST NOT** be zeros.
+
+The value of the `znear` property **MUST** greater than or equal to zero.
+
+The value of the `zfar` property **MUST** be greater than zero and greater than the value of the `znear` property.
+
+### 3.11. Animations
+[Permalink: 3.11. Animations](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#311-animations)
+
+glTF supports articulated and skinned animation via key frame animations of nodes' transforms. Key frame data is stored in buffers and referenced in animations using accessors.
+
+glTF 2.0 also supports animation of instantiated morph targets in a similar fashion.
+
+|  Note  |   Note  glTF 2.0 only supports animating node transforms and morph target weights. Extensions or a future version of the specification may support animating arbitrary properties, such as material colors and texture transformation matrices.   | 
+|---|---|
+
+|  Note  |   Note  glTF 2.0 defines only storage of animation keyframes, so this specification doesn’t define any runtime behavior, such as: order of playing, auto\-start, loops, mapping of timelines, etc. When loading a glTF 2.0 asset, client implementations may select an animation entry and pause it on the first frame, play it automatically, or ignore all animations until further user requests. When a playing animation is stopped, client implementations may reset the scene to the initial state or freeze it at the current frame.   | 
+|---|---|
+
+|  Note  |   Implementation Note  glTF 2.0 does not specifically define how an animation will be used when imported but, as a best practice, it is recommended that each animation is self\-contained as an action. For example, “Walk” and “Run” animations might each contain multiple channels targeting a model’s various bones. The client implementation may choose when to play any of the available animations.   | 
+|---|---|
+
+All animations are stored in the `animations` array of the asset. An animation is defined as a set of channels \(the `channels` property\) and a set of samplers that specify accessors with key frame data and interpolation method \(the `samplers` property\).
+
+The following examples show the expected usage of animations.
+
+```
+{
+    "animations": [
+        {
+            "name": "Animate all properties of one node with different samplers",
+            "channels": [
+                {
+                    "sampler": 0,
+                    "target": {
+                        "node": 1,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 1,
+                    "target": {
+                        "node": 1,
+                        "path": "scale"
+                    }
+                },
+                {
+                    "sampler": 2,
+                    "target": {
+                        "node": 1,
+                        "path": "translation"
+                    }
+                }
+            ],
+            "samplers": [
+                {
+                    "input": 4,
+                    "interpolation": "LINEAR",
+                    "output": 5
+                },
+                {
+                    "input": 4,
+                    "interpolation": "LINEAR",
+                    "output": 6
+                },
+                {
+                    "input": 4,
+                    "interpolation": "LINEAR",
+                    "output": 7
+                }
+            ]
+        },
+        {
+            "name": "Animate two nodes with different samplers",
+            "channels": [
+                {
+                    "sampler": 0,
+                    "target": {
+                        "node": 0,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 1,
+                    "target": {
+                        "node": 1,
+                        "path": "rotation"
+                    }
+                }
+            ],
+            "samplers": [
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 1
+                },
+                {
+                    "input": 2,
+                    "interpolation": "LINEAR",
+                    "output": 3
+                }
+            ]
+        },
+        {
+            "name": "Animate two nodes with the same sampler",
+            "channels": [
+                {
+                    "sampler": 0,
+                    "target": {
+                        "node": 0,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 0,
+                    "target": {
+                        "node": 1,
+                        "path": "rotation"
+                    }
+                }
+            ],
+            "samplers": [
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 1
+                }
+            ]
+        },
+        {
+            "name": "Animate a node rotation channel and the weights of a Morph Target it instantiates",
+            "channels": [
+                {
+                    "sampler": 0,
+                    "target": {
+                        "node": 1,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 1,
+                    "target": {
+                        "node": 1,
+                        "path": "weights"
+                    }
+                }
+            ],
+            "samplers": [
+                {
+                    "input": 4,
+                    "interpolation": "LINEAR",
+                    "output": 5
+                },
+                {
+                    "input": 4,
+                    "interpolation": "LINEAR",
+                    "output": 6
+                }
+            ]
+        }
+    ]
+}
+```
+
+*Channels* connect the output values of the key frame animation to a specific node in the hierarchy. A channel’s `sampler` property contains the index of one of the samplers present in the containing animation’s `samplers` array. The `target` property is an object that identifies which node to animate using its `node` property, and which property of the node to animate using `path`. Non\-animated properties **MUST** keep their values during animation.
+
+When the `node` property is not defined, the animation channel is ignored unless target information is provided by other means, such as extensions.
+
+When the `node` property is defined, valid values for the `path` property include `"translation"`, `"rotation"`, `"scale"`, and `"weights"`.
+
+If the node has the `matrix` property defined, its TRS properties **MUST NOT** be targeted, i.e., the `path` property of an animation channel target that points to such a node **MUST NOT** be any of `"translation"`, `"rotation"`, or `"scale"`.
+
+|  Note  |   Rationale  Since matrix decomposition is generally ambiguous, animating only one property could result in non\-portable implementation\-dependent results. Note that `matrix` property presence does not affect the `"weights"` path.   | 
+|---|---|
+
+Nodes that do not contain a mesh with morph targets **MUST NOT** be targeted with `"weights"` path.
+
+Within one animation, each target \(a combination of a node and a path\) **MUST NOT** be used more than once.
+
+|  Note  |   Implementation Note  This prevents potential ambiguities when one target is affected by two or more overlapping samplers.   | 
+|---|---|
+
+Each of the animation’s **samplers** defines the `input`/`output` pair: a set of floating\-point scalar values representing linear time in seconds; and a set of vectors or scalars representing the animated property. All values are stored in a buffer and accessed via accessors; refer to the table below for output accessor types. Interpolation between keys is performed using the interpolation method specified in the `interpolation` property. Supported `interpolation` values include `LINEAR`, `STEP`, and `CUBICSPLINE`. See [Appendix C](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#appendix-c-interpolation) for additional information about interpolation modes.
+
+The inputs of each sampler are relative to `t = 0`, defined as the beginning of the parent `animations` entry. Before and after the provided input range, output **MUST** be clamped to the nearest end of the input range.
+
+|  Note  |   Implementation Note  For example, if the earliest sampler input for an animation is `t = 10`, a client implementation must begin playback of that animation channel at `t = 0` with output clamped to the first available output value.   | 
+|---|---|
+
+Samplers within a given animation **MAY** have different inputs.
+
+| `channel.path` |  Accessor Type |  Component Type\(s\) |  Description | 
+|---|---|---|---|
+| `"translation"` |  `"VEC3"` |  *float32* |  XYZ translation vector | 
+| `"rotation"` |  `"VEC4"` |  *float32*  *snorm8*  *unorm8*  *snorm16*  *unorm16* |  XYZW rotation quaternion | 
+| `"scale"` |  `"VEC3"` |  *float32* |  XYZ scale vector | 
+| `"weights"` |  `"SCALAR"` |  *float32*  *snorm8*  *unorm8*  *snorm16*  *unorm16* |  Weights of morph targets | 
+
+Animation sampler’s `input` accessor **MUST** have its `min` and `max` properties defined.
+
+Animation sampler data accessed with floating\-point accessors **MUST NOT** contain infinite or NaN values.
+
+|  Note  |   Implementation Note  Animations with non\-linear time inputs, such as time warps in Autodesk 3ds Max or Maya, are not directly representable with glTF animations. glTF is a runtime format and non\-linear time inputs are expensive to compute at runtime. Exporter implementations should sample a non\-linear time animation into linear inputs and outputs for an accurate representation.   | 
+|---|---|
+
+A morph target animation frame is defined by a sequence of scalars of length equal to the number of targets in the animated morph target. These scalar sequences **MUST** lie end\-to\-end as a single stream in the output accessor, whose final size is equal to the number of morph targets times the number of animation frames.
+
+Morph target animation is by nature sparse, consider using [Sparse Accessors](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#sparse-accessors) for storage of morph target animation. When used with `CUBICSPLINE` interpolation, tangents \(ak, bk\) and values \(vk\) are grouped within keyframes:
+
+a1,a2,…​an,v1,v2,…​vn,b1,b2,…​bn
+
+See [Appendix C](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#appendix-c-interpolation) for additional information about interpolation modes.
+
+Animation of skinned mesh primitives is achieved by targeting TRS properties of the nodes used as joints by the corresponding skin objects or ancestors of those nodes.
+
+### 3.12. Specifying Extensions
+[Permalink: 3.12. Specifying Extensions](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#312-specifying-extensions)
+
+glTF defines an extension mechanism that allows the base format to be extended with new capabilities. Any glTF object **MAY** have an optional `extensions` property, as in the following example:
+
+```
+{
+    "material": [
+        {
+            "extensions": {
+                "KHR_materials_sheen": {
+                    "sheenColorFactor": [
+                        1.0,
+                        0.329,
+                        0.1
+                    ],
+                    "sheenRoughnessFactor": 0.8
+                }
+            }
+        }
+    ]
+}
+```
+
+All extensions used in a glTF asset **MUST** be listed in the top\-level `extensionsUsed` array object, e.g.,
+
+```
+{
+    "extensionsUsed": [
+        "KHR_materials_sheen",
+        "VENDOR_physics"
+    ]
+}
+```
+
+All glTF extensions required to load and/or render an asset **MUST** be listed in the top\-level `extensionsRequired` array, e.g.,
+
+```
+{
+    "extensionsRequired": [
+        "KHR_texture_transform"
+    ],
+    "extensionsUsed": [
+        "KHR_texture_transform"
+    ]
+}
+```
+
+`extensionsRequired` is a subset of `extensionsUsed`. All values in `extensionsRequired` **MUST** also exist in `extensionsUsed`.
+
+## 4. GLB File Format Specification
+[Permalink: 4. GLB File Format Specification](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#4-glb-file-format-specification)
+
+### 4.1. General \(Informative\)
+[Permalink: 4.1. General (Informative)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#41-general-informative)
+
+glTF provides two delivery options that can be used together:
+-  
+
+glTF JSON points to external binary data \(geometry, key frames, skins\), and images.
+-  
+
+glTF JSON embeds base64\-encoded binary data, and images inline using data URIs.
+
+Hence, loading glTF files usually requires either separate requests to fetch all binary data, or extra space due to base64\-encoding. Base64\-encoding requires extra processing to decode and increases the file size \(by ~33% for encoded resources\). While transport\-layer gzip mitigates the file size increase, decompression and decoding still add significant loading time.
+
+To avoid this file size and processing overhead, a container format, *Binary glTF* is introduced that enables a glTF asset, including JSON, buffers, and images, to be stored in a single binary blob.
+
+A Binary glTF asset can still refer to external resources. For example, an application that wants to keep images as separate files may embed everything needed for a scene, except images, in a Binary glTF.
+
+### 4.2. Structure
+[Permalink: 4.2. Structure](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#42-structure)
+
+A Binary glTF \(which can be a file, for example\) has the following structure:
+-  
+
+A 12\-byte preamble, called the *header*.
+-  
+
+One or more *chunks* that contain JSON content and binary data.
+
+The *chunk* containing JSON **MAY** refer to external resources as usual, and **MAY** also reference resources stored within other *chunks*.
+
+### 4.3. File Extension & Media Type
+[Permalink: 4.3. File Extension & Media Type](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#43-file-extension--media-type)
+
+The file extension to be used with Binary glTF is `.glb`.
+
+The registered media type is `model/gltf\-binary`.
+
+### 4.4. Binary glTF Layout
+[Permalink: 4.4. Binary glTF Layout](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#44-binary-gltf-layout)
+
+#### 4.4.1. Overview
+[Permalink: 4.4.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#441-overview)
+
+Binary glTF is little endian. The figure below shows an example of a Binary glTF asset.
+[![glb2](https://github.com/KhronosGroup/glTF/raw/main/specification/2.0/figures/glb2.svg)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/figures/glb2.svg)
+Figure 8. Binary glTF Layout
+
+The following sections describe the structure more in detail.
+
+#### 4.4.2. Header
+[Permalink: 4.4.2. Header](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#442-header)
+
+The 12\-byte header consists of three 4\-byte entries:
+
+```
+uint32 magic
+uint32 version
+uint32 length
+```
+-  
+
+`magic` **MUST** be equal to equal `0x46546C67`. It is ASCII string `glTF` and can be used to identify data as Binary glTF.
+-  
+
+`version` indicates the version of the Binary glTF container format. This specification defines version 2.
+
+Client implementations that load GLB format **MUST** also check for the [asset version properties](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#asset) in the JSON chunk, as the version specified in the GLB header only refers to the GLB container version.
+-  
+
+`length` is the total length of the Binary glTF, including *header* and all *chunks*, in bytes.
+
+#### 4.4.3. Chunks
+[Permalink: 4.4.3. Chunks](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#443-chunks)
+
+##### 4.4.3.1. Overview
+[Permalink: 4.4.3.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#4431-overview)
+
+Each chunk has the following structure:
+
+```
+uint32 chunkLength
+uint32 chunkType
+ubyte[] chunkData
+```
+-  
+
+`chunkLength` is the length of `chunkData`, in bytes.
+-  
+
+`chunkType` indicates the type of chunk. See [Table 1](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#table-chunktypes) for details.
+-  
+
+`chunkData` is the binary payload of the chunk.
+
+The start and the end of each chunk **MUST** be aligned to a 4\-byte boundary. See chunks definitions for padding schemes. Chunks **MUST** appear in exactly the order given in [Table 1](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#table-chunktypes).
+Table 1. Chunk types 
+
+|  |  Chunk Type |  ASCII |  Description |  Occurrences | 
+|---|---|---|---|---|
+| 1. |  0x4E4F534A |  JSON |  Structured JSON content |  1 | 
+| 2. |  0x004E4942 |  BIN |  Binary buffer |  0 or 1 | 
+
+Client implementations **MUST** ignore chunks with unknown types to enable glTF extensions to reference additional chunks with new types following the first two chunks.
+
+##### 4.4.3.2. Structured JSON Content
+[Permalink: 4.4.3.2. Structured JSON Content](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#4432-structured-json-content)
+
+This chunk holds the glTF JSON, as it would be provided within a .gltf file.
+
+|  Note  |   ECMAScript Implementation Note  In a JavaScript implementation, the `TextDecoder` API can be used to extract the glTF content from the ArrayBuffer, and then the JSON can be parsed with `JSON.parse` as usual.   | 
+|---|---|
+
+This chunk **MUST** be the very first chunk of a Binary glTF asset. By reading this chunk first, an implementation is able to progressively retrieve resources from subsequent chunks. This way, it is also possible to read only a selected subset of resources from a Binary glTF asset.
+
+This chunk **MUST** be padded with trailing `Space` chars \(`0x20`\) to satisfy alignment requirements.
+
+##### 4.4.3.3. Binary buffer
+[Permalink: 4.4.3.3. Binary buffer](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#4433-binary-buffer)
+
+This chunk contains the binary payload for geometry, animation key frames, skins, and images. See [GLB\-stored Buffer](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#glb-stored-buffer) for details on referencing this chunk from JSON.
+
+This chunk **MUST** be the second chunk of the Binary glTF asset.
+
+This chunk **MUST** be padded with trailing zeros \(`0x00`\) to satisfy alignment requirements.
+
+When the binary buffer is empty or when it is stored by other means, this chunk **SHOULD** be omitted.
+
+## 5. Properties Reference
+[Permalink: 5. Properties Reference](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#5-properties-reference)
+
+|  Note  |   Note  This section is auto\-generated, and will be a broken link when previewing. View the full [Properties Reference Section](https://www.khronos.org/registry/glTF/specs/2.0/glTF-2.0.html#properties-reference). To suggest changes, open a Pull Request to edit the [JSON Schema Files](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0/schema).   | 
+|---|---|
+
+[PropertiesReference.adoc](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/PropertiesReference.adoc)
+
+## 6. Acknowledgments \(Informative\)
+[Permalink: 6. Acknowledgments (Informative)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#6-acknowledgments-informative)
+
+### 6.1. Editors
+[Permalink: 6.1. Editors](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#61-editors)
+-  
+
+Saurabh Bhatia, Microsoft
+-  
+
+Patrick Cozzi, Cesium
+-  
+
+Alexey Knyazev, Individual Contributor
+-  
+
+Tony Parisi, Unity
+
+### 6.2. Khronos 3D Formats Working Group and Alumni
+[Permalink: 6.2. Khronos 3D Formats Working Group and Alumni](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#62-khronos-3d-formats-working-group-and-alumni)
+-  
+
+Remi Arnaud, Vario
+-  
+
+Mike Bond, Adobe
+-  
+
+Leonard Daly, Individual Contributor
+-  
+
+Emiliano Gambaretto, Adobe
+-  
+
+Tobias Häußler, Dassault Systèmes
+-  
+
+Gary Hsu, Microsoft
+-  
+
+Marco Hutter, Individual Contributor
+-  
+
+Uli Klumpp, Individual Contributor
+-  
+
+Max Limper, Fraunhofer IGD
+-  
+
+Ed Mackey, Analytical Graphics, Inc.
+-  
+
+Don McCurdy, Google
+-  
+
+Scott Nagy, Microsoft
+-  
+
+Norbert Nopper, UX3D
+-  
+
+Fabrice Robinet, Individual Contributor \(Previous Editor and Incubator\)
+-  
+
+Bastian Sdorra, Dassault Systèmes
+-  
+
+Neil Trevett, NVIDIA
+-  
+
+Jan Paul Van Waveren, Oculus
+-  
+
+Amanda Watson, Oculus
+
+### 6.3. Special Thanks
+[Permalink: 6.3. Special Thanks](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#63-special-thanks)
+-  
+
+Sarah Chow, Cesium
+-  
+
+Tom Fili, Cesium
+-  
+
+Darryl Gough
+-  
+
+Eric Haines, Autodesk
+-  
+
+Yu Chen Hou, Individual Contributor
+-  
+
+Scott Hunter, Analytical Graphics, Inc.
+-  
+
+Brandon Jones, Google
+-  
+
+Arseny Kapoulkine, Individual Contributor
+-  
+
+Jon Leech, Individual Contributor
+-  
+
+Sean Lilley, Cesium
+-  
+
+Juan Linietsky, Godot Engine
+-  
+
+Matthew McMullan, Individual Contributor
+-  
+
+Mohamad Moneimne, University of Pennsylvania
+-  
+
+Kai Ninomiya, formerly Cesium
+-  
+
+Cedric Pinson, Sketchfab
+-  
+
+Jeff Russell, Marmoset
+-  
+
+Miguel Sousa, Fraunhofer IGD
+-  
+
+Timo Sturm, Fraunhofer IGD
+-  
+
+Rob Taglang, Cesium
+-  
+
+Maik Thöner, Fraunhofer IGD
+-  
+
+Steven Vergenz, AltspaceVR
+-  
+
+Corentin Wallez, Google
+-  
+
+Alex Wood, Analytical Graphics, Inc
+
+## Appendix A: JSON Schema Reference \(Informative\)
+[Permalink: Appendix A: JSON Schema Reference (Informative)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#appendix-a-json-schema-reference-informative)
+
+|  Note  |   Note  This section is auto\-generated, and will be a broken link when previewing. View the full [JSON Schema Reference](https://www.khronos.org/registry/glTF/specs/2.0/glTF-2.0.html#appendix-a-json-schema-reference). To suggest changes, open a Pull Request to edit the [JSON Schema Files](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0/schema).   | 
+|---|---|
+
+[JsonSchemaReference.adoc](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/JsonSchemaReference.adoc)
+
+## Appendix B: BRDF Implementation
+[Permalink: Appendix B: BRDF Implementation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#appendix-b-brdf-implementation)
+
+### B.1. General
+[Permalink: B.1. General](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b1-general)
+
+This chapter presents the bidirectional reflectance distribution function \(BRDF\) of the glTF 2.0 metallic\-roughness material. The BRDF describes the reflective properties of the surface of a physically based material. For a pair of directions, the BRDF returns how much light from the incoming direction is reflected from the surface in the outgoing direction.
+
+|  Note  |   Note  See [Pharr et al. \(2016\), Chapter 5.6 “Surface Reflection”](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Pharr2016), for an introduction to radiometry and the BRDF.   | 
+|---|---|
+
+The BRDF of the metallic\-roughness material is a linear interpolation of a metallic BRDF and a dielectric BRDF. The BRDFs share the parameters for roughness and base color. The blending factor `metallic` describes the metalness of the material.
+
+```
+material = mix(dielectric_brdf, metal_brdf, metallic)
+         = (1.0 - metallic) * dielectric_brdf + metallic * metal_brdf
+```
+
+|  Note  |   Note  Such a material model based on a linear interpolation of metallic and dielectric components was introduced by [Burley \(2012\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Burley2012) and adapted by many renderers, resulting in a wide range of applications supporting it.   Usually, a material is either metallic or dielectric. A texture provided for `metallic` with either `1.0` or `0.0` separates metallic from dielectric regions on the mesh. There are situations in which there is no clear separation. It may happen that due to anti\-aliasing or mip\-mapping there is a portion of metal and a portion of dielectric within a texel. Furthermore, a material composed of several semi\-transparent layers may be represented as a blend between several single\-layered materials \(layering via parameter blending\).   | 
+|---|---|
+
+The logical structure of the material is presented below, using an abstract notation that describes the material as a directed acyclic graph \(DAG\). The vertices correspond to the basic building blocks of the material model: BRDFs, mixing operators, input parameters, and constants. This is followed by an informative sample implementation as a set of equations and source code for the BRDFs and mixing operators.
+
+### B.2. Material Structure
+[Permalink: B.2. Material Structure](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b2-material-structure)
+
+#### B.2.1. Metals
+[Permalink: B.2.1. Metals](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b21-metals)
+
+Metallic surfaces reflect most illumination, only a small portion of the light is absorbed by the material.
+
+|  Note  |   Note  See [Pharr et al. \(2016\), Chapter 8.2 “Specular Reflection and Transmission”](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Pharr2016).   | 
+|---|---|
+
+This effect is described by the Fresnel term `conductor\_fresnel` with the wavelength\-dependent refractive index and extinction coefficient. To make parameterization simple, the metallic\-roughness material combines the two quantities into a single, user\-defined color value `baseColor` that defines the reflection color at normal incidence, also referred to as `f0`. The reflection color at grazing incidence is called `f90`. It is set to `1.0` because the grazing angle reflectance for any material approaches pure white in the limit. The conductor Fresnel term modulates the contribution of a specular BRDF parameterized by the `roughness` parameter.
+
+```
+metal_brdf =
+  conductor_fresnel(
+    f0 = baseColor,
+    bsdf = specular_brdf(
+      α = roughness ^ 2))
+```
+
+#### B.2.2. Dielectrics
+[Permalink: B.2.2. Dielectrics](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b22-dielectrics)
+
+Unlike metals, dielectric materials transmit most of the incident illumination into the interior of the object and the Fresnel term is parameterized only by the refractive index.
+
+|  Note  |   Note  See [Pharr et al. \(2016\), Chapter 8.2 “Specular Reflection and Transmission”](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Pharr2016).   | 
+|---|---|
+
+This makes dielectrics like glass, oil, water or air transparent. Other dielectrics, like most plastic materials, are filled with particles that absorb or scatter most or all of the transmitted light, reducing the transparency and giving the surface its colorful appearance.
+
+As a result, dielectric materials are modeled as a Fresnel\-weighted combination of a specular BRDF, simulating the reflection at the surface, and a diffuse BRDF, simulating the transmitted portion of the light that is absorbed and scattered inside the object. The reflection roughness is given by the squared `roughness` of the material. The color of the diffuse BRDF comes from the `baseColor`. The amount of reflection compared to transmission is directional\-dependent and as such determined by the Fresnel term. Its index of refraction is set to a fixed value of `1.5`, a good compromise for most opaque, dielectric materials.
+
+```
+dielectric_brdf =
+  fresnel_mix(
+    ior = 1.5,
+    base = diffuse_brdf(
+      color = baseColor),
+    layer = specular_brdf(
+      α = roughness ^ 2))
+```
+
+#### B.2.3. Microfacet Surfaces
+[Permalink: B.2.3. Microfacet Surfaces](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b23-microfacet-surfaces)
+
+The metal BRDF and the dielectric BRDF are based on a microfacet model.
+
+|  Note  |   Note  The theory behind microfacet models was developed in early works by [Torrance and Sparrow \(1967\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#TorranceSparrow1967), [Cook and Torrance \(1982\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#CookTorrance1982) and others.   | 
+|---|---|
+
+A microfacet model describes the orientation of tiny facets \(microfacets\) on the surface as a statistical distribution. The distribution determines the orientation of the facets as a random perturbation around the normal direction of the surface. The perturbation strength depends on the `roughness` parameter and varies between `0.0` \(smooth surface\) and `1.0` \(rough surface\). A number of distribution functions have been proposed in the last decades.
+
+The Trowbridge\-Reitz / GGX microfacet distribution describes the microsurface as being composed of perfectly specular, infinitesimal oblate ellipsoids, whose half\-height in the normal direction is α times the radius in the tangent plane. α = 1 gives spheres, which results in uniform reflection in all directions. This reflection behavior corresponds to a rough surface. α = 0 gives a perfectly specular surface.
+
+|  Note  |   Note  The Trowbridge\-Reitz distribution was first described by [Trowbridge and Reitz \(1975\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#TrowbridgeReitz1975). Later [Walter et al. \(2007\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Walter2007) independently developed the same distribution and called it “GGX”. They show that it is a better fit for measured data than the Beckmann distribution used by [Cook and Torrance \(1982\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#CookTorrance1982) due to its stronger tails.   | 
+|---|---|
+
+The mapping α = `roughness`2 results in more perceptually linear changes in the roughness.
+
+|  Note  |   Note  This mapping was suggested by [Burley \(2012\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Burley2012).   | 
+|---|---|
+
+The distribution only describes the proportion of each normal on the microsurface. It does not describe how the normals are organized. For this we need a microsurface profile.
+
+|  Note  |   Note  The difference between distribution and profile is detailed by [Heitz \(2014\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Heitz2014), where he in addition provides an extensive study of common microfacet profiles. Based on this work, we suggest using the Smith microsurface profile \(originally developed by [Smith \(1967\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Smith1967)\) and its corresponding masking\-shadowing function. Heitz describes the Smith profile as the most accurate model for reflection from random height fields. It assumes that height and normal between neighboring points are not correlated, implying a random set of microfacets instead of a continuous surface.   Microfacet models often do not consider multiple scattering. The shadowing term suppresses light that intersects the microsurface a second time. [Heitz et al. \(2016\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Heitz2016) extended the Smith\-based microfacet models to include a multiple scattering component, which significantly improves accuracy of predictions of the model. We suggest to incorporate multiple scattering whenever possible, either by making use of the unbiased stochastic evaluation introduced by Heitz, or one of the approximations presented later, for example by [Kulla and Conty \(2017\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#KullaConty2017) or [Turquin \(2019\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Turquin2019).   | 
+|---|---|
+
+#### B.2.4. Complete Model
+[Permalink: B.2.4. Complete Model](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b24-complete-model)
+
+The BRDFs and mixing operators used in the metallic\-roughness material are summarized in the following figure.
+[![pbr](https://github.com/KhronosGroup/glTF/raw/main/specification/2.0/figures/pbr.svg)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/figures/pbr.svg)
+Figure 9. BRDFs and Mixing Operators
+
+The glTF Specification is designed to allow applications to choose different lighting implementations based on their requirements. Some implementations **MAY** focus on an accurate simulation of light transport while others **MAY** choose to deliver real\-time performance. Therefore, any implementation that adheres to the rules for mixing BRDFs is conformant to the glTF Specification.
+
+In a physically accurate light simulation, the BRDFs **MUST** follow some basic principles: the BRDF **MUST** be positive, reciprocal, and energy conserving. This ensures that the visual output of the simulation is independent of the underlying rendering algorithm, if it is unbiased.
+
+The unbiased light simulation with physically realistic BRDFs will be the ground\-truth for approximations in real\-time renderers that are often biased, but still give visually pleasing results.
+
+### B.3. Sample Implementation \(Informative\)
+[Permalink: B.3. Sample Implementation (Informative)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b3-sample-implementation-informative)
+
+#### B.3.1. Overview
+[Permalink: B.3.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b31-overview)
+
+Often, renderers use approximations to solve the rendering equation, like the split\-sum approximation for image based lighting, or simplify the math to save instructions and reduce register pressure. However, there are many ways to achieve good approximations, depending on the platform.
+
+A sample implementation is available at [https://github.com/KhronosGroup/glTF\-Sample\-Viewer/](https://github.com/KhronosGroup/glTF-Sample-Viewer/) and provides an example of a WebGL 2.0 implementation of a standard BRDF based on the glTF material parameters. To achieve high performance in real\-time applications, this implementation uses several approximations and uses non\-physical simplifications that break energy\-conservation and reciprocity.
+
+We use the following notation:
+-  
+
+**V** is the normalized vector from the shading location to the eye
+-  
+
+**L** is the normalized vector from the shading location to the light
+-  
+
+**N** is the surface normal in the same space as the above values
+-  
+
+**H** is the half vector, where **H** = normalize\(**L** \+ **V**\)
+
+#### B.3.2. Specular BRDF
+[Permalink: B.3.2. Specular BRDF](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b32-specular-brdf)
+
+|  Note  |   Note  This section contains formulas that may not display correctly in all preview tools. View the full [Specular BRDF Section](https://www.khronos.org/registry/glTF/specs/2.0/glTF-2.0.html#specular-brdf).   | 
+|---|---|
+
+The specular reflection `specular\_brdf\(α\)` is a microfacet BRDF
+\\\[\\text\{MicrofacetBRDF\} = \\frac\{G D\}\{4 \\, \\left\|N \\cdot L \\right\| \\, \\left\| N \\cdot V \\right\|\}\\\] 
+
+with the Trowbridge\-Reitz/GGX microfacet distribution
+\\\[D = \\frac\{\\alpha^2 \\, \\chi^\{\+\}\(N \\cdot H\)\}\{\\pi \(\(N \\cdot H\)^2 \(\\alpha^2 \- 1\) \+ 1\)^2\}\\\] 
+
+and the height\-correlated form of the Smith joint masking\-shadowing function
+\\\[G = \\frac\{2 \\, \\left\| N \\cdot L \\right\| \\, \\left\| N \\cdot V \\right\| \\, \\chi^\{\+\}\(H \\cdot L\) \\, \\chi^\{\+\}\(H \\cdot V\)\}\{\\left\| N \\cdot V \\right\| \\, \\sqrt\{\\alpha^2 \+ \(1 \- \\alpha^2\) \(N \\cdot L\)^2\} \+ \\left\| N \\cdot L \\right\| \\, \\sqrt\{\\alpha^2 \+ \(1 \- \\alpha^2\) \(N \\cdot V\)^2\}\}\\\] 
+
+where χ\+\(**x**\) denotes the Heaviside function: 1 if **x** > 0 and 0 if **x** ⇐ 0. See [Heitz \(2014\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Heitz2014) for a derivation of the formulas.
+
+Introducing the visibility function \\\(\\nu\\\)
+\\\[\\nu = \\frac\{G\}\{4 \\, \\left\| N \\cdot L \\right\| \\, \\left\| N \\cdot V \\right\|\}\\\] 
+
+simplifies the original microfacet BRDF to
+\\\[\\text\{MicrofacetBRDF\} = \\nu D\\\] 
+
+with
+\\\[\\nu = \\frac\{\\chi^\{\+\}\(H \\cdot L\) \\, \\chi^\{\+\}\(H \\cdot V\)\}\{2 \\, \(\\left\| N \\cdot V \\right\| \\, \\sqrt\{\\alpha^2 \+ \(1 \- \\alpha^2\) \(N \\cdot L\)^2\} \+ \\left\| N \\cdot L \\right\| \\, \\sqrt\{\\alpha^2 \+ \(1 \- \\alpha^2\) \(N \\cdot V\)^2\}\)\}\\\] 
+
+Thus, we have the function
+
+```
+function specular_brdf(α) {
+  return Vis * D
+}
+```
+
+|  Note  |    A roughness of zero \(α = 0\) cannot be evaluated directly with this formulation. As α approaches zero, the GGX distribution \\\(D\\\) collapses to a delta function and the BRDF becomes singular, leading to divisions by zero or numerically unstable results. Implementations should therefore never use α = 0 in the equations above. Instead, α should be clamped to a small positive value, or the surface should be handled as an ideal specular \(mirror\) reflector using a separate code path.   | 
+|---|---|
+
+#### B.3.3. Diffuse BRDF
+[Permalink: B.3.3. Diffuse BRDF](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b33-diffuse-brdf)
+
+|  Note  |   Note  This section contains formulas that may not display correctly in all preview tools. View the full [Diffuse BRDF Section](https://www.khronos.org/registry/glTF/specs/2.0/glTF-2.0.html#diffuse-brdf).   | 
+|---|---|
+
+The diffuse reflection `diffuse\_brdf\(color\)` is a Lambertian BRDF
+\\\[\\text\{LambertianBRDF\} = \\frac\{1\}\{\\pi\}\\\] 
+
+multiplied with the `color`.
+
+```
+function diffuse_brdf(color) {
+  return (1/pi) * color
+}
+```
+
+#### B.3.4. Fresnel
+[Permalink: B.3.4. Fresnel](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b34-fresnel)
+
+|  Note  |   Note  This section contains formulas that may not display correctly in all preview tools. View the full [Fresnel Section](https://www.khronos.org/registry/glTF/specs/2.0/glTF-2.0.html#fresnel).   | 
+|---|---|
+
+An inexpensive approximation for the Fresnel term that can be used for conductors and dielectrics was developed by [Schlick \(1994\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Schlick1994):
+\\\[F = f\_0 \+ \(1 \- f\_0\) \(1 \- \\left\| V \\cdot H \\right\| \)^5\\\] 
+
+The conductor Fresnel `conductor\_fresnel\(f0, bsdf\)` applies a view\-dependent tint to a BSDF:
+
+```
+function conductor_fresnel(f0, bsdf) {
+  return bsdf * (f0 + (1 - f0) * (1 - abs(VdotH))^5)
+}
+```
+
+For the dielectric BRDF a diffuse component `base` and a specular component `layer` are combined via `fresnel\_mix\(ior, base, layer\)`. The `f0` color is now derived from the index of refraction `ior`.
+
+```
+function fresnel_mix(ior, base, layer) {
+  f0 = ((1-ior)/(1+ior))^2
+  fr = f0 + (1 - f0)*(1 - abs(VdotH))^5
+  return mix(base, layer, fr)
+}
+```
+
+#### B.3.5. Metal BRDF and Dielectric BRDF
+[Permalink: B.3.5. Metal BRDF and Dielectric BRDF](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b35-metal-brdf-and-dielectric-brdf)
+
+Now that we have an implementation for all the functions used in the glTF metallic\-roughness material model, we are able to connect the functions according to the graph shown in section [“Complete Model”](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#complete-model). By substituting the mixing functions \(`fresnel\_mix`, `conductor\_fresnel`\) for the implementation, we arrive at the following BRDFs for the metal and the dielectric component:
+
+```
+metal_brdf = specular_brdf(roughness^2) * (baseColor.rgb + (1 - baseColor.rgb) * (1 - abs(VdotH))^5)
+dielectric_brdf = mix(diffuse_brdf(baseColor.rgb), specular_brdf(roughness^2), 0.04 + (1 - 0.04) * (1 - abs(VdotH))^5)
+```
+
+Note that the dielectric index of refraction `ior = 1.5` is now `f0 = 0.04`.
+
+Metal and dielectric are mixed according to the metalness:
+
+```
+material = mix(dielectric_brdf, metal_brdf, metallic)
+```
+
+The full code is given below:
+
+```
+fresnel_w = (1 - abs(VdotH))^5
+
+diffuse_brdf = (1 / π) * baseColor.rgb
+specular_brdf = D(roughness^2) * G(roughness^2) / (4 * abs(VdotN) * abs(LdotN))
+
+dielectric_f0 = 0.04
+dielectric_fresnel = dielectric_f0 + (1 - dielectric_f0) * fresnel_w
+dielectric_brdf = mix(diffuse_brdf, specular_brdf, dielectric_fresnel)
+
+metal_fresnel = baseColor.rgb + (1 - baseColor.rgb) * fresnel_w
+metal_brdf = metal_fresnel * specular_brdf
+
+material = mix(dielectric_brdf, metal_brdf, metallic)
+```
+
+#### B.3.6. Discussion
+[Permalink: B.3.6. Discussion](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b36-discussion)
+
+##### B.3.6.1. Masking\-Shadowing Term and Multiple Scattering
+[Permalink: B.3.6.1. Masking-Shadowing Term and Multiple Scattering](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b361-masking-shadowing-term-and-multiple-scattering)
+
+The model for specular reflection can be improved in several ways. [Heitz \(2014\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Heitz2014) notes that a more accurate form of the masking\-shadowing function takes the correlation between masking and shadowing due to the height of the microsurface into account. This correlation is accounted for in the height\-correlated masking and shadowing function. Another improvement in accuracy can be achieved by modeling multiple scattering, see Section [Microfacet Surfaces](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#microfacet-surfaces).
+
+##### B.3.6.2. Schlick’s Fresnel Approximation
+[Permalink: B.3.6.2. Schlick’s Fresnel Approximation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b362-schlicks-fresnel-approximation)
+
+Although Schlick’s Fresnel is a good approximation for a wide range of metallic and dielectric materials, there are a couple of reasons to use a more sophisticated solution for the Fresnel term.
+
+Metals often exhibit a “dip” in reflectance near grazing angles, which is not present in the Schlick Fresnel. [Lazányi and Szirmay\-Kalos \(2005\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#LazanyiSzirmayKalos2005) extend the Schlick Fresnel with an error term to account for it. [Hoffman \(2019\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Hoffman2019) improves the parameterization of this term by introducing an artist\-friendly `f82` color, the color at an angle of about 82°. An additional color parameter for metals was also introduced by [Gulbrandsen \(2014\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Gulbrandsen2014). Gulbrandson calls it “edge tint” and uses it in the full Fresnel equations instead of Schlick’s approximation. Even though the full Fresnel equations should give a more accurate result, Hoffman shows that it is worse than Schlick’s approximation in the context of RGB renderers. As we target RGB renderers and do not provide an additional color parameter for metals in glTF, we suggest using the original Schlick Fresnel for metals.
+
+The index of refraction of most dielectrics is 1.5. For that reason, the dielectric Fresnel term uses a fixed `f0 = 0.04`. The Schlick Fresnel approximates the full Fresnel equations well for an index of refraction in the range \[1.2, 2.2\]. The main reason for a material to fall outside this range is transparency and nested objects. If a transparent object overlaps another transparent object and both have the same \(or similar\) index of refraction, the resulting ratio at the boundary is 1 \(or close to 1\). According to the full Fresnel equations, there is no \(or almost no\) reflection in this case. The reflection intensity computed from the Schlick Fresnel approximation will be too high. Implementations that care about accuracy in case of nested dielectrics are encouraged to use the full Fresnel equations for dielectrics. For metals Schlick’s approximation is still a good choice.
+
+##### B.3.6.3. Coupling Diffuse and Specular Reflection
+[Permalink: B.3.6.3. Coupling Diffuse and Specular Reflection](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b363-coupling-diffuse-and-specular-reflection)
+
+While the coupling of diffuse and specular components in `fresnel\_mix` as proposed in this section is simple and cheap to compute, it is not very accurate and breaks a fundamental property that a physically based BRDF must fulfill — energy conservation. Energy conservation means that a BRDF must not reflect more light than it receives. Several fixes have been proposed, each with its own trade\-offs regarding performance and quality.
+
+[Burley \(2012\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Burley2012) notes that a common solution found in many models calculates the diffuse Fresnel factor by evaluating the Fresnel term twice with view and light direction instead of the half vector: `\(1\-F\(NdotL\)\) \* \(1\-F\(NdotV\)\)`. While this is energy\-conserving, he notes that this weighting results in significant darkening at grazing angles, an effect they couldn’t observe in their measurements. They propose some changes to the diffuse BRDF to make it better predict the measurements, but even the fixed version is still not energy conserving mathematically.
+
+More recently, [Jakob et al. \(2014\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#Jakob2014) developed a generic framework for computing BSDFs of layered materials, including multiple scattering within layers. Amongst much more complicated scenarios it also solves the special case of coupling diffuse and specular components, but it is too heavy for textured materials, even in offline rendering.
+
+[Kulla and Conty \(2017\)](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#KullaConty2017) found a solution tailored to the special case of coupling diffuse and specular components, which is easy to compute. It requires the directional albedo of the Fresnel\-weighted specular BRDF to be precomputed and tabulated, but they found that the function is smooth, and a low\-resolution 3D texture \(16³ pixels\) is sufficient. Their coupled diffuse\-specular model is not only energy\-*con*serving, but also energy\-*pre*serving, meaning that if neither the specular nor the diffuse component absorb any energy, all energy is reflected.
+
+### B.4. References
+[Permalink: B.4. References](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#b4-references)
+-  
+
+[Burley, B. \(2012\): Physically\-Based Shading at Disney.](https://disneyanimation.com/publications/physically-based-shading-at-disney/)
+-  
+
+[Cook, R. L., and K. E. Torrance \(1982\): A Reflectance Model for Computer Graphics. ACM Transactions on Graphics 1 \(1\), 7\-24.](https://graphics.pixar.com/library/ReflectanceModel/paper.pdf)
+-  
+
+[Gulbrandsen, O. \(2014\): Artist Friendly Metallic Fresnel](http://jcgt.org/published/0003/04/03/paper-lowres.pdf)
+-  
+
+[Heitz, E. \(2014\): Understanding the Masking\-Shadowing Function in Microfacet\-Based BRDFs](http://jcgt.org/published/0003/02/03/paper.pdf)
+-  
+
+[Heitz, E., J. Hanika, E. d’Eon, and C. Dachsbacher \(2016\): Multiple\-Scattering Microfacet BSDFs with the Smith Model](https://eheitzresearch.wordpress.com/240-2/)
+-  
+
+[Naty Hoffman \(2019\): Fresnel Equations Considered Harmful](https://renderwonk.com/publications/mam2019/)
+-  
+
+[Jakob, W., E. d’Eon, O. Jakob, S. Marschner \(2014\): A Comprehensive Framework for Rendering Layered Materials](https://research.cs.cornell.edu/layered-sg14/)
+-  
+
+[Kulla, C., and A. Conty \(2017\): Revisiting Physically Based Shading at Imageworks](https://blog.selfshadow.com/publications/s2017-shading-course/imageworks/s2017_pbs_imageworks_slides_v2.pdf)
+-  
+
+[Lazanyi, I. and L. Szirmay\-Kalos \(2005\): Fresnel term approximations for metals](http://wscg.zcu.cz/WSCG2005/Papers_2005/Short/H29-full.pdf)
+-  
+
+[Pharr, M., W. Jakob, and G. Humphreys \(2016\): Physically Based Rendering: From Theory To Implementation, 3rd edition.](https://www.pbr-book.org/)
+-  
+
+[Schlick, C. \(1994\): An Inexpensive BRDF Model for Physically\-based Rendering. Computer Graphics Forum 13, 233\-246.](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.50.2297&rep=rep1&type=pdf)
+-  
+
+[Smith, B. \(1967\): Geometrical shadowing of a random rough surface. IEEE Transactions on Antennas and Propagation 15 \(5\), 668\-671.](https://ieeexplore.ieee.org/document/1138991)
+-  
+
+[Torrance, K. E., E. M. Sparrow \(1967\): Theory for Off\-Specular Reflection From Roughened Surfaces. Journal of the Optical Society of America 57 \(9\), 1105\-1114.](https://www.graphics.cornell.edu/~westin/pubs/TorranceSparrowJOSA1967.pdf)
+-  
+
+[Trowbridge, T., and K. P. Reitz \(1975\): Average irregularity representation of a rough surface for ray reflection. Journal of the Optical Society of America 65 \(5\), 531\-536.](https://www.osapublishing.org/josa/abstract.cfm?uri=josa-65-5-531)
+-  
+
+[Turquin E. \(2019\): Practical multiple scattering compensation for microfacet models](https://blog.selfshadow.com/publications/turquin/ms_comp_final.pdf)
+-  
+
+[Walter, B., S. Marschner, H. Li, and K. Torrance \(2007\): Microfacet models for refraction through rough surfaces.](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.html)
+
+## Appendix C: Animation Sampler Interpolation Modes
+[Permalink: Appendix C: Animation Sampler Interpolation Modes](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#appendix-c-animation-sampler-interpolation-modes)
+
+### C.1. Overview
+[Permalink: C.1. Overview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#c1-overview)
+
+|  Note  |   Note  This appendix contains formulas that may not display correctly in all preview tools. View the full [Appendix C: Animation Sampler Interpolation Modes](https://www.khronos.org/registry/glTF/specs/2.0/glTF-2.0.html#appendix-c-interpolation).   | 
+|---|---|
+
+Animation sampler interpolation modes define how to compute values of animated properties for the timestamps located between the keyframes. When the current \(requested\) timestamp exists in the animation data, its associated property value is used as\-is, without interpolation.
+
+For the following sections, let
+-  
+
+\\$n\\$ be the total number of keyframes, \\$n > 0\\$;
+-  
+
+\\$t\_k\\$ be the timestamp of the \\$k\\$\-th keyframe, \\$k \\in \[1,n\]\\$;
+-  
+
+\\$v\_k\\$ be the animated property value of the \\$k\\$\-th keyframe;
+-  
+
+\\$t\_c\\$ be the current \(requested\) timestamp, \\$t\_k < t\_c < t\_\{k\+1\}\\$;
+-  
+
+\\$t\_d = t\_\{k \+ 1\} \- t\_k\\$ be the duration of the interpolation segment;
+-  
+
+\\$t = \(t\_c \- t\_k\) / t\_d\\$ be the segment\-normalized interpolation factor.
+
+The scalar\-vector multiplications are per vector component.
+
+### C.2. Step Interpolation
+[Permalink: C.2. Step Interpolation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#c2-step-interpolation)
+
+This mode is used when the animation sampler interpolation mode is set to `STEP`.
+
+The interpolated sampler value \\$v\_t\\$ at the current \(requested\) timestamp \\$t\_c\\$ is computed as follows.
+\\\[v\_t = v\_k\\\] 
+
+### C.3. Linear Interpolation
+[Permalink: C.3. Linear Interpolation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#c3-linear-interpolation)
+
+This mode is used when the animation sampler interpolation mode is set to `LINEAR` and the animated property is not `rotation`.
+
+The interpolated sampler value \\$v\_t\\$ at the current \(requested\) timestamp \\$t\_c\\$ is computed as follows.
+\\\[v\_t = \(1 \- t\) \\cdot v\_k \+ t \\cdot v\_\{k\+1\}\\\] 
+
+### C.4. Spherical Linear Interpolation
+[Permalink: C.4. Spherical Linear Interpolation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#c4-spherical-linear-interpolation)
+
+This mode is used when the animation sampler interpolation mode is set to `LINEAR` and the animated property is `rotation`, i.e., values of the animated property are unit quaternions.
+
+Let
+-  
+
+\\\(a = \\arccos\(\|v\_k \\cdot v\_\{k\+1\}\|\)\\\) be the arccosine of the absolute value of the dot product of two consecutive quaternions;
+-  
+
+\\\(s = \\frac\{v\_k \\cdot v\_\{k\+1\}\}\{\|v\_k \\cdot v\_\{k\+1\}\|\}\\\) be the sign of the dot product of two consecutive quaternions.
+
+The interpolated sampler value \\$v\_t\\$ at the timestamp \\$t\_c\\$ is computed as follows.
+\\\[v\_t = \\frac\{\\sin\(a \\cdot \(1 \- t\)\)\}\{\\sin\(a\)\} \\cdot v\_k \+ s \\cdot \\frac\{\\sin\(a \\cdot t\)\}\{\\sin\(a\)\} \\cdot v\_\{k\+1\}\\\] 
+
+|  Note  |   Implementation Note  Using the dot product’s absolute value for computing \\$a\\$ and multiplying \\$v\_\{k\+1\}\\$ by the dot product’s sign ensure that the spherical interpolation follows the short path along the great circle defined by the two quaternions.   | 
+|---|---|
+
+Implementations **MAY** approximate these equations to reach application\-specific accuracy and/or performance targets.
+
+|  Note  |   Implementation Note  When \\$a\\$ is close to zero, spherical linear interpolation turns into regular linear interpolation.   | 
+|---|---|
+
+### C.5. Cubic Spline Interpolation
+[Permalink: C.5. Cubic Spline Interpolation](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/Specification.adoc#c5-cubic-spline-interpolation)
+
+This mode is used when the animation sampler interpolation mode is set to `CUBICSPLINE`.
+
+An animation sampler that uses cubic spline interpolation **MUST** have at least 2 keyframes.
+
+For each timestamp stored in the animation sampler, there are three associated keyframe values: in\-tangent, property value, and out\-tangent.
+
+Let
+-  
+
+\\$a\_k\\$, \\$v\_k\\$, and \\$b\_k\\$ be the in\-tangent, the property value, and the out\-tangent of the \\$k\\$\-th frame respectively.
+
+The interpolated sampler value \\$v\_t\\$ at the timestamp \\$t\_c\\$ is computed as follows.
+\\\[v\_t = \(2t^3 \- 3t^2 \+ 1\) \\cdot v\_k \+ t\_d \\cdot \(t^3 \- 2t^2 \+ t\) \\cdot b\_k \+ \(\-2t^3 \+ 3t^2\) \\cdot v\_\{k\+1\} \+ t\_d \\cdot \(t^3 \- t^2\) \\cdot a\_\{k\+1\}\\\] 
+
+When the animation sampler targets a node’s rotation property, the interpolated quaternion **MUST** be normalized before applying the result to the node’s rotation.
+
+When writing out rotation values, exporters **SHOULD** take care to not write out values that can result in an invalid quaternion with all zero values being produced by the interpolation.
+
+|  Note  |   Implementation Note  This can be achieved by ensuring that \\$v\_k \!= \-v\_\{k\+1\}\\$ for all keyframes.   | 
+|---|---|
+
+The first in\-tangent \\$a\_1\\$ and last out\-tangent \\$b\_n\\$ **SHOULD** be zeros as they are not used in the spline calculations.
